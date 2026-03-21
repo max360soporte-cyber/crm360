@@ -1,0 +1,5222 @@
+﻿[
+    {
+        "id":  543,
+        "ruc":  "1400574131001",
+        "business_name":  "GUZMAN VARGAS DORIS CARMINA",
+        "trade_name":  "HOTEL LA ORQUÍDEA",
+        "parent_address":  "MORONA SANTIAGO / LIMON - INDANZA / GENERAL LEONIDAS PLAZA GUTIERREZ (LIMON) / AV. 12 DE DICIEMBRE 451 Y ISAAC ORELLANA",
+        "mobile":  "0986775383",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-09"
+    },
+    {
+        "id":  542,
+        "ruc":  "1400971014001",
+        "business_name":  "BRITO PEÑARANDA KENNY SANTIAGO",
+        "trade_name":  "TUTAINA LIQUOR STORE",
+        "parent_address":  "MORONA SANTIAGO / LIMON - INDANZA / GENERAL LEONIDAS PLAZA GUTIERREZ (LIMON) / AVENIDA 12 DE DICIEMBRE SN Y ALBERTO ESPINOZA",
+        "mobile":  "0986886879",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-09"
+    },
+    {
+        "id":  541,
+        "ruc":  "0804758225001",
+        "business_name":  "ROLDAN TAMAYO ROXANA ELIZABETH",
+        "trade_name":  "ELI ROLDAN",
+        "parent_address":  "SANTO DOMINGO DE LOS TSACHILAS / SANTO DOMINGO / RIO VERDE / ANGEL INTRIAGO SOLAR 4 Y AV 6 DE DICIEMBRE",
+        "mobile":  "0985944429",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-09"
+    },
+    {
+        "id":  540,
+        "ruc":  "0102523909001",
+        "business_name":  "VILLAVICENCIO CORONEL DIANA CATALINA",
+        "trade_name":  "TIENDA EL OSITO",
+        "parent_address":  "AZUAY / CUENCA / TOTORACOCHA / CHICHEN ITZA S/N Y AV. LOS ANDES",
+        "mobile":  "0992838846",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-09"
+    },
+    {
+        "id":  539,
+        "ruc":  "1900658772001",
+        "business_name":  "ARMIJOS QUEZADA VICTOR ARMANDO",
+        "trade_name":  "BAR KOCUS",
+        "parent_address":  "ZAMORA CHINCHIPE / YANTZAZA / YANZATZA / ROLDAN GUAILLAS SN Y ZAMORA",
+        "mobile":  "0993777398",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-03-08"
+    },
+    {
+        "id":  538,
+        "ruc":  "1312610692001",
+        "business_name":  "ALONZO ALVIA ANA ANNABELL",
+        "trade_name":  "LE JARDIN D\u0027ANA BOUTIQUE - CAFE",
+        "parent_address":  "MANABI / PORTOVIEJO / 18 DE OCTUBRE / AVDA MANABI 00 Y LOS MANGOS",
+        "mobile":  "0963724788",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-08"
+    },
+    {
+        "id":  537,
+        "ruc":  "0103670873001",
+        "business_name":  "CARDENAS VALLADARES ROVER WILBERTO",
+        "trade_name":  "VERDUEXPRES",
+        "parent_address":  "AZUAY / CUENCA / SAN SEBASTIAN / AV. ORDOÑEZ LASSO S/N Y S I",
+        "mobile":  "0980269740",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-07"
+    },
+    {
+        "id":  536,
+        "ruc":  "1850803410001",
+        "business_name":  "CHISAGUANO ANALUISA JOSE DANIEL",
+        "trade_name":  "HACIENDA DON JOSE",
+        "parent_address":  "PICHINCHA / QUITO / LA MENA / OE8 HERNAN GMOINER S18-175 Y S19 ANGAMARCA",
+        "mobile":  "0997900180",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-03-07"
+    },
+    {
+        "id":  535,
+        "ruc":  "0916456882001",
+        "business_name":  "USUSARIO POROCUPAR",
+        "trade_name":  "USUSARIO POROCUPAR",
+        "parent_address":  "GUAYAS / NARANJITO / S/N",
+        "mobile":  "0993347577",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-03-06"
+    },
+    {
+        "id":  534,
+        "ruc":  "1716836554001",
+        "business_name":  "CUELLAR JARAMILLO ALEX SANTIAGO",
+        "trade_name":  "MAMADELIA",
+        "parent_address":  "SANTO DOMINGO DE LOS TSACHILAS / SANTO DOMINGO / BOMBOLI / ALBERTO COLOMA S/N Y AV MONS PEDRO SCHUMACHER",
+        "mobile":  "0999137469",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-03-06"
+    },
+    {
+        "id":  533,
+        "ruc":  "1714339387001",
+        "business_name":  "VASCONEZ NAVAS ALEX IVAN",
+        "trade_name":  "SIN NOMBRE COMERCIAL 003",
+        "parent_address":  "------------- Cumbaya, Leonardo de Legarda y los Muros edificio PIRACANTO",
+        "mobile":  "0994035980",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-03-06"
+    },
+    {
+        "id":  532,
+        "ruc":  "2100116645001",
+        "business_name":  "ORELLANA DELGADO CHRISTIAN ARNALDO",
+        "trade_name":  "SIN NOMBRE COMERCIAL",
+        "parent_address":  "SUCUMBIOS / LAGO AGRIO / NUEVA LOJA / ELOY ALFARO 408 Y FRANCISCO DE ORELLANA",
+        "mobile":  "0939541300",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-05"
+    },
+    {
+        "id":  531,
+        "ruc":  "1754227641001",
+        "business_name":  "JARAMILLO BENITEZ JORDAN DAVID",
+        "trade_name":  "FARMACIAS 3J",
+        "parent_address":  "PICHINCHA / PEDRO MONCAYO / TABACUNDO / PACIFICO PROAÑO S/N Y ISIDRO AYORA",
+        "mobile":  "0995253448",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2026-03-05"
+    },
+    {
+        "id":  530,
+        "ruc":  "0603342007001",
+        "business_name":  "ARIAS ZAPATA MARCO AUGUSTO",
+        "trade_name":  "ZAPATITO CLEAN",
+        "parent_address":  "CHIMBORAZO / RIOBAMBA / LIZARZABURU / AV MILTON REYES C11 Y AV 11 DE NOVIEMBRE",
+        "mobile":  "0998573165",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-05"
+    },
+    {
+        "id":  529,
+        "ruc":  "0604975136001",
+        "business_name":  "TOTOY GUEVARA HENRY MAURICIO",
+        "trade_name":  "ACCESORIOS HEMA",
+        "parent_address":  "CHIMBORAZO / COLTA / CAJABAMBA / AV UNIDAD NACIONAL PANAMERICANA SUR S/N Y SN",
+        "mobile":  "0999263137",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-05"
+    },
+    {
+        "id":  528,
+        "ruc":  "1723065460001",
+        "business_name":  "ALTAMIRANO SOSAPANTA INGRITH VALERIA",
+        "trade_name":  "MM MANUELITO Y MERCEDITAS COMERCIAL",
+        "parent_address":  "SANTO DOMINGO / GUAYAQUIL SN Y CALLE CUENCA",
+        "mobile":  "0989600011",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-04"
+    },
+    {
+        "id":  527,
+        "ruc":  "0705871648001",
+        "business_name":  "MOREIRA CEDEÑO ALEXIS GREGORIO",
+        "trade_name":  "BAZAR Y NOVEDADES MAITE",
+        "parent_address":  "Coop 5 de junio bloque B1 Mz A sl 14",
+        "mobile":  "0993580601",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-04"
+    },
+    {
+        "id":  526,
+        "ruc":  "1203166119001",
+        "business_name":  "MENDOZA CEDEÑO LIGIA ARAVEYA",
+        "trade_name":  "LOS BOLONES DE LA VERSALLES",
+        "parent_address":  "PICHINCHA / QUITO / BELISARIO QUEVEDO / VERSALLES N28-35 Y SELVA ALEGRE",
+        "mobile":  "0984777961",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-04"
+    },
+    {
+        "id":  525,
+        "ruc":  "1311763039001",
+        "business_name":  "SUAREZ VERA LUCIA EDITH",
+        "trade_name":  "ALITAS \u0026 MÁS DE LJ",
+        "parent_address":  "MANABI / PORTOVIEJO / 18 DE OCTUBRE / TENNIS CLUB SN Y AVENIDA MANABI Y 5 DE JUNIO",
+        "mobile":  "0964264553",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-03-03"
+    },
+    {
+        "id":  524,
+        "ruc":  "0924450802001",
+        "business_name":  "GALARZA QUINDE JOSE OSWALDO",
+        "trade_name":  "PICANTERIA EL MANABA",
+        "parent_address":  "GUAYAS / DAULE / LA AURORA (SATÉLITE) / AV LEON FEBRES CORDERO S/N Y AV 18 DE AGOSTO",
+        "mobile":  "0939513991",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-03-02"
+    },
+    {
+        "id":  523,
+        "ruc":  "1311282402001",
+        "business_name":  "MENDOZA ZAMBRANO MARIA ELENA",
+        "trade_name":  "SANTA CERELITA PHARMACY",
+        "parent_address":  "SANTO DOMINGO DE LOS COLORADOS / AV PRINCIPAL SN Y A. CHONE",
+        "mobile":  "0987185249",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2026-03-02"
+    },
+    {
+        "id":  522,
+        "ruc":  "0705774420001",
+        "business_name":  "PESANTEZ RIVERA JAMEL IRACEMA",
+        "trade_name":  "MINIMARKET JAMELITA",
+        "parent_address":  "EL ORO / MACHALA / LA PROVIDENCIA / AV ALEJANDRO CASTRO BENITEZ S/N Y BRASIL",
+        "mobile":  "0959713704",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-03-02"
+    },
+    {
+        "id":  521,
+        "ruc":  "1003553029001",
+        "business_name":  "MIÑO NARVAEZ YTZEL AMAIRANI",
+        "trade_name":  "LA CABA",
+        "parent_address":  "CHIMBORAZO / RIOBAMBA / LIZARZABURU / DUCHICELA 19-20 Y MONTERREY",
+        "mobile":  "0985319745",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-28"
+    },
+    {
+        "id":  520,
+        "ruc":  "0604995431001",
+        "business_name":  "TRUJILLO RUIZ SANDRO PAUL",
+        "trade_name":  "BELLAVISTA BURGER SEIS",
+        "parent_address":  "CHIMBORAZO / RIOBAMBA / VELOZ / MADRID 37 Y 10 DE AGOSTO",
+        "mobile":  "0996425294",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-28"
+    },
+    {
+        "id":  519,
+        "ruc":  "1725451098001",
+        "business_name":  "ALVAREZ ESCUDERO JAVIER ALBERTO",
+        "trade_name":  "LA INDUSTRIA VALLE HERMOSO",
+        "parent_address":  "SANTO DOMINGO, VALLE HERMOSO, LOJA SN Y PICHINCHA",
+        "mobile":  "0964146163",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-28"
+    },
+    {
+        "id":  518,
+        "ruc":  "0601290000001",
+        "business_name":  "HERNANDEZ PINO LUIS FABIAN",
+        "trade_name":  "PIZZERIA MONREAL",
+        "parent_address":  "CHIMBORAZO / RIOBAMBA / VELASCO / LA GEORGINA MZ5 L10 Y AV DE LA PRENSA",
+        "mobile":  "0984045038",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-27"
+    },
+    {
+        "id":  517,
+        "ruc":  "2200252514001",
+        "business_name":  "RODRIGUEZ MONAR FRANKLIN PATRICIO",
+        "trade_name":  "TALLER DE MOTOS F R",
+        "parent_address":  "ORELLANA / ORELLANA / LA BELLEZA / VIA LOS ZORROS S/N",
+        "mobile":  "0988200790",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-27"
+    },
+    {
+        "id":  516,
+        "ruc":  "2300225469001",
+        "business_name":  "GUZMAN LOZADA BRYAN ALEXANDER",
+        "trade_name":  "LUJOCAR2",
+        "parent_address":  "SANTO DOMINGO / RIO VERDE / AV. JACINTO CORTEZ JHAYYA S/N Y AURELIO MOSQUERA",
+        "mobile":  "0997019018",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-27"
+    },
+    {
+        "id":  515,
+        "ruc":  "0991287450001",
+        "business_name":  "COLEGIO REGIONAL DE INGENIEROS QUIMICOS DEL LITORAL",
+        "trade_name":  "COLEGIO REGIONAL DE INGENIEROS QUIMICOS DEL LITORAL",
+        "parent_address":  "GUAYAS / GUAYAQUIL / TARQUI / AV. JUAN TANCA MARENGO SOLAR 8 Y AV. AGUSTIN FREIRE POTES",
+        "mobile":  "0968044069",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-27"
+    },
+    {
+        "id":  514,
+        "ruc":  "0750650491001",
+        "business_name":  "CASTRO CAMPAÑA LADY LOURDES",
+        "trade_name":  "MUSHU",
+        "parent_address":  "EL ORO / MACHALA / MACHALA / BELLAVISTA NA12 Y HECTOR TORO",
+        "mobile":  "0992963527",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-27"
+    },
+    {
+        "id":  513,
+        "ruc":  "1306706720001",
+        "business_name":  "ARTEAGA CEDEÑO FREDDY ALBERTO",
+        "trade_name":  "ALMACEN DE REPUESTOS ELECTRICOS AUTOMOTRICES ARTMAC 1",
+        "parent_address":  "MANABI / MANTA / LOS ESTEROS / VIA MANTA ROCAFUERTE S/N Y SECTOR VILLAMARINA",
+        "mobile":  "0980805996",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-27"
+    },
+    {
+        "id":  512,
+        "ruc":  "0904541752001",
+        "business_name":  "MANZO RIVERA JOFFRE ADALBERTO",
+        "trade_name":  "LUBRICANTES GENESIS",
+        "parent_address":  "GUAYAS / GUAYAQUIL / PASCUALES / AV. ISIDRO AYORA SOLAR 02",
+        "mobile":  "0982491658",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-26"
+    },
+    {
+        "id":  511,
+        "ruc":  "0603050733001",
+        "business_name":  "SAMANIEGO JARA CECILIA ELIZABETH",
+        "trade_name":  "LAS ORIGINALES TORTILLAS GUARANDEÑAS",
+        "parent_address":  "CHIMBORAZO / PENIPE",
+        "mobile":  "0989607253",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-26"
+    },
+    {
+        "id":  510,
+        "ruc":  "1850616812001",
+        "business_name":  "CAISABANDA TOAPANTA GEISON JAVIER",
+        "trade_name":  "COMERCIAL GHOST",
+        "parent_address":  "TUNGURAHUA / SAN PEDRO DE PELILEO / PELILEO / JUAN DE VELASCO 1 Y ANTONIO CLAVIJO",
+        "mobile":  "0992547893",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-26"
+    },
+    {
+        "id":  509,
+        "ruc":  "0603862145001",
+        "business_name":  "GONZALEZ YUQUILLA MARIA JOSE",
+        "trade_name":  "MODAS Y NOVEDADES MG",
+        "parent_address":  "CHIMBORAZO / RIOBAMBA / VELASCO / CARABOBO 35-61 Y AVDA. EDELBERTO BONILLA OLEAS",
+        "mobile":  "0987562938",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-26"
+    },
+    {
+        "id":  508,
+        "ruc":  "1710875038001",
+        "business_name":  "DAVALOS MUÑOZ JOHANNA GISSELA",
+        "trade_name":  "LIFE BIO Y COCINA ",
+        "parent_address":  "PICHINCHA / QUITO / MARISCAL SUCRE / MALLORCA N24-310 Y LA CORUÑA",
+        "mobile":  "0983822759",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-26"
+    },
+    {
+        "id":  507,
+        "ruc":  "0930013016001",
+        "business_name":  "MARTILLO SARANGO ERNESTO ALEJANDRO",
+        "trade_name":  "CAOS",
+        "parent_address":  "LOJA / LOJA / PUNZARA / PIO JARAMILLO ALVARADO SN Y FRANCISCO JOSE DE CALDAS",
+        "mobile":  "0986767430",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-25"
+    },
+    {
+        "id":  506,
+        "ruc":  "1312279365001",
+        "business_name":  "SALDARRIAGA MURILLO DIEGO DAVID",
+        "trade_name":  "COMEDOR LA MILCHU",
+        "parent_address":  "MANABI / MANTA / MANTA / CALLE OLIVA MIRANDA",
+        "mobile":  "0979805521",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-25"
+    },
+    {
+        "id":  505,
+        "ruc":  "1315045607001",
+        "business_name":  "ROMERO PONCE STEFANY NICOLE",
+        "trade_name":  "MICKY CHA",
+        "parent_address":  "MANABI / MANTA / LOS ESTEROS / PRINCIPAL 135",
+        "mobile":  "0993974467",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-25"
+    },
+    {
+        "id":  504,
+        "ruc":  "0924638877001",
+        "business_name":  "CENTENO FUENTES ALEXI AUGUSTO",
+        "trade_name":  "TIENDA DOS HERMANOS",
+        "parent_address":  "GUAYAS / DAULE / LIMONAL / S/N",
+        "mobile":  "0967273222",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-25"
+    },
+    {
+        "id":  503,
+        "ruc":  "0604304550001",
+        "business_name":  "SEFLA LEMA CRISTIAN DAVID",
+        "trade_name":  "ALFES MOTOS",
+        "parent_address":  "Colta - Columbe ",
+        "mobile":  "0981022836",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-24"
+    },
+    {
+        "id":  502,
+        "ruc":  "2300610249001",
+        "business_name":  "ZAMBRANO PEÑA JIMMY DANIEL",
+        "trade_name":  "BARYEXPRESS",
+        "parent_address":  "PICHINCHA / QUITO / PUEMBO / JULIO TOBAR GARCIA OE5-96 Y ANTONIO ARIAS",
+        "mobile":  "0987083152",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-24"
+    },
+    {
+        "id":  501,
+        "ruc":  "0604943092001",
+        "business_name":  "GUACHO GAGÑAY DANES OMAR",
+        "trade_name":  "CEVICHAO",
+        "parent_address":  "CHIMBORAZO / RIOBAMBA / LICÁN / ND S/N Y ND",
+        "mobile":  "0924611911",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-23"
+    },
+    {
+        "id":  500,
+        "ruc":  "1804390464001",
+        "business_name":  "ROSERO FREIRE ROMMEL CHRISTIAN",
+        "trade_name":  "CR ASOCIADOS",
+        "parent_address":  "NAPO / TENA / TENA / CAMILO PONCE S/N Y JOSÉ MARÍA URBINA",
+        "mobile":  "0980859080",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-23"
+    },
+    {
+        "id":  499,
+        "ruc":  "0928344480001",
+        "business_name":  "VERA MONTOYA FREDDY LEONEL",
+        "trade_name":  "CRISPBURGER",
+        "parent_address":  "------------------------------------",
+        "mobile":  "0963963171",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-23"
+    },
+    {
+        "id":  498,
+        "ruc":  "0916456882001",
+        "business_name":  "ZAVALA VILLA VILMA DEL ROSARIO",
+        "trade_name":  "PICANTERIA Y RESTAURANTE SOFI",
+        "parent_address":  "NARANJITO",
+        "mobile":  "0993347577",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-22"
+    },
+    {
+        "id":  497,
+        "ruc":  "1400671697001",
+        "business_name":  "LAZO VEGA GEOCONDA IBETH",
+        "trade_name":  "VALMIK",
+        "parent_address":  "MORONA SANTIAGO / SANTIAGO / SANTIAGO DE MENDEZ / MATOGROSO S/N Y LUIS CORDERO",
+        "mobile":  "0961215453",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-21"
+    },
+    {
+        "id":  496,
+        "ruc":  "1309029302001",
+        "business_name":  "SOLORZANO MEZA ANTHOY MANUEL",
+        "trade_name":  "MCGIVER CAR",
+        "parent_address":  "MANABI / PORTOVIEJO / ANDRÉS DE VERA / 15 DE ABRIL S/N Y SN",
+        "mobile":  "0994783266",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-21"
+    },
+    {
+        "id":  495,
+        "ruc":  "1761578887001",
+        "business_name":  "FERNANDEZ MONSALVE ALDOUYOHNFREN MANUEL",
+        "trade_name":  "AUTOLUJOS Y DISTRIBUIDORA FLASH",
+        "parent_address":  "TUNGURAHUA / AMBATO / HUACHI LORETO / LOS ANDES S/N Y CAYAMBE",
+        "mobile":  "0995909403",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-20"
+    },
+    {
+        "id":  494,
+        "ruc":  "1707894414001",
+        "business_name":  "AREQUIPA MACIAS MARIA LETICIA",
+        "trade_name":  "RUTA 66",
+        "parent_address":  "SANTO DOMINGO DE LOS TSACHILAS / SANTO DOMINGO / ZARACAY / AV. QUITO S/N Y AV. RIO TANTI",
+        "mobile":  "0963496617",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-20"
+    },
+    {
+        "id":  493,
+        "ruc":  "1401162126001",
+        "business_name":  "ROMERO JUCA JUNIOR ALEXANDER",
+        "trade_name":  "LA VIE LIQUEUR",
+        "parent_address":  "MORONA SANTIAGO / MORONA / MACAS / MANUEL MONCAYO S/N Y MARINA MADERO",
+        "mobile":  "0995699169",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-20"
+    },
+    {
+        "id":  492,
+        "ruc":  "1760730240001",
+        "business_name":  "MEDINA BASTARDO ARIMALBY ESTHER",
+        "trade_name":  "JK STORE",
+        "parent_address":  "ESMERALDAS / ATACAMES / ATACAMES / C5 4 Y 24",
+        "mobile":  "0986924618",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-19"
+    },
+    {
+        "id":  491,
+        "ruc":  "1705431839001",
+        "business_name":  "CERON ROMERO MARIANITA DE JESUS",
+        "trade_name":  "RISITAS Y PAÑALES",
+        "parent_address":  "PICHINCHA / RUMIÑAHUI / SANGOLQUI / 10 DE DICIEMBRE LT1-01",
+        "mobile":  "0998109801",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-19"
+    },
+    {
+        "id":  490,
+        "ruc":  "1750816876001",
+        "business_name":  "MEDINA ARMIJOS ALEXANDER JORDY",
+        "trade_name":  "JORLYZ PUYO",
+        "parent_address":  "PASTAZA / PASTAZA / PUYO / PASTAZA SN Y CAÑAR",
+        "mobile":  "0990525105",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-19"
+    },
+    {
+        "id":  489,
+        "ruc":  "1311783185001",
+        "business_name":  "RODRIGUEZ LINZAN JUAN FRANCISCO",
+        "trade_name":  "FITFAT BY DULCE ANDREA",
+        "parent_address":  "MANABI / PORTOVIEJO / PICOAZA / ROTARIA S/N Y REALES TAMARINDOS",
+        "mobile":  "0994595249",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-19"
+    },
+    {
+        "id":  488,
+        "ruc":  "1750816876001",
+        "business_name":  "MEDINA ARMIJOS ALEXANDER JORDY",
+        "trade_name":  "JORLYZ",
+        "parent_address":  "CHIMBORAZO / RIOBAMBA / VELASCO / VICENTE RAMON ROCA SN Y BAQUERISO MORENO",
+        "mobile":  "0968648698",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-19"
+    },
+    {
+        "id":  487,
+        "ruc":  "0704900323001",
+        "business_name":  "PALADINES AGUILAR ALVARO DAVID",
+        "trade_name":  "RESTFUL RESTO BAR",
+        "parent_address":  "EL ORO, PIÑAS, GARXIA MORENO 1 Y AV LOJA",
+        "mobile":  "0997121766",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-18"
+    },
+    {
+        "id":  486,
+        "ruc":  "1391937957001",
+        "business_name":  "AGROCONECTA S.A.S.",
+        "trade_name":  "AGROCONECTA S.A.S.",
+        "parent_address":  "MANABI, OLMEDO, SAN ANDRES 1 2 Y CALLE SIN NOMBRE",
+        "mobile":  "0995661668",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-18"
+    },
+    {
+        "id":  485,
+        "ruc":  "0940963804001",
+        "business_name":  "UGARTE BERMEO CARLOS JOSE",
+        "trade_name":  "TRIP-PA",
+        "parent_address":  "GUAYAS, DAULE, LA AURORA (SATÉLITE) / SN 07 Y SN",
+        "mobile":  "0987526715",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-17"
+    },
+    {
+        "id":  484,
+        "ruc":  "0801766379001",
+        "business_name":  "CLAVIJO ORTIZ MARIA EUFRASIA",
+        "trade_name":  "MINITIENDA DOÑA MARY",
+        "parent_address":  "ESMERALDAS / QUININDE / VICHE",
+        "mobile":  "0969447247",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-16"
+    },
+    {
+        "id":  483,
+        "ruc":  "1351410541001",
+        "business_name":  "CHIMBO CASANOVA MANUEL ALEJANDRO",
+        "trade_name":  "LICORERIA CAVA",
+        "parent_address":  "MANABI / PORTOVIEJO / 18 DE OCTUBRE / AV REALES TAMARINDOS 1 SN Y LA LIBERTAD",
+        "mobile":  "0995745055",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-14"
+    },
+    {
+        "id":  482,
+        "ruc":  "2490417497001",
+        "business_name":  "LUJURIA S.A.S.",
+        "trade_name":  "LUJURIA",
+        "parent_address":  "SANTA ELENA / SALINAS / SALINAS / BARRIO 6 DE JUNIO Y SN",
+        "mobile":  "0986888582",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-12"
+    },
+    {
+        "id":  481,
+        "ruc":  "2400429144001",
+        "business_name":  "MUÑOZ MACKLIFF DAYANNA SOLANGE",
+        "trade_name":  "SK IMPORT",
+        "parent_address":  "SANTA ELENA / LA LIBERTAD / LA LIBERTAD / S/N",
+        "mobile":  "0962171452",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-12"
+    },
+    {
+        "id":  480,
+        "ruc":  "0704528868001",
+        "business_name":  "JARAMILLO ENCALADA VICTOR ALBERTO",
+        "trade_name":  "RAZA NOSTRA",
+        "parent_address":  "EL ORO / EL GUABO / EL GUABO / PADRE FLORENTINO 1 Y CALLE B",
+        "mobile":  "0988948569",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-12"
+    },
+    {
+        "id":  479,
+        "ruc":  "1722507470001",
+        "business_name":  "ANDRADE SHUGULI ORLANDO MAURICIO",
+        "trade_name":  "THE BIG BANG PIZZA",
+        "parent_address":  "PICHINCHA, QUITO, CALDERON (CARAPUNGO), CARLOS MANTILLA N14-11 Y PIO XII",
+        "mobile":  "0998882524",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-11"
+    },
+    {
+        "id":  478,
+        "ruc":  "0919289116001",
+        "business_name":  "MOREIRA SAENZ CARLOS WILFRIDO",
+        "trade_name":  "DEPÓSITO MOREIRA",
+        "parent_address":  "GUAYAS / DURAN / ELOY ALFARO (DURAN) / SOLAR 4",
+        "mobile":  "0968892151",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-11"
+    },
+    {
+        "id":  477,
+        "ruc":  "0604246884001",
+        "business_name":  "CHINLLI GUAYÑA JORGE LUIS",
+        "trade_name":  "CRISPY WINGS",
+        "parent_address":  "MORONA SANTIAGO / MORONA / MACAS / JUAN DE LA CRUZ SN Y 09 DE OCTUBRE",
+        "mobile":  "0984318599",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-11"
+    },
+    {
+        "id":  476,
+        "ruc":  "1718623141001",
+        "business_name":  "ABAD SANMARTIN DIEGO ARMANDO",
+        "trade_name":  "DUENDE GARDEN RESTAURANT",
+        "parent_address":  "LOJA / LOJA / SAN PEDRO DE VILCABAMBA / E682 VIA LOJA VILCABAMBA SN Y VIA A CARARANGO",
+        "mobile":  "0987004640",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-11"
+    },
+    {
+        "id":  475,
+        "ruc":  "1804593992001",
+        "business_name":  "CUYO CHUGCHILAN MAYRA JESSICA",
+        "trade_name":  "MICROMERCADO DEL CISNE",
+        "parent_address":  "TUNGURAHUA / AMBATO / HUACHI LORETO / PACHA SN Y INCAS ",
+        "mobile":  "0001000100",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-10"
+    },
+    {
+        "id":  474,
+        "ruc":  "1801183193001",
+        "business_name":  "HIDALGO TORRES BLANCA ELIDA",
+        "trade_name":  "MELITOS",
+        "parent_address":  "TUNGURAHUA / BAÑOS DE AGUA SANTA / BAÑOS DE AGUA SANTA / AV. ORIENTE SN Y ELOY ALFARO",
+        "mobile":  "0984960815",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-09"
+    },
+    {
+        "id":  473,
+        "ruc":  "1724553993001",
+        "business_name":  "CHURUCHUMBI SANDOVAL ALEX SEBASTIAN",
+        "trade_name":  "CHURUCHUMBI",
+        "parent_address":  "------------------------",
+        "mobile":  "0983016886",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-09"
+    },
+    {
+        "id":  472,
+        "ruc":  "0605587211001",
+        "business_name":  "MENDOZA VACACELA MARIA ELIZABETH",
+        "trade_name":  "MIRADOR EL CALVARIO",
+        "parent_address":  "CHIMBORAZO, ALAUSI, ALAUSI",
+        "mobile":  "0959449353",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-09"
+    },
+    {
+        "id":  471,
+        "ruc":  "0504769886001",
+        "business_name":  "PALANGO CHACHA JESSICA LISETH",
+        "trade_name":  "MINIMARKET LA DESPENSA",
+        "parent_address":  "COTOPAXI, SALCEDO, SAN MIGUEL, VICENTE LEON SN Y LUIS A MARTINEZ",
+        "mobile":  "0979067653",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-09"
+    },
+    {
+        "id":  470,
+        "ruc":  "1805049697001",
+        "business_name":  "MEZA NARANJO ANDRES SEBASTIAN",
+        "trade_name":  "LA CASA DE LAS GOLOSINAS",
+        "parent_address":  "TUNGURAHUA, SAN PEDRO DE PELILEO, PELILEO, ROCAFUERTE S/N Y QUIS QUIS",
+        "mobile":  "0983566905",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-09"
+    },
+    {
+        "id":  469,
+        "ruc":  "1801990241001",
+        "business_name":  "ESCALANTE PROAÑO MARIO PATRICIO",
+        "trade_name":  "UNITA PARA LA SED",
+        "parent_address":  "MORONA SANTIAGO, SANTIAGO, SANTIAGO DE MENDEZ, AMAZONAS SN Y RAFALE ARCOS DIAZ",
+        "mobile":  "0981193579",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-07"
+    },
+    {
+        "id":  468,
+        "ruc":  "1900336031001",
+        "business_name":  "SALAZAR CHARICANDO JUAN CARLOS",
+        "trade_name":  "TODO EN UNO",
+        "parent_address":  "ZAMORA CHINCHIPE / ZAMORA / ZAMORA / SEVILLA DE ORO SN Y HEROES DE PAQUISHA",
+        "mobile":  "0982852561",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-06"
+    },
+    {
+        "id":  467,
+        "ruc":  "1002024485001",
+        "business_name":  "TUQUERRES CACUANGO MARTHA ISABEL",
+        "trade_name":  "PANADERÍA Y PASTELERÍA TENTACIÓN",
+        "parent_address":  "IMBABURA, IBARRA, CARANQUI, AV RETORNO 23-25 Y PRINCESA PACHA",
+        "mobile":  "0979052951",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-06"
+    },
+    {
+        "id":  466,
+        "ruc":  "0919526822001",
+        "business_name":  "PONCE YEPEZ ESTEFANIA NATHALY",
+        "trade_name":  "ACAI LAB",
+        "parent_address":  "GUAYAS, GUAYAQUIL, TARQUI, KM 1.6 AV 3 N-E Y 090703",
+        "mobile":  "0991150555",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-06"
+    },
+    {
+        "id":  465,
+        "ruc":  "0105180103001",
+        "business_name":  "PUENTE ZHAPAN CLAUDIA PATRICIA",
+        "trade_name":  "RESTAURANT BRAUZ",
+        "parent_address":  "AZUAY, PAUTE, JOSE VICTOR IZQUIERDO S/N Y MARISCAL SUCRE",
+        "mobile":  "0959527428",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-05"
+    },
+    {
+        "id":  464,
+        "ruc":  "1314406560001",
+        "business_name":  "MISE QUIJIJE DANIEL JOSUE",
+        "trade_name":  "ENERGY BATERIAS",
+        "parent_address":  "MANABI / MANTA / TARQUI / ENTRE 319 Y 320 S/N Y ENTRE 319 Y 320",
+        "mobile":  "0969546500",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-05"
+    },
+    {
+        "id":  463,
+        "ruc":  "0401387006001",
+        "business_name":  "NARANJO PALACIOS RONALD ALEJANDRO",
+        "trade_name":  "CHILES",
+        "parent_address":  "CARCHI, TULCAN, JUNIN S/N Y BOLIVAR",
+        "mobile":  "0999924216",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-05"
+    },
+    {
+        "id":  462,
+        "ruc":  "0914415740001",
+        "business_name":  "CAISAGUANO ARBOLEDA JULIO EDUARDO",
+        "trade_name":  "MAR Y MANGLAR",
+        "parent_address":  "GUAYAS, GUAYAQUIL, TARQUI, STA MARIA CASA GRANDE SL 1 LA STAMARIACASAGRAND Y STA MARIA CASA GRANDE SL 1 LA",
+        "mobile":  "0993296789",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-02-05"
+    },
+    {
+        "id":  461,
+        "ruc":  "1725337552001",
+        "business_name":  "DE LA CRUZ BURBANO RUTH ELIZABETH",
+        "trade_name":  "PIRAMIDE HELADERIAS",
+        "parent_address":  "PICHINCHA, QUITO, CALDERON (CARAPUNGO), AVENIDA CARAPUNGO OE5-28 Y MURGUEITIO SALVADOR",
+        "mobile":  "0987420718",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-04"
+    },
+    {
+        "id":  460,
+        "ruc":  "0804350726001",
+        "business_name":  "SALTOS MERIZALDE KEVIN EDSON",
+        "trade_name":  "ALMAGRO",
+        "parent_address":  "SANTO DOMINGO, RIO VERDE, CJON 5 S/N Y CALLE E",
+        "mobile":  "0999465232",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-04"
+    },
+    {
+        "id":  459,
+        "ruc":  "1305104497001",
+        "business_name":  "LOPEZ CAÑARTE MANUEL ANTONIO",
+        "trade_name":  "T BAR",
+        "parent_address":  "MANABI,JIPIJAPA, SAN LORENZO DE JIPIJAPA, 9 DE OCTUBRE S/N Y SUCRE Y 10 DE AGOSTO",
+        "mobile":  "0991545138",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-04"
+    },
+    {
+        "id":  458,
+        "ruc":  "1710490739001",
+        "business_name":  "CARPIO TORRES ELVIRA LORENA",
+        "trade_name":  "EXPRES CAFE MARKET EL ABUELO MIGUEL",
+        "parent_address":  "LOJA, VILCABAMBA (VICTORIA), LUIS FERNANDO DE LA VEGA SN Y DIEGO DE VACA",
+        "mobile":  "0998259050",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-04"
+    },
+    {
+        "id":  457,
+        "ruc":  "1758759110001",
+        "business_name":  "ARRAEZ QUINTERO GENESIS YALIMAR",
+        "trade_name":  "MAS 58",
+        "parent_address":  "TUNGURAHUA, AMBATO, MATRIZ, SIMON BOLIVAR SN Y 5 DE JUNIO",
+        "mobile":  "0985948166",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-03"
+    },
+    {
+        "id":  456,
+        "ruc":  "1708310436001",
+        "business_name":  "ALTAMIRANO CAMPOS ALEJANDRINA OTILIA",
+        "trade_name":  "TIENDA DE  ABARROTES",
+        "parent_address":  "TUNGURAHUA, AMBATO, LA PENINSULA, BOGOTA 56 Y PUERTO PRINCIPE",
+        "mobile":  "0984892794",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-03"
+    },
+    {
+        "id":  455,
+        "ruc":  "1900033844001",
+        "business_name":  "BENITEZ ARMIJOS CLARA",
+        "trade_name":  "BROS FAST FOOD",
+        "parent_address":  "PICHINCHA, QUITO, SOLANDA, AV. TENIENTE HUGO ORTIZ S24-73 Y AV. SOLANDA",
+        "mobile":  "0996255087",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-02-02"
+    },
+    {
+        "id":  454,
+        "ruc":  "1208531432001",
+        "business_name":  "AYALA AVILES DAYANNA THAIS",
+        "trade_name":  "FLOWERSHOP",
+        "parent_address":  "LOS RIOS, BABAHOYO, DR. CAMILO PONCE, 10 DE AGOSTO S/N Y JOSE JOAQUIN DE OLMEDO",
+        "mobile":  "0985185201",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-31"
+    },
+    {
+        "id":  453,
+        "ruc":  "0933077232001",
+        "business_name":  "ZHOU GUIFANG",
+        "trade_name":  "CHIFA POPULAR",
+        "parent_address":  "MANABI / MANTA / TARQUI / 101 S/N Y AV. 109",
+        "mobile":  "0993570129",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-31"
+    },
+    {
+        "id":  452,
+        "ruc":  "1724336134001",
+        "business_name":  "LOURDES KAEINA VERA BRAVO",
+        "trade_name":  "TÍOS TILAPIAS",
+        "parent_address":  "Otavalo calle 31 de octubre y Quito ",
+        "mobile":  "0979404284",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-31"
+    },
+    {
+        "id":  451,
+        "ruc":  "0500995238001",
+        "business_name":  "LOPEZ PEÑAHERRERA EDIRMA ESPAÑA",
+        "trade_name":  "HALLY SHOPP",
+        "parent_address":  "COTOPAXI, LA MANA, LA MANA, AMAZONA SN Y CARLOS LOZADA",
+        "mobile":  "0997625260",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-30"
+    },
+    {
+        "id":  450,
+        "ruc":  "1852047198001",
+        "business_name":  "TANG YINGWEI",
+        "trade_name":  "DONG FANG IMPORTADORA",
+        "parent_address":  "Ambato",
+        "mobile":  "0994938935",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-30"
+    },
+    {
+        "id":  449,
+        "ruc":  "1721359790001",
+        "business_name":  "GONZALEZ GALVEZ SANTIAGO DAVID",
+        "trade_name":  "BROSS BURGUER",
+        "parent_address":  "QUITO, IÑAQUITO, DE LA REPUBLICA E5-11 N33B Y INGLATERRA",
+        "mobile":  "0984845614",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-29"
+    },
+    {
+        "id":  448,
+        "ruc":  "1726833237001",
+        "business_name":  "HAQJU ABDUL AZEEN",
+        "trade_name":  "AMELI",
+        "parent_address":  "QUITO, CUMBAYA, GARCIA MORENO E2-55 Y MANABI",
+        "mobile":  "0999204730",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-01-29"
+    },
+    {
+        "id":  447,
+        "ruc":  "1711282705001",
+        "business_name":  "MORA FLORES DIEGO ALEJANDRO",
+        "trade_name":  "LA MISKE BY CASA AGAVE",
+        "parent_address":  "PICHINCHA, QUITO, MARISCAL SUCRE, LUGO N24-323 Y VIZCAYA",
+        "mobile":  "0998316455",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-28"
+    },
+    {
+        "id":  446,
+        "ruc":  "1600658197001",
+        "business_name":  "NARVAEZ WASHICTA ANGELA JAZMIN",
+        "trade_name":  "CLEAN.897 PUYO",
+        "parent_address":  "PASTAZA, PASTAZA, PUYO, BOLIVAR SN Y 27 DE FEBRERO",
+        "mobile":  "0962991577",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-28"
+    },
+    {
+        "id":  445,
+        "ruc":  "0105913701001",
+        "business_name":  "MARTINEZ DIBENI ENRIQUE",
+        "trade_name":  "EL MEXICANO",
+        "parent_address":  "AZUAY, CUENCA, SUCRE, JUAN BAUTISTA VASQUEZ Y RICARDO MUÑOZ DAVILA",
+        "mobile":  "0996507422",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-01-27"
+    },
+    {
+        "id":  444,
+        "ruc":  "1722182142001",
+        "business_name":  "PEÑA FAREZ FREDDY ARTEMIO",
+        "trade_name":  "THIAGOCELL",
+        "parent_address":  "SANTO DOMINGO, AV. QUITO S/N Y PASAJE C",
+        "mobile":  "0989105344",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-27"
+    },
+    {
+        "id":  443,
+        "ruc":  "1314846443001",
+        "business_name":  "MEZA ROMERO KARINA MARIBEL",
+        "trade_name":  "CRISOFT",
+        "parent_address":  "SANTO DOMINGO, RIO VERDE, CALLE MANUELA SAENZ S/N Y JB AGUIRRE",
+        "mobile":  "0991031012",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-26"
+    },
+    {
+        "id":  442,
+        "ruc":  "2300109416001",
+        "business_name":  "ACOSTA CARREÑO MARIA KASSANDRA",
+        "trade_name":  "PLASTI-ZAM",
+        "parent_address":  "MANABI / EL CARMEN / EL CARMEN / CALLE D S/N Y VIA BRAMADORA",
+        "mobile":  "0986161356",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-26"
+    },
+    {
+        "id":  441,
+        "ruc":  "1718066036001",
+        "business_name":  "MURILLO SANCHEZ OSCAR JAVIER",
+        "trade_name":  "OMX - FIRE",
+        "parent_address":  "PICHINCHA, QUITO, JIPIJAPA, SANTIAGO 0E3-54 Y AV AMERICA",
+        "mobile":  "0998763280",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-26"
+    },
+    {
+        "id":  440,
+        "ruc":  "1003484993001",
+        "business_name":  "ORTIZ MONTERO IZAMAR JACQUELINE",
+        "trade_name":  "LA ESQUINA REFRESCANTE",
+        "parent_address":  "IMBABURA, PIMAMPIRO, ISIDRO DE LA BASTIDA S/N Y GONZALEZ SUAREZ",
+        "mobile":  "0981357930",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-26"
+    },
+    {
+        "id":  439,
+        "ruc":  "1313360073001",
+        "business_name":  "FRANCO DELGADO LUCIA MARIBEL",
+        "trade_name":  "BAZAR Y NOVEDADES MADELEN JULIETH",
+        "parent_address":  "MANABI, MANTA, SANTA MARIANITA (BOCA DE PACOCHE), MALECON SANTA MARIANITA S/N Y PASAJE A2",
+        "mobile":  "0991447579",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-26"
+    },
+    {
+        "id":  438,
+        "ruc":  "0954679635001",
+        "business_name":  "JACOME BONE ANA BELEN",
+        "trade_name":  "ANITA FASHION BOUTIQUE 1",
+        "parent_address":  "GUAYAQUIL, TARQUI, SOCIO VVIVIENDA II MZ 9 10 SL 03 SL 03 Y CALLE VALDEZ",
+        "mobile":  "0980347858",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-24"
+    },
+    {
+        "id":  437,
+        "ruc":  "0605128453001",
+        "business_name":  "LEMA BALSECA JOSUE RODRIGO",
+        "trade_name":  "MUNAY",
+        "parent_address":  "CHIMBORAZO, RIOBAMBA, VELASCO, AV LIZARZABURU SN Y ESPINOZA",
+        "mobile":  "0969752402",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-24"
+    },
+    {
+        "id":  436,
+        "ruc":  "1050084415001",
+        "business_name":  "CORDOVA QUEZADA MOSIAH BENJAMIN",
+        "trade_name":  "LOS SECOS DEL MOSO",
+        "parent_address":  "IMBABURA, OTAVALO, JORDAN, BOLIVAR SN Y ENTRE QUIROGA Y ROCA",
+        "mobile":  "0960125422",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-23"
+    },
+    {
+        "id":  435,
+        "ruc":  "1723557532001",
+        "business_name":  "CARDENAS AGUIRRE SUSANA ELIZABETH",
+        "trade_name":  "FRESALAXIA",
+        "parent_address":  "PICHINCHA, QUITO, LA MENA, ARSENIO ANDRADE OE10-73 Y SHAGLI",
+        "mobile":  "0999568467",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-23"
+    },
+    {
+        "id":  434,
+        "ruc":  "1311576365001",
+        "business_name":  "ACOSTA SANTOS NAYELI MELINA",
+        "trade_name":  "RESTAURANT PARADA MANABITA",
+        "parent_address":  "PICHINCHA, SAN MIGUEL DE LOS BANCOS, MINDO, QUITO 1 Y GALLO DE LA PEÑA",
+        "mobile":  "0995383856",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-23"
+    },
+    {
+        "id":  433,
+        "ruc":  "1724149248001",
+        "business_name":  "ZAPATA RAMIREZ KEVIN ALEXANDER",
+        "trade_name":  "TITO\u0027S",
+        "parent_address":  "PICHINCHA, QUITO, TUMBACO, AVENIDA OSWALDO GUAYASAMIN OE1-221 Y JUAN MONTALVO",
+        "mobile":  "0986125719",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-22"
+    },
+    {
+        "id":  432,
+        "ruc":  "1713825824001",
+        "business_name":  "SANDOVAL CARRERA PATRICIA DEL CARMEN",
+        "trade_name":  "PATRICIA SANDOVAL",
+        "parent_address":  "PICHINCHA, QUITO, KENNEDY, LAS NUECES N52-419 Y PASAJE MANANTIAL",
+        "mobile":  "0997214024",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-22"
+    },
+    {
+        "id":  431,
+        "ruc":  "1752490464001",
+        "business_name":  "SALAZAR GOMEZ ERICK SEBASTIAN",
+        "trade_name":  "BAZAR Y PAPELERIA INNODEX",
+        "parent_address":  "IMBABURA, SAN MIGUEL DE URCUQUI, URCUQUI, GUZMAN SN Y GONZALE Y S SUAREZ",
+        "mobile":  "0978618998",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-22"
+    },
+    {
+        "id":  430,
+        "ruc":  "1750447359001",
+        "business_name":  "POZO DUQUE GRACE CAROLINA",
+        "trade_name":  "AUTOPARTSEC IMPORTADORA",
+        "parent_address":  "PICHINCHA, QUITO, COTOCOLLAO, OE6A DOCTOR JUAN MANUEL DE LA GALA N61-109 Y N61A",
+        "mobile":  "0995677724",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-22"
+    },
+    {
+        "id":  429,
+        "ruc":  "2300721186001",
+        "business_name":  "CEDEÑO ZAMBRANO JESUS ADRIAN",
+        "trade_name":  "JC RACING",
+        "parent_address":  "MANABI, EL CARMEN, AV CHONE S/N Y 5",
+        "mobile":  "0994820140",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-22"
+    },
+    {
+        "id":  428,
+        "ruc":  "0605422021001",
+        "business_name":  "ORTIZ ROLDAN VILMA ADRIANA",
+        "trade_name":  "ALKOSTO",
+        "parent_address":  "CHIMBORAZO, GUANO, VIA RIOBAMA GUANO 00 Y VIA A SANTA TERESITA",
+        "mobile":  "0987215918",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-21"
+    },
+    {
+        "id":  427,
+        "ruc":  "1762022869001",
+        "business_name":  "SANDOVAL SANCHEZ SIMON ELIAS",
+        "trade_name":  "MOTO MECANICA",
+        "parent_address":  "PICHINCHA, QUITO, KENNEDY, N54 101 Y DE LOS PINO",
+        "mobile":  "0987762859",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-21"
+    },
+    {
+        "id":  426,
+        "ruc":  "1793232895001",
+        "business_name":  "TUMA S.A.S.",
+        "trade_name":  "FRANKA PET CENTER",
+        "parent_address":  "PICHINCHA, QUITO, CALDERON CARAPUNGO, FRANCISCO DE ALBORNOZ Y PARIS",
+        "mobile":  "0984934509",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  425,
+        "ruc":  "1720561479001",
+        "business_name":  "ZABALA GALVEZ ISRAEL ALEXANDER",
+        "trade_name":  "ISI LENS",
+        "parent_address":  "SANTO DOMINGO, CHIGUILPE, LA PAZ S/N Y AV. ABRAHAM CALAZACON",
+        "mobile":  "0989289773",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  424,
+        "ruc":  "1753464575001",
+        "business_name":  "BENAVIDES POZO NICOLE MARIANELA",
+        "trade_name":  "ASADERO DE POLLOS EL AMBUQUEÑITO",
+        "parent_address":  "PICHINCHA, QUITO, CUMBAYA, MARIA ANGELICA HIDROVO E1-57 Y CHIMBORAZO",
+        "mobile":  "0991020976",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  423,
+        "ruc":  "0926517525001",
+        "business_name":  "SANCHEZ VERA ANTONELLA YADIRA",
+        "trade_name":  "GORIRO MARKET",
+        "parent_address":  "PICHINCHA, QUITO, IÑAQUITO, AV. NACIONES UNIDAS OE1-68 Y AV. 10 DE AGOSTO",
+        "mobile":  "0984472330",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  422,
+        "ruc":  "1762177754001",
+        "business_name":  "PEREZ MENDEZ LENNYS YULIANA",
+        "trade_name":  "ASOCIACIONES P\u0026M",
+        "parent_address":  "PICHINCHA, QUITO, LA MENA, S17 HERNAN MOINER OE7-28 Y OE7B",
+        "mobile":  "0998481044",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  421,
+        "ruc":  "0804569945001",
+        "business_name":  "ALONZO SABANDO DIEGO AGUSTIN",
+        "trade_name":  "VANGUARD AGRO",
+        "parent_address":  "IMBABURA,/ COTACACHI, GARCIA MORENO ,LLURIMAGUA, VIA A LA T 65 Y PRINCIPAL",
+        "mobile":  "0961183336",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  420,
+        "ruc":  "1150045886001",
+        "business_name":  "MONTAÑO CONDOY RONALD STEVEN",
+        "trade_name":  "MONTANO PELUQUERIA",
+        "parent_address":  "PICHINCHA, QUITO, SAN JUAN, BOLIVIA OE3-72 Y AV AMERICA",
+        "mobile":  "0991745529",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  419,
+        "ruc":  "1753658374001",
+        "business_name":  "VELEZ CHAVEZ LISBETH MADELEINE",
+        "trade_name":  "FASHION VELEZ",
+        "parent_address":  "COTOPAXI, LATACUNGA, LA MATRIZ, GUAYAQUIL S/N Y BELISARIO QUEVEDO",
+        "mobile":  "0994093873",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  418,
+        "ruc":  "1724260003001",
+        "business_name":  "CHANCUSIG SIMBAÑA CATHERINE GABRIELA",
+        "trade_name":  "MICROMERCADO LINDA VIDA",
+        "parent_address":  "QUITO, CALDERON (CARAPUNGO), MARIA ANTONEDA E5-236 Y E6 DOMINGO SEGURA",
+        "mobile":  "0998157287",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-19"
+    },
+    {
+        "id":  417,
+        "ruc":  "1724545205001",
+        "business_name":  "CAICEDO LARA DAIREN ALEXANDRA",
+        "trade_name":  "DISTRIBUIDORA ALEXANDRA",
+        "parent_address":  "PICHINCHA / QUITO / CALDERON (CARAPUNGO) / LUXEMBURGO 34 Y JOSE M. DE LA TORRE",
+        "mobile":  "0979006747",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-18"
+    },
+    {
+        "id":  416,
+        "ruc":  "1719783308001",
+        "business_name":  "PAGUAY CUENCA JOSE JAVIER",
+        "trade_name":  "JV VIRTUAL STORE",
+        "parent_address":  "PICHINCHA, PEDRO VICENTE MALDONADO, SIN NOMBRE S/N Y CALLE B",
+        "mobile":  "0958642726",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-16"
+    },
+    {
+        "id":  415,
+        "ruc":  "0962995304001",
+        "business_name":  "CARABALLO LANDAETA JOSE LUIS",
+        "trade_name":  "CARABALLO LANDAETA",
+        "parent_address":  "-----QUITO,QUITO,QUITO.",
+        "mobile":  "0939772552",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  414,
+        "ruc":  "1005122518001",
+        "business_name":  "VENEGAS NAVAS KATHERINE BEATRIZ",
+        "trade_name":  "SAFARI KIDS CLUB",
+        "parent_address":  "IMBABURA / OTAVALO / JORDAN / PEDRO PEREZ PAREJA V4P-67 Y TORONJIL",
+        "mobile":  "0961479568",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  413,
+        "ruc":  "1761225117001",
+        "business_name":  "RODRIGUEZ MONTES MARIA FERNANDA",
+        "trade_name":  "LA CASA DEL PERFUME",
+        "parent_address":  "QUITO, SOLANDA, JOSE MARIA ALEMAN 22 Y BONIFACIO AGUILAR",
+        "mobile":  "0990517361",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  412,
+        "ruc":  "0605961457001",
+        "business_name":  "CAJILEMA SAMANIEGO JESSICA ALEXANDRA",
+        "trade_name":  "LA MAS FRESITA",
+        "parent_address":  "CHIMBORAZO, RIOBAMBA, LIZARZABURU, AV LIZARZABURO SN Y AV MONSEÑOR LEONIDAS PROAÑO",
+        "mobile":  "0983730613",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  411,
+        "ruc":  "0605348424001",
+        "business_name":  "VILEMA LASSO EDWIN RODRIGO",
+        "trade_name":  "TIENDA ABASTOS RODRIGUITO",
+        "parent_address":  "CHIMBORAZO, PENIPE, SAN ANTONIO DE BAYUSHIG, AV 6 DE DICIEMBRE SN Y 20 DE AGOSTO",
+        "mobile":  "0990579330",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  410,
+        "ruc":  "0927069450001",
+        "business_name":  "DABAS BARRERA ALLISSON GIOMARA",
+        "trade_name":  "AUDIO CAR GUAYAQUIL",
+        "parent_address":  "GUAYAQUIL, BOLIVAR SAGRARIO, PEDRO PABLO GOMEZ 1802 Y ANDRES MARIN",
+        "mobile":  "0982461455",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  409,
+        "ruc":  "1712936366001",
+        "business_name":  "PIVAQUE BAQUE VICENTE POMPEYO",
+        "trade_name":  "LUBRISERVI VIP",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, MONSEÑOR PEDRO SCHUMACHER LOTE 19 Y AV. ABRAHAM CALAZACON",
+        "mobile":  "0993022748",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  408,
+        "ruc":  "2400292021001",
+        "business_name":  "QUIRUMBAY PERERO JOSELYN LISSETTE",
+        "trade_name":  "JASLYN BOUTIQUE",
+        "parent_address":  "SANTA ELENA, LA LIBERTAD, AV 21 S/N Y CALLES 28 Y 29",
+        "mobile":  "0979025566",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-15"
+    },
+    {
+        "id":  407,
+        "ruc":  "1720933827001",
+        "business_name":  "DURAN NAVAS TAMARA DENISSE",
+        "trade_name":  "DURAN\u0027S LIQUORS",
+        "parent_address":  "QUITO, IÑAQUITO, IÑAQUITO S/N Y VILLALENGUA",
+        "mobile":  "0987570336",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-14"
+    },
+    {
+        "id":  406,
+        "ruc":  "2300885114001",
+        "business_name":  "MANOSALVAS PILLA ARLETH JULIANA",
+        "trade_name":  "CLEAN897",
+        "parent_address":  "PICHINCHA, QUITO, IÑAQUITO, LUXEMBURGO N34-359 Y PORTUGAL",
+        "mobile":  "0986309636",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-14"
+    },
+    {
+        "id":  405,
+        "ruc":  "1726639634001",
+        "business_name":  "ARMAS BOLAÑOS DANY RICARDO",
+        "trade_name":  "DANY DISTRIBUCIONES",
+        "parent_address":  "QUITO, CALDERON CARAPUNGO , CAP. GIOVANNI CALLES E7-195 Y LOS PINOS",
+        "mobile":  "0986552051",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-13"
+    },
+    {
+        "id":  404,
+        "ruc":  "1101790853001",
+        "business_name":  "PALACIOS AZANZA JORGE AUGUSTO",
+        "trade_name":  "FARMACIA CAMBAHUASI",
+        "parent_address":  "ORELLANA, ORELLANA, PUERTO FRANCISCO DE ORELLANA EL COCA, AV. ALEJANDRO LABAKA SN Y ATAHUALPA",
+        "mobile":  "0988223563",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-12"
+    },
+    {
+        "id":  403,
+        "ruc":  "1206206623001",
+        "business_name":  "ALVEAR SANCHEZ HOMER ALEX",
+        "trade_name":  "BOHEMIA",
+        "parent_address":  "LOS RIOS, VALENCIA, LA UNION, VIA LA MANA S/N Y LOTZ NARCISA DE JESUS",
+        "mobile":  "0991749145",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-12"
+    },
+    {
+        "id":  402,
+        "ruc":  "0802215814001",
+        "business_name":  "MONA MONTOYA MARIO",
+        "trade_name":  "MARIO BELLEZA BEAUTY CENTER",
+        "parent_address":  "PICHINCHA / QUITO / IÑAQUITO / E12 CATALINA ALDAZ N34 168 N35 Y AV. PORTUGAL",
+        "mobile":  "0987222549",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-12"
+    },
+    {
+        "id":  401,
+        "ruc":  "1753185667001",
+        "business_name":  "SILVA SILVA DIEGO ISRAEL",
+        "trade_name":  "DISTRIBUIDORA SD",
+        "parent_address":  "SANTO DOMINGO DE LOS COLORADOS, 29 DE MAYO S/N Y PASAJE MIRADOR",
+        "mobile":  "0961097971",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-12"
+    },
+    {
+        "id":  400,
+        "ruc":  "1101830717001",
+        "business_name":  "ALBAN FIGUEROA BYRON EDUARDO",
+        "trade_name":  "PANADERIA ALBASIL",
+        "parent_address":  "EL ORO, PORTOVELO, TRECE DE MAYO S/N Y GONZALO DIAZ",
+        "mobile":  "0996395712",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-11"
+    },
+    {
+        "id":  399,
+        "ruc":  "1311857161001",
+        "business_name":  "ARAUZ SANCHEZ GISSELLA PATRICIA",
+        "trade_name":  "JAPI VALLEY",
+        "parent_address":  "MANABI, PORTOVIEJO, ANDRÉS DE VERA, JIPIJAPA S/N",
+        "mobile":  "0992915061",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-11"
+    },
+    {
+        "id":  398,
+        "ruc":  "1720596434001",
+        "business_name":  "MONTALVAN BOWEN MARIA ESTEFANIA",
+        "trade_name":  "ANTOJITOS EB",
+        "parent_address":  "ESMERALDAS, SIMON PLATA TORRES, CALLE PRINCIPAL 7 Y 8",
+        "mobile":  "0909092145",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-11"
+    },
+    {
+        "id":  397,
+        "ruc":  "0931482368001",
+        "business_name":  "MORENO LARA MARIA JOSE",
+        "trade_name":  "BALI CAFERTERIA DE ESPECIALIDAD",
+        "parent_address":  "QUITO, CENTRO HISTÓRICO, CUENCA N6-85 Y OLMEDO",
+        "mobile":  "0997882707",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-11"
+    },
+    {
+        "id":  396,
+        "ruc":  "1313442483001",
+        "business_name":  "ESPINOZA ROSADO ERIKA EVELYN",
+        "trade_name":  "MARKET MULTIEXPRESS",
+        "parent_address":  "MANABI / MANTA / CALLE PRINCIPAL SN Y SN",
+        "mobile":  "0979505759",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-10"
+    },
+    {
+        "id":  395,
+        "ruc":  "1316361409001",
+        "business_name":  "SALAZAR MISE JOSTHIN JOSHUE",
+        "trade_name":  "ANEZKA BEAUTY STORE",
+        "parent_address":  "MANABI / MANTA / TARQUI / J 10 S/N Y J 5",
+        "mobile":  "0984468809",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-09"
+    },
+    {
+        "id":  394,
+        "ruc":  "1750794065001",
+        "business_name":  "HIPO TOASA EDISON XAVIER",
+        "trade_name":  "HAPPY PETS",
+        "parent_address":  "QUITO, QUITUMBE, S37A E8-228 Y CALLE E8G",
+        "mobile":  "0994370985",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-09"
+    },
+    {
+        "id":  393,
+        "ruc":  "0928857622001",
+        "business_name":  "PULLUTASIG YANCHALUISA JOHNNY JAVIER",
+        "trade_name":  "ASADERO DE POLLOS EL FENIX",
+        "parent_address":  "GUARANDA, GABRIEL IGNACIO VEINTIMILLA, AV MONSEÑOR CADIDO RADA Y JOAQUINA GALARZA",
+        "mobile":  "0991040791",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-09"
+    },
+    {
+        "id":  392,
+        "ruc":  "1206106559001",
+        "business_name":  "TORRES SACON JANET JAQUELINE",
+        "trade_name":  "MUNDO PIZZA",
+        "parent_address":  "EL EMPALME,VELASCO IBARRA, AV. QUITO SOLAR 1 Y VICENTE ROCAFUERTE",
+        "mobile":  "0980218647",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-09"
+    },
+    {
+        "id":  391,
+        "ruc":  "0401321906001",
+        "business_name":  "PANTOJA REINA RINA GABRIELA",
+        "trade_name":  "EL BROASTER DEL CHEF",
+        "parent_address":  "CARCHI, TULCAN, INGLATERRA Y PASAJE SN",
+        "mobile":  "0988726927",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-09"
+    },
+    {
+        "id":  390,
+        "ruc":  "0960494029001",
+        "business_name":  "GONZALEZ ACOSTA EDUARD MARIANO",
+        "trade_name":  "MUNDO PIZZA",
+        "parent_address":  "GUAYAS, BALZAR, BOLIVAR S/N Y 9 DE OCTUBRE",
+        "mobile":  "0983833607",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-09"
+    },
+    {
+        "id":  389,
+        "ruc":  "1719352104001",
+        "business_name":  "SUAREZ PASTOR NICOLAS ALBERTO",
+        "trade_name":  "SON OF A BURGER",
+        "parent_address":  "QUITO, TUMBACO, CALLE RIO SAN PEDRO S/N Y AV OSWALDO GUAYASAMIN",
+        "mobile":  "0999904040",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-08"
+    },
+    {
+        "id":  388,
+        "ruc":  "1704183381001",
+        "business_name":  "CHANGO TAIPICAÑA EMMA PIEDAD",
+        "trade_name":  "LA CANDELARIA",
+        "parent_address":  "QUITO, BELISARIO QUEVEDO, OE3 ANTONIO DE ULLOA N30-13 Y N31 MURGEON",
+        "mobile":  "0979811054",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-08"
+    },
+    {
+        "id":  387,
+        "ruc":  "1719936849001",
+        "business_name":  "TAMAYO SAGAL LUIS MIGUEL",
+        "trade_name":  "THE MEATS BBQ \u0026 GRILL",
+        "parent_address":  "QUITO, SAN BARTOLO, PAQUISHA S15-153 Y S15D",
+        "mobile":  "0909001200",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-01-08"
+    },
+    {
+        "id":  386,
+        "ruc":  "1400728828001",
+        "business_name":  "PETSAIN TSUINK NUNKUICH CECILIA",
+        "trade_name":  "BODEGON Y\u0026E",
+        "parent_address":  "MORONA SANTIAGO, LIMON - INDANZA, SAN ANTONIO (CAB. EN SAN ANTONIO CENTRO),  0005 Y AL OTRO LADO DEL RIO SHARUMANTS",
+        "mobile":  "0997882178",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-08"
+    },
+    {
+        "id":  385,
+        "ruc":  "0201146206001",
+        "business_name":  "GARCIA VELOZ RUTH ALICIA",
+        "trade_name":  "AMOR DE PAPEL",
+        "parent_address":  "GUARANDA, GABRIEL IGNACIO VEINTIMILLA, 9 DE ABRIL SN Y AZUAY",
+        "mobile":  "0967586838",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-08"
+    },
+    {
+        "id":  384,
+        "ruc":  "0913594826001",
+        "business_name":  "MAGALLANES ZAMBRANO PIEDAD AMADA",
+        "trade_name":  "PUNTO LIMPIO",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, 19 S/N Y AVENIDA ITALIA",
+        "mobile":  "0980025492",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-08"
+    },
+    {
+        "id":  383,
+        "ruc":  "1755173760001",
+        "business_name":  "CHACHA PATIN CLEVER MAURICIO",
+        "trade_name":  "DISTRIBUIDORA CHACHA",
+        "parent_address":  "QUITO, SOLANDA, S25 SOLANDA OE4-162 Y OE4E",
+        "mobile":  "0993509938",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-08"
+    },
+    {
+        "id":  382,
+        "ruc":  "0929706828001",
+        "business_name":  "MONTOYA ESPARZA CRISTOBAL ANTOLIN",
+        "trade_name":  "TALLER DE MOTOCICLETAS MIA \u0026 JOHSUA",
+        "parent_address":  "GUAYAS, DAULE, LIMONAL",
+        "mobile":  "0988741822",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-07"
+    },
+    {
+        "id":  381,
+        "ruc":  "2200012421001",
+        "business_name":  "SHIGUANGO TAPUY BELGICA DOROTEA",
+        "trade_name":  "MINIMARKET TALAG",
+        "parent_address":  "NAPO / TENA / TALAG / VIA TALAG S/N Y VIA A LA LAGUNA AZUL",
+        "mobile":  "0990343397",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-02-09"
+    },
+    {
+        "id":  380,
+        "ruc":  "0605182609001",
+        "business_name":  "TENEMAZA YAUCAN LAURO JAVIER",
+        "trade_name":  "IMPERIO CELL",
+        "parent_address":  "CHIMBORAZO, CHUNCHI, SIMON BOLIVAR 1 Y MANUEL REYES",
+        "mobile":  "0968174707",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-07"
+    },
+    {
+        "id":  379,
+        "ruc":  "2300537020001",
+        "business_name":  "YELA INTRIAGO CRISTINA LISBETH",
+        "trade_name":  "FARMACIA ECOFARM DOS",
+        "parent_address":  "SANTO DOMINGO, RIO VERDE, LOS ATABASCOS S/N Y LOS INCAS",
+        "mobile":  "0900020012",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2026-01-07"
+    },
+    {
+        "id":  378,
+        "ruc":  "1722383096001",
+        "business_name":  "MORALES MONTALVAN KENY FABRICIO",
+        "trade_name":  "NBH BRANDS",
+        "parent_address":  "MANABI, MANTA, AV. FLAVIO REYES S/N Y AV. 27",
+        "mobile":  "0963655925",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  377,
+        "ruc":  "0924337819001",
+        "business_name":  "CRUZ MANCERO AMBAR ELIZABETH",
+        "trade_name":  "PAPELERÍA JYA",
+        "parent_address":  "Milagro, Pedro Carbo y César Padilla",
+        "mobile":  "0968481473",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  376,
+        "ruc":  "0604204727001",
+        "business_name":  "GALLEGOS REAL SOFIA NATALIA",
+        "trade_name":  "MARISQUERIA D CARLOS",
+        "parent_address":  "RIOBAMBA, VELOZ, QUITO 10 Y LONDRES",
+        "mobile":  "0960625081",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  375,
+        "ruc":  "0602770711001",
+        "business_name":  "SAMANIEGO OROZCO MARIA ELIZABETH",
+        "trade_name":  "RESTAURANTE CRISTO TE AMA",
+        "parent_address":  "RIOBAMBA, VELOZ, ESPEJO 21-26 Y Y GUAYAQUIL",
+        "mobile":  "0992023775",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  374,
+        "ruc":  "1600657793001",
+        "business_name":  "VARGAS RUIZ YOMIRA YESSICA",
+        "trade_name":  "ARTE\u0026LATTE",
+        "parent_address":  "PASTAZA, PUYO, BOLIVAR Y 27 DE FEBRERO",
+        "mobile":  "0991573681",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  373,
+        "ruc":  "0503500902001",
+        "business_name":  "VELASTEGUI ZAMBRANO EVELYN SOFIA",
+        "trade_name":  "LUMINOVA",
+        "parent_address":  "COTOPAXI, LATACUNGA, LA MATRIZ, ANTONIA VELA 145 Y BENIGNO CHIRIBOGA",
+        "mobile":  "0987387361",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  372,
+        "ruc":  "1724317308001",
+        "business_name":  "SALCEDO JOSE FERNANDO",
+        "trade_name":  "MAXI PIZZA 2",
+        "parent_address":  "SANTA ELENA, LA LIBERTAD, AV. PRIMERA S/N Y CALLE 18",
+        "mobile":  "0963179623",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  371,
+        "ruc":  "2450568080001",
+        "business_name":  "CAIZA GALARZA ANA MARIUXI",
+        "trade_name":  "DISMAPLAST",
+        "parent_address":  "SANTA ELENA, LA LIBERTAD, AV. 7 S/N Y CALLES 21 Y 22",
+        "mobile":  "0988983651",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-06"
+    },
+    {
+        "id":  370,
+        "ruc":  "0852124049001",
+        "business_name":  "SANTANA RAMIREZ EDWIN JUNIOR",
+        "trade_name":  "COFFEE \u0026 RESTAURANT RUAH",
+        "parent_address":  "ESMERALDAS, ESMERALDAS, S 77 Y SL1, Edif. PONTIFICIA UNIVERSIDAD CATOLICA DEL ECUADOR SEDE E",
+        "mobile":  "0968767070",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2026-01-05"
+    },
+    {
+        "id":  369,
+        "ruc":  "2300118508001",
+        "business_name":  "GUERRERO PAEZ GABRIELA LISSETH",
+        "trade_name":  "MECANICA AUTOMOTRIZ D BETO",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, AV LOS COLONOS S/N Y AV CLEMENCIA DE MORA",
+        "mobile":  "0962598267",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-05"
+    },
+    {
+        "id":  368,
+        "ruc":  "1204993115001",
+        "business_name":  "VILLARROEL QUISPE CARLOS DANIEL",
+        "trade_name":  "DEPORTES DANCAR",
+        "parent_address":  "LOS RIOS, VALENCIA, GENERAL ENRIQUEZ 0 Y AV ROCAFUERTE",
+        "mobile":  "0997907734",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-03"
+    },
+    {
+        "id":  367,
+        "ruc":  "1104913973001",
+        "business_name":  "CELI DIAZ THALIA LISSBETH",
+        "trade_name":  "SUPERMERCADO YAL",
+        "parent_address":  "-------------------",
+        "mobile":  "0969924245",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-02"
+    },
+    {
+        "id":  366,
+        "ruc":  "1003573522001",
+        "business_name":  "GUAJAN PERUGACHI MARIA ESTEFANIA",
+        "trade_name":  "ELLE BLESS STORE",
+        "parent_address":  "GUAYAS, SAMBORONDON,/ MALECON Y GARCIA MORENO",
+        "mobile":  "0984488511",
+        "category_company":  "TIENDA",
+        "date_creation":  "2026-01-02"
+    },
+    {
+        "id":  365,
+        "ruc":  "0503921082001",
+        "business_name":  "CASTELLANO SANTACRUZ JENNY LILIANA",
+        "trade_name":  "FARMALY",
+        "parent_address":  "COTOPAXI, LATACUNGA, ALAQUES ,ALAQUEZ, PRINCIPAL S/N",
+        "mobile":  "0997249202",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-12-31"
+    },
+    {
+        "id":  364,
+        "ruc":  "1002955449001",
+        "business_name":  "BENITEZ AVILEZ ZOILA MARIBELL",
+        "trade_name":  "FARMACIAS 3J3",
+        "parent_address":  "PICHINCHA, CAYAMBE, JUAN MONTALVO S0-20 Y BOLIVAR",
+        "mobile":  "0983392296",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-30"
+    },
+    {
+        "id":  363,
+        "ruc":  "1207001916001",
+        "business_name":  "MONCADA BOBADILLA JUNIOR JARED",
+        "trade_name":  "MONCADA BOBADILLA",
+        "parent_address":  "MANTA LOS ESTEROS AVENIDA 113 Y NA",
+        "mobile":  "0990366040",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-30"
+    },
+    {
+        "id":  362,
+        "ruc":  "0993259349001",
+        "business_name":  "NUTRICIÓN ALIMENTICIA PARA ESPECIES ACUICOLAS NUTRIALIMENTO NUTRALESAC S.A.",
+        "trade_name":  "NUTRIALIMENTO",
+        "parent_address":  "PECHICHE TECAS SL4 Y VIA A DAULE",
+        "mobile":  "0961109407",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-28"
+    },
+    {
+        "id":  361,
+        "ruc":  "1801951813001",
+        "business_name":  "BORJA BORJA VICENTE NAPOLEON",
+        "trade_name":  "ESCONDITE DEL SABOR",
+        "parent_address":  "QUITO, GUAMANÍ, CDLA. DEL EJERCITO II ETAPA.",
+        "mobile":  "0987009866",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-27"
+    },
+    {
+        "id":  360,
+        "ruc":  "1804020277001",
+        "business_name":  "TITUAÑA REINOSO NANCY PILAR",
+        "trade_name":  "MAGIC DOLAR",
+        "parent_address":  "TUNGURAHUA, SANTIAGO DE PILLARO, PILLARO, ROCAFUERTE 2 Y SUCRE",
+        "mobile":  "0967626808",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-26"
+    },
+    {
+        "id":  359,
+        "ruc":  "1726836677001",
+        "business_name":  "CRUZ VILLOTA DANIELA FERNANDA",
+        "trade_name":  "HORNADO EL PASTUSITO",
+        "parent_address":  "QUITO, TUMBACO, FRAY GONZALO DE VERA OE2-144 Y VICENTE ROCAFUERTE",
+        "mobile":  "0985251499",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-26"
+    },
+    {
+        "id":  358,
+        "ruc":  "0604249532001",
+        "business_name":  "TORRES SEMPER JEANCARLO ALEXANDER",
+        "trade_name":  "AGAPE",
+        "parent_address":  "RIOBAMBA, LIZARZABURU, 10 DE AGOSTO 25-45 Y GARCIA MORENO",
+        "mobile":  "0993335496",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-26"
+    },
+    {
+        "id":  357,
+        "ruc":  "1711902088001",
+        "business_name":  "HUANG ZHONG JIANWEN",
+        "trade_name":  "MATRIZ CHIFA IMPERIO",
+        "parent_address":  "IMBABURA, IBARRA, SAN FRANCISCO, GALO PLAZA LASSO 1395 Y ESTHER CASTELL",
+        "mobile":  "0987974251",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-12-23"
+    },
+    {
+        "id":  356,
+        "ruc":  "1312291055001",
+        "business_name":  "BRITO CASANOVA GEMA YOLANDA",
+        "trade_name":  "BUNKER PLAY",
+        "parent_address":  "LOS RIOS / QUEVEDO / GUAYACAN / CALLEJON 24 SOLAR 11 Y CALLEJON",
+        "mobile":  "0958688664",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-23"
+    },
+    {
+        "id":  355,
+        "ruc":  "0951904838001",
+        "business_name":  "BAJAÑA GARCIA EMILY AMARIS",
+        "trade_name":  "GRANO MAX",
+        "parent_address":  "GUAYAS, MILAGRO, LUCIANO CORAL SN Y SANTAY",
+        "mobile":  "0982885572",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-22"
+    },
+    {
+        "id":  354,
+        "ruc":  "0101164226001",
+        "business_name":  "YUMBLA VELEZ EFRAIN RAMIRO",
+        "trade_name":  "READY TO GO COFFE TIME",
+        "parent_address":  "SANTA ELENA, MANGLARALTO, AV. RUTA DEL SOL ",
+        "mobile":  "0989278771",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-20"
+    },
+    {
+        "id":  353,
+        "ruc":  "1208130193001",
+        "business_name":  "LOOR BERMELLO JOHNNY GABRIEL",
+        "trade_name":  "MINIMARKET LA ESQUINITA 24/7",
+        "parent_address":  "MANABI, JARAMIJO, SAN MARTIN S/N",
+        "mobile":  "0959818812",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-19"
+    },
+    {
+        "id":  352,
+        "ruc":  "1400670335001",
+        "business_name":  "JARA BOSQUEZ CARLOS ALBERTO",
+        "trade_name":  "LA BRASA VIVA PARRILLADA Y PIZZA",
+        "parent_address":  "MORONA SANTIAGO, MORONA, MACAS, 24 DE MAYO SN Y PATROCINIO JARAMILLO",
+        "mobile":  "0986263500",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-18"
+    },
+    {
+        "id":  351,
+        "ruc":  "1291792173001",
+        "business_name":  "CLARIZA IMPORT \u0026 EXPORT S.A.",
+        "trade_name":  "CLARIZA",
+        "parent_address":  "BABAHOYO, ITALIA Y VANCLOUVER",
+        "mobile":  "0999191481",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-18"
+    },
+    {
+        "id":  350,
+        "ruc":  "1726934357001",
+        "business_name":  "VARGAS ALVAREZ VICENTE ISRAEL",
+        "trade_name":  "MEGA REBAJON",
+        "parent_address":  "QUITO, AMAGUAÑA, MEXICO Y SIMON RODRIGUEZ SN Y SN",
+        "mobile":  "0980030592",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-18"
+    },
+    {
+        "id":  349,
+        "ruc":  "1762137022001",
+        "business_name":  "VASCONEZ AAS EDWARD FABIAN",
+        "trade_name":  "VASCONEZ AAS EDWARD FABIAN",
+        "parent_address":  "SALINAS DE GUARANDA",
+        "mobile":  "0990112488",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-12-17"
+    },
+    {
+        "id":  348,
+        "ruc":  "0605936319001",
+        "business_name":  "JHEFFERSON PILAMUNGA",
+        "trade_name":  "SMART NAICEX",
+        "parent_address":  "-----Rey cacha y epiclachima",
+        "mobile":  "0993071146",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-16"
+    },
+    {
+        "id":  347,
+        "ruc":  "1714333232001",
+        "business_name":  "ROMERO ROMERO PATRICIO ANIBAL",
+        "trade_name":  "AIWATCH CATERPILLAR",
+        "parent_address":  "CC QUICENTRO SUR",
+        "mobile":  "0990474411",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-16"
+    },
+    {
+        "id":  346,
+        "ruc":  "0955450119001",
+        "business_name":  "FERNANDEZ USHCA JULIO ALEJANDRO",
+        "trade_name":  "RESTAURANTE EL RESIDENTE",
+        "parent_address":  "MILAGRO, FEDERICO PAEZ 0 Y BOLIVAR LEAL",
+        "mobile":  "0991337233",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-12-16"
+    },
+    {
+        "id":  345,
+        "ruc":  "0503561300001",
+        "business_name":  "DIGNA CARMEN AGUAIZA POAQUIZA",
+        "trade_name":  "GRAN CHIFA MARISQUERÍA",
+        "parent_address":  "Gonzales Suárez y Pedro Carbo",
+        "mobile":  "0991337233",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-12-16"
+    },
+    {
+        "id":  344,
+        "ruc":  "1314488550001",
+        "business_name":  "UGALDE GILER JAIME VICENTE",
+        "trade_name":  "KEDRAXVET",
+        "parent_address":  "MANABI, ROCAFUERTE, VIA PRINCIPAL",
+        "mobile":  "0983274371",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-15"
+    },
+    {
+        "id":  343,
+        "ruc":  "1001251295001",
+        "business_name":  "PANTOJA TREJO GALO ENRIQUE",
+        "trade_name":  "BRASA \u0026 POLLOS",
+        "parent_address":  "IBARRA, SAGRARIO, FLORES 8-21 Y OLMEDO",
+        "mobile":  "0983446437",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-15"
+    },
+    {
+        "id":  342,
+        "ruc":  "0850262072001",
+        "business_name":  "MORALES BRIONES ARIANA JEANNINE",
+        "trade_name":  "FARMA VITA",
+        "parent_address":  "ESMERALDAS, AV 3RA OLMEDO 20 Y 10 DE AGOSTO",
+        "mobile":  "0997160146",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-12-13"
+    },
+    {
+        "id":  341,
+        "ruc":  "0703509505001",
+        "business_name":  "LUCERO JADAN PEDRO FERNANDO",
+        "trade_name":  "EVENTOS MI FANTASÍA",
+        "parent_address":  "NARANJAL, SEXTA SUR ESTE S/N Y GONZALO PESÁNTEZ",
+        "mobile":  "0939282477",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-12"
+    },
+    {
+        "id":  340,
+        "ruc":  "1307782910001",
+        "business_name":  "PALMA ALAVA CARMITA ELIZABETH",
+        "trade_name":  "RESTAURANTE - MI CASA MANABITA",
+        "parent_address":  "MANTA, TARQUI, 215 S/N",
+        "mobile":  "0999026067",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-12-12"
+    },
+    {
+        "id":  339,
+        "ruc":  "0500634530001",
+        "business_name":  "GUTIERREZ SACA MARIA DOLORES",
+        "trade_name":  "TRIPAS DE LA RUMICHACA",
+        "parent_address":  "QUITO, CHILLOGALLO, CALLE J OE3-307 Y RUMICHACA",
+        "mobile":  "0987102301",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-12"
+    },
+    {
+        "id":  338,
+        "ruc":  "0850053158001",
+        "business_name":  "ZAMBRANO GARCIA ADRIAN ANDRES",
+        "trade_name":  "PAÑALERA EL CARMEN",
+        "parent_address":  "MANABI, EL CARMEN, AV CHONE S/N Y CALLE 12",
+        "mobile":  "0960214281",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-12"
+    },
+    {
+        "id":  337,
+        "ruc":  "0250095569001",
+        "business_name":  "VELOZ AROCA DANIELA FERNANDA",
+        "trade_name":  "NORDIC STORE EC",
+        "parent_address":  "GUARANDA, GABRIEL IGNACIO VEINTIMILLA, AZUAY ENTRE CONVENCION DE 1884 609 Y 7 DE MAYO",
+        "mobile":  "0981383945",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-12"
+    },
+    {
+        "id":  336,
+        "ruc":  "1711565133001",
+        "business_name":  "ZAMBRANO LOOR RAMON PLUTARCO",
+        "trade_name":  "ENCEBOLLADOS SAN ANDRES",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, RIO TIPUTINI S/N Y 2",
+        "mobile":  "0997432080",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-11"
+    },
+    {
+        "id":  335,
+        "ruc":  "1105635385001",
+        "business_name":  "JIMENEZ OCHOA LISSETH NICOLE",
+        "trade_name":  "MINIMARKET DE LA 24",
+        "parent_address":  "RIOBAMBA, LIZARZABURU, 24 DE MAYO 25-31 Y ENTRE ESPAÑA Y GARCIA MORENO",
+        "mobile":  "0969209945",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-11"
+    },
+    {
+        "id":  334,
+        "ruc":  "1250558879001",
+        "business_name":  "PALMA CEDEÑO GEOVANNY DENILSON",
+        "trade_name":  "DRINK TEAM MINI MARKET Y LICORERIA",
+        "parent_address":  "BABAHOYO, DR. CAMILO PONCE, AV 5 DE JUNIO 11 Y ROLDOS",
+        "mobile":  "0985800970",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-10"
+    },
+    {
+        "id":  333,
+        "ruc":  "1760601102001",
+        "business_name":  "MORENO GONZALEZ DIEGO FERNANDO",
+        "trade_name":  "FACTORY CAPS",
+        "parent_address":  "SANTO DOMINGO, CHIGUILPE, AV RIO LELIA SN Y CALLE ZAPAROS",
+        "mobile":  "0968791215",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-08"
+    },
+    {
+        "id":  332,
+        "ruc":  "0602773285001",
+        "business_name":  "HIDALGO CUASQUER ELSA ELIZABETH",
+        "trade_name":  "POLLO RICO",
+        "parent_address":  "RIOBAMBA, JUNIN 28 Y TARQUI, Av.Antonio Jose de Sucre \u0026 Galo Pl. Lasso ",
+        "mobile":  "0999814335",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-05"
+    },
+    {
+        "id":  331,
+        "ruc":  "0105071690001",
+        "business_name":  "DUTAN PAREDES MONICA CECILIA",
+        "trade_name":  "PALUSO",
+        "parent_address":  "CUENCA, EL SAGRARIO, GASPAR SANGURIMA 8-22 Y LUIS CORDERO",
+        "mobile":  "0992664559",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-05"
+    },
+    {
+        "id":  330,
+        "ruc":  "0929092179001",
+        "business_name":  "TORRES RAMOS LILIANA MARISOL",
+        "trade_name":  "ASADERO D\u0027ROCY",
+        "parent_address":  "CHIMBORAZO, CUMANDA, AV LOS PUENTES",
+        "mobile":  "0990037254",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-04"
+    },
+    {
+        "id":  329,
+        "ruc":  "1203984156001",
+        "business_name":  "MARQUEZ CEDEÑO KATTY ELIZABETH",
+        "trade_name":  "BM MOTOR \u0026 BRILLO",
+        "parent_address":  "EL TRIUNFO, MIGUEL ANDRADE BANEGAS S/N Y VIA EL TRIUNFO LA TRONCAL",
+        "mobile":  "0983566242",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-04"
+    },
+    {
+        "id":  328,
+        "ruc":  "0503476319001",
+        "business_name":  "LOPEZ ABAD LORENA ISABEL",
+        "trade_name":  "LA BARBARA COMIDA RAPIDA",
+        "parent_address":  "LATACUNGA, IGNACIO FLORES PARQUE FLORES, AV. ROOSEVELT SN Y AV. RUMIÑAHUI",
+        "mobile":  "0995526022",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-03"
+    },
+    {
+        "id":  327,
+        "ruc":  "1793225764001",
+        "business_name":  "COMPLEJO DE SALUD SANLUIS S.A.S.",
+        "trade_name":  "COMPLEJO DE SALUD SAN LUIS",
+        "parent_address":  "QUITO, SAN JOSE DE MINAS, JUAN MONTALVO Y VIA QUITO",
+        "mobile":  "0996972236",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-03"
+    },
+    {
+        "id":  326,
+        "ruc":  "0926072802001",
+        "business_name":  "MENDOZA VARGAS LEONARDO WELLINGTON",
+        "trade_name":  "MONKEY BEER",
+        "parent_address":  "GUAYAQUIL, XIMENA, SOLAR 7",
+        "mobile":  "0987611698",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-02"
+    },
+    {
+        "id":  325,
+        "ruc":  "0701501652001",
+        "business_name":  "MOSCOSO ORTIZ BOSCO JOSE VICENTE",
+        "trade_name":  "CONEXION DIGITAL EC",
+        "parent_address":  "LA MANA, EL CARMEN, SAN PABLO SN Y ATAHUALPA",
+        "mobile":  "0984437701",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-02"
+    },
+    {
+        "id":  324,
+        "ruc":  "1717029738001",
+        "business_name":  "MANRIQUE LUNA MIRIAN AURORA",
+        "trade_name":  "BEA \"BELLEZA ENTRE AMIGAS\"",
+        "parent_address":  "PICHINCHA, PUERTO QUITO, PASAJE 3 S/N Y ENTRE 18 DE MAYO Y JUAN MONTALVO",
+        "mobile":  "0989731817",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-02"
+    },
+    {
+        "id":  323,
+        "ruc":  "0504605643001",
+        "business_name":  "ROCHA TOCTAGUANO ALICIA NATALY",
+        "trade_name":  "ASADERO EL MASHCA",
+        "parent_address":  "LATACUNGA, ALAQUES (ALAQUEZ), MIGUEL ITURRALDE",
+        "mobile":  "0960830111",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-12-01"
+    },
+    {
+        "id":  322,
+        "ruc":  "1721126587001",
+        "business_name":  "PUMISACHO OCAÑA VICTORIA SHEILA",
+        "trade_name":  "LA BUENA VIBRA - BURGUER HOUSE",
+        "parent_address":  "QUITO, ZAMBIZA, GUAYAQUIL OE3-207 Y ESPEJO",
+        "mobile":  "0998371747",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-12-01"
+    },
+    {
+        "id":  321,
+        "ruc":  "0703143487001",
+        "business_name":  "PIEDRA SARANGO DORA CECILIA",
+        "trade_name":  "FERRETERIA GD \u0026 JEROBA",
+        "parent_address":  "HUAQUILLAS, BOLIVAR MADERO Y VELASCO IBARRA",
+        "mobile":  "0981279067",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-29"
+    },
+    {
+        "id":  320,
+        "ruc":  "0922183710001",
+        "business_name":  "COELLO VERA BRYAN ROGELIO",
+        "trade_name":  "CROSTATA",
+        "parent_address":  "PORTOVIEJO, ANDRÉS DE VERA, AV. 15 DE ABRIL S/N Y VENEZUELA",
+        "mobile":  "0996108944",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-11-28"
+    },
+    {
+        "id":  319,
+        "ruc":  "1750733097001",
+        "business_name":  "NOVILLO HARO SIMONE CRISTINA",
+        "trade_name":  "CLEAN 897",
+        "parent_address":  "DAULE, LA AURORA SATÉLITE, AV. VILLA DEL REY (PLAZA SEVILLA)",
+        "mobile":  "0998328060",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-28"
+    },
+    {
+        "id":  318,
+        "ruc":  "1310969132001",
+        "business_name":  "ARTEAGA PARRALES SANDRA MAGDALENA",
+        "trade_name":  "EL FERRETON",
+        "parent_address":  "MANABI / PAJAN / ROCAFUERTE S/N Y AVENIDA GUAYAQUIL",
+        "mobile":  "0969219590",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-28"
+    },
+    {
+        "id":  317,
+        "ruc":  "2300332513001",
+        "business_name":  "RICAURTE TRUJILLO JULIO ANDRES",
+        "trade_name":  "RUSTIK SD",
+        "parent_address":  "SANTO DOMINGO, ZARACAY, AV. QUITO S/N Y AV RIO TANTI",
+        "mobile":  "0991723580",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-11-28"
+    },
+    {
+        "id":  316,
+        "ruc":  "0951767458001",
+        "business_name":  "PAZMIÑO ROJAS MELANIE DENISSE",
+        "trade_name":  "MEGA",
+        "parent_address":  "GUAYAQUIL, TARQUIM KM 24 VIA A LA COSTA 22 Y CHONGONCITO",
+        "mobile":  "0968645119",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-27"
+    },
+    {
+        "id":  315,
+        "ruc":  "0803444389001",
+        "business_name":  "PICO SANTOS GLENDA MARIA",
+        "trade_name":  "LA HUECA DEL AHORRO",
+        "parent_address":  "glenda_pico1990@hotmail.com",
+        "mobile":  "0992238865",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-27"
+    },
+    {
+        "id":  314,
+        "ruc":  "1803096286001",
+        "business_name":  "PUNINA POVEDA FAUSTO DAVID",
+        "trade_name":  "COSTA MAR MARISQUERÍA",
+        "parent_address":  "Latacunga, Av Amazonas y Guayaquil",
+        "mobile":  "0989268419",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-11-27"
+    },
+    {
+        "id":  313,
+        "ruc":  "0503678096001",
+        "business_name":  "QUIJIJE MACIAS STEFANY MISHELL",
+        "trade_name":  "TODO EN MARISCOS S\u0026W",
+        "parent_address":  "Montecristi los bajos del pechiche calle principal a una cuadra del parque",
+        "mobile":  "0981890094",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-27"
+    },
+    {
+        "id":  312,
+        "ruc":  "0927297333001",
+        "business_name":  "MERA AREVALO FABRICIO JOSUE",
+        "trade_name":  "LISTO AREVALO",
+        "parent_address":  "LISTO",
+        "mobile":  "0963815755",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-27"
+    },
+    {
+        "id":  311,
+        "ruc":  "2351095134001",
+        "business_name":  "VALLEJO MACIAS JONATHAN ALEXIS",
+        "trade_name":  "MR. VALLEJO",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, EDISON MONTESDEOCA S/N Y GUILLERMO ORLANDO",
+        "mobile":  "0991551011",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-11-26"
+    },
+    {
+        "id":  310,
+        "ruc":  "1717654519001",
+        "business_name":  "CEDEÑO IZQUIERDO ANGEL ALFREDO",
+        "trade_name":  "DISTRIMOVIL",
+        "parent_address":  "QUEVEDO, PRINCIPAL SOLAR 4 Y ENTRE 9NA Y 10MA",
+        "mobile":  "0969119827",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-26"
+    },
+    {
+        "id":  309,
+        "ruc":  "1722236989001",
+        "business_name":  "BUSTAMANTE MANZABA CARLOS ALFREDO",
+        "trade_name":  "FERRIPERNO BUSTAMANTE",
+        "parent_address":  "TENA, AV. PERIMETRAL S/N",
+        "mobile":  "0983297385",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-26"
+    },
+    {
+        "id":  308,
+        "ruc":  "0604660472001",
+        "business_name":  "BRITO SAN LUCAS JULISSA POLETE",
+        "trade_name":  "LA PEPA BURGER",
+        "parent_address":  "GENERAL ANTONIO ELIZALDE BUCAY, MAYOR RAUL BANDERAS S/N Y AMBATO",
+        "mobile":  "0960454082",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-25"
+    },
+    {
+        "id":  307,
+        "ruc":  "1717781858001",
+        "business_name":  "JACOME AILLON WALTER FERNANDO",
+        "trade_name":  "SOLAS BURGUER",
+        "parent_address":  "Rio Zamora S4-230 y5to acceso",
+        "mobile":  "0998777214",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-25"
+    },
+    {
+        "id":  306,
+        "ruc":  "1302385792001",
+        "business_name":  "PINARGOTE RAMIREZ PEDRO PABLO",
+        "trade_name":  "MINITIENDA PARA TODOS",
+        "parent_address":  "PORTOVIEJO, ANDRÉS DE VERA, AV DEL EJERCITO S/N Y VENEZUELA",
+        "mobile":  "0999090000",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-24"
+    },
+    {
+        "id":  305,
+        "ruc":  "1305997049001",
+        "business_name":  "TOALA CEDEÑO JESSENIA MARIA",
+        "trade_name":  "LUBRICANTES Y REPUESTOS TOALA",
+        "parent_address":  "MANABI, 24 DE MAYO, SUCRE, COMERCIO S/N Y ELOY ALFARO",
+        "mobile":  "0939288375",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-24"
+    },
+    {
+        "id":  304,
+        "ruc":  "0705200145001",
+        "business_name":  "DAVILA LOPEZ ADRIANA ELIZABETH",
+        "trade_name":  "ADRIMAR",
+        "parent_address":  "PIÑAS, CALLE 9 DE OCTUBRE Y JUAN LEON MERA",
+        "mobile":  "0990093185",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-24"
+    },
+    {
+        "id":  303,
+        "ruc":  "1713882486001",
+        "business_name":  "MURILLO MACIAS MANUEL ANTONIO",
+        "trade_name":  "SUPER TIENDA SAN LUIS",
+        "parent_address":  "Recinto San Luis calle principal S/N  vía al Empalme",
+        "mobile":  "0997364229",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-20"
+    },
+    {
+        "id":  302,
+        "ruc":  "1309791802001",
+        "business_name":  "BRAVO INTRIAGO MANUEL ARTEMIO",
+        "trade_name":  "ADRENZA",
+        "parent_address":  "AV. MANABÍ Y RAMOS IDUARTE",
+        "mobile":  "0958757019",
+        "category_company":  "GIMNASIO",
+        "date_creation":  "2025-11-20"
+    },
+    {
+        "id":  301,
+        "ruc":  "1313413351001",
+        "business_name":  "MORA ANCHUNDIA CATHERINE LILIBETH",
+        "trade_name":  "CAPI-PLAST",
+        "parent_address":  "MANTA, LOS ESTEROS, AV. 104 S/N Y CALLE 114 Y 115",
+        "mobile":  "0983169698",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-18"
+    },
+    {
+        "id":  300,
+        "ruc":  "0804626885001",
+        "business_name":  "NAZARENO ARTEAGA JOHN ROGER",
+        "trade_name":  "BEAUTY GLAM- DISTRIBUIDORA DE BELLEZA",
+        "parent_address":  "QUININDE, ROSA ZARATE QUININDE, T1 S/N Y CALLE 42",
+        "mobile":  "0986078920",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-18"
+    },
+    {
+        "id":  299,
+        "ruc":  "0603554247001",
+        "business_name":  "0603554247001",
+        "trade_name":  "GELTOKIA",
+        "parent_address":  "Riobamba, LizarZaburu, Av Unidad Nacional y Juan Lavalle, Plaza Aurora",
+        "mobile":  "0990969716",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-18"
+    },
+    {
+        "id":  298,
+        "ruc":  "1315968824001",
+        "business_name":  "GARCIA QUIROZ SILVIA ALEJANDRA",
+        "trade_name":  "INTIMATTA",
+        "parent_address":  "La Mana Calle principal",
+        "mobile":  "0968424123",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-18"
+    },
+    {
+        "id":  297,
+        "ruc":  "2100889720001",
+        "business_name":  "CHAVEZ SOLARTE BRAYAN ELVIS",
+        "trade_name":  "LICOMARKET 3.01",
+        "parent_address":  "LAGO AGRIO, NUEVA LOJA, VIA AGUARICO SN Y JAMBELI",
+        "mobile":  "0939050050",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-17"
+    },
+    {
+        "id":  296,
+        "ruc":  "0603998055001",
+        "business_name":  "VARGAS SANCHEZ CARLOS DAVID",
+        "trade_name":  "LICORERIA EL AGAVE",
+        "parent_address":  "RIOBAMBA, LIZARZABURU, AV. DANIEL LEON BORJA 32-21 Y VARGAS TORRES",
+        "mobile":  "0986577142",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-15"
+    },
+    {
+        "id":  295,
+        "ruc":  "0150385854001",
+        "business_name":  "PIZARRO ROCANO NATALY YADIRA",
+        "trade_name":  "SEXY NIGHT",
+        "parent_address":  "GUALACEO, MANUEL GUILLEN S/N Y LUIS CORDERO",
+        "mobile":  "0991643918",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-14"
+    },
+    {
+        "id":  294,
+        "ruc":  "0503032377001",
+        "business_name":  "PALMA CORRALES EDWIN DAVID",
+        "trade_name":  "ELITE LED",
+        "parent_address":  "LATACUNGA, ELOY ALFARO,SAN FELIPE,SIMON RODRIGUEZ Y COSTA RICA",
+        "mobile":  "0997157715",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-14"
+    },
+    {
+        "id":  293,
+        "ruc":  "0202023214001",
+        "business_name":  "PAREDES COLINA MARIAN ELISA",
+        "trade_name":  "FARMACIA ECONOMAS",
+        "parent_address":  "CHILLANES, SAN JOSE DEL TAMBO, TAMBOPAMBA, 17 DE ENERO ENTRE RUPERTO BENAVIDES",
+        "mobile":  "0991157515",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-11-14"
+    },
+    {
+        "id":  292,
+        "ruc":  "1725772998001",
+        "business_name":  "JUMBO RODRIGUEZ MARIA AUXILIADORA",
+        "trade_name":  "TSAFI: CAFETERÍA Y KARAOKE",
+        "parent_address":  "SANTO DOMINGO, CHIGUILPE, AV. RIO LELIA S/N Y LOS CEIBOS",
+        "mobile":  "0962719179",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-14"
+    },
+    {
+        "id":  291,
+        "ruc":  "1804697736001",
+        "business_name":  "TOAPANTA VERA CARLOS VLADIMIR",
+        "trade_name":  "SNACKS UP!",
+        "parent_address":  "AMBATO, AUGUSTO N. MARTINEZ MUNDUGLEO, 13 DE DICIEMBRE SN Y CEIBA",
+        "mobile":  "0983205406",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-13"
+    },
+    {
+        "id":  290,
+        "ruc":  "1850872233001",
+        "business_name":  "JINDE SISA ERICK NICOLAS",
+        "trade_name":  "CUNA DEL SOL",
+        "parent_address":  "SANTA ELENA, LA LIBERTAD, LA LIBERTAD 18 S/N",
+        "mobile":  "0968715056",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-13"
+    },
+    {
+        "id":  289,
+        "ruc":  "1850920503001",
+        "business_name":  "PALLO FREIRE DIANA VANESSA",
+        "trade_name":  "JOTH LESS 2",
+        "parent_address":  "CHIMBORAZO, PALLATANGA, JOSE VELASCO IBARRA SN Y SN",
+        "mobile":  "0963032343",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-13"
+    },
+    {
+        "id":  288,
+        "ruc":  "0152825121001",
+        "business_name":  "MATZINGER NICKOLAUS",
+        "trade_name":  "MOZART",
+        "parent_address":  "SALINAS, GRAL ALBERTO ENRIQUEZ GALLO, AV. GRAL ENRIQUEZ GALLO Y DIGNO A NUÑEZ",
+        "mobile":  "0963131856",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-13"
+    },
+    {
+        "id":  287,
+        "ruc":  "1715166029001",
+        "business_name":  "LA MANSIÓN DE LOS MARISCOS",
+        "trade_name":  "LA MANSIÓN DE LOS MARISCOS",
+        "parent_address":  "CAYAMBE, ASCAZUBI S/N Y JUNIN",
+        "mobile":  "0000000009",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-13"
+    },
+    {
+        "id":  286,
+        "ruc":  "1303620023001",
+        "business_name":  "MOREANO GARCIA MALENA ELOISA",
+        "trade_name":  "SAMO CARNICOS",
+        "parent_address":  "MANABI / PORTOVIEJO / 18 DE OCTUBRE / AV MANABI LOTE 10 Y CALLE MANUEL PALOMEQUE",
+        "mobile":  "0997591134",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-12"
+    },
+    {
+        "id":  285,
+        "ruc":  "0802494120001",
+        "business_name":  "ZAMBRANO RONQUILLO DANNY VICENTE",
+        "trade_name":  "FERRIDAN S.A.",
+        "parent_address":  "LA CONCORDIA, ELISITA 0 Y GUAYAS",
+        "mobile":  "0980375575",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-12"
+    },
+    {
+        "id":  284,
+        "ruc":  "0750873614001",
+        "business_name":  "SALINAS RIVERA ROBERT STEVEN",
+        "trade_name":  "COMERCIAL RIVERA",
+        "parent_address":  "EL ORO, PASAJE OCHOA LEON MATRIZ, ELOY ALFARO Y PIEDRAHITA",
+        "mobile":  "0986918107",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-12"
+    },
+    {
+        "id":  283,
+        "ruc":  "1729109106001",
+        "business_name":  "FOROUDI LOAIZA AMIN",
+        "trade_name":  "BUNKR SMASH IN SILENCE",
+        "parent_address":  "QUITO, LA CONCEPCIÓN, OE4 AV. BRASIL N46-125 Y N46 ZAMORA",
+        "mobile":  "0997934528",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-11"
+    },
+    {
+        "id":  282,
+        "ruc":  "1711357507001",
+        "business_name":  "MOREIRA CHAVARRIA ORLEY MARON",
+        "trade_name":  "SABROPAN",
+        "parent_address":  "SANTO DOMINGO, RIO VERDE, JACINTO CORTEZ S/N Y JOSE RUMAZO GONZALEZ",
+        "mobile":  "0969804323",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-10"
+    },
+    {
+        "id":  281,
+        "ruc":  "1718264896001",
+        "business_name":  "CARRILLO MANCERO ANDRES SEBASTIAN",
+        "trade_name":  "MARISQUERIA SABOR DE MI TIERRA",
+        "parent_address":  "QUITO, PUENGASÍ, S2I LOTE 83 Y E21B, 18 de septiembre y Ulpiano Páez",
+        "mobile":  "0998849731",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-10"
+    },
+    {
+        "id":  280,
+        "ruc":  "1754338679001",
+        "business_name":  "GAVIDIA PICO KIMBERLY DOMENICA",
+        "trade_name":  "MANABA 593",
+        "parent_address":  "Quito, Chillogallo, Rafael García S33-38 y Matilde Álvarez",
+        "mobile":  "0983104717",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-09"
+    },
+    {
+        "id":  279,
+        "ruc":  "0504083395001",
+        "business_name":  "AÑARUMBA YANCHATIPAN KORIN MICAELA",
+        "trade_name":  "KORIN MICAELA AÑARUMBA",
+        "parent_address":  "LATACUNGA, LA MATRIZ, JUAN ABEL ECHEVERRIA SN Y QUITO",
+        "mobile":  "0998766861",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-08"
+    },
+    {
+        "id":  278,
+        "ruc":  "1754623666001",
+        "business_name":  "FOYAIN INTRIAGO ANGELA YULEIDY",
+        "trade_name":  "MAISON BLOOM",
+        "parent_address":  "Quito, Antonio de Ulloa entre Cuero y Pascual de Andagoya",
+        "mobile":  "0963319186",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-07"
+    },
+    {
+        "id":  277,
+        "ruc":  "1716445158001",
+        "business_name":  "PAEZ SANCHEZ FRANKLIN PATRICIO",
+        "trade_name":  "LICORERÍA NEFERTITI",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, 14 LOTE 2 Y PASAJE L",
+        "mobile":  "0983855829",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-07"
+    },
+    {
+        "id":  276,
+        "ruc":  "0603878927001",
+        "business_name":  "COLCHA COLCHA NORMA CARMITA",
+        "trade_name":  "RESTAURANTE AROMA CARBON",
+        "parent_address":  "BAÑOS DE AGUA SANTA, ELOY ALFARO SN Y AMBATO",
+        "mobile":  "0995370330",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-07"
+    },
+    {
+        "id":  275,
+        "ruc":  "1717585960001",
+        "business_name":  "PEÑA CARRILLO TATIANA ABIGAIL",
+        "trade_name":  "ISAIIA",
+        "parent_address":  "QUITO, CARCELÉN, E17C C1047 Y LAURELES DE LOS EUCALIPTOS",
+        "mobile":  "0989099092",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-07"
+    },
+    {
+        "id":  274,
+        "ruc":  "0691786955001",
+        "business_name":  "ECOFACIL S.A.S.",
+        "trade_name":  "ECOGRANEL",
+        "parent_address":  "RIOBAMBA, BRASIL 1570 Y ESMERALDAS Y BOYACA",
+        "mobile":  "0962231028",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-07"
+    },
+    {
+        "id":  273,
+        "ruc":  "1201182506001",
+        "business_name":  "ALVARADO COZZARELLI JOSE JIMMY",
+        "trade_name":  "SUGAR BOWL",
+        "parent_address":  "BABAHOYO, DR. CAMILO PONCE, ELOY ALFARO 0203 Y GENERAL BARONA Y MALECON",
+        "mobile":  "0997588674",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-07"
+    },
+    {
+        "id":  272,
+        "ruc":  "1722691084001",
+        "business_name":  "GAROFALO GAROFALO GRACE ESTHER",
+        "trade_name":  "IMPERNOVA",
+        "parent_address":  "NUEVA LOJA, AV GONZALO LOPEZ MARAÑON LOTE 02 Y CALLE JOAQUIN DE OLMEDO",
+        "mobile":  "0939689092",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-05"
+    },
+    {
+        "id":  271,
+        "ruc":  "1313177998001",
+        "business_name":  "HERRMANN CHICA SILVIA YULIANA",
+        "trade_name":  "MH STOREMANIA",
+        "parent_address":  "IMBABURA, IBARRA, SAN FRANCISCO, AV. EL RETORNO 16-11 Y RIO CHINCHIPE",
+        "mobile":  "0980730560",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-05"
+    },
+    {
+        "id":  270,
+        "ruc":  "0604113092001",
+        "business_name":  "ROSERO ZAVALA DANILO XAVIER",
+        "trade_name":  "PARADERO REINA DEL CISNE",
+        "parent_address":  "ALAUSI, PANAMERICANA SUR E35 SNN Y NINGUNA",
+        "mobile":  "0982048820",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-11-03"
+    },
+    {
+        "id":  269,
+        "ruc":  "1702541770001",
+        "business_name":  "MONTALUISA MALES RAQUEL AIDA",
+        "trade_name":  "MARKET RAQUEL",
+        "parent_address":  "QUITO, LA CONCEPCIÓN,/ IÑAQUITO S/N Y VILLALENGUA",
+        "mobile":  "0988719656",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-11-02"
+    },
+    {
+        "id":  268,
+        "ruc":  "1312731639001",
+        "business_name":  "CAMPOVERDE GARATE JULIA ISABEL",
+        "trade_name":  "JOYERIA CHORDELEG",
+        "parent_address":  "Quito, Moran Valverde y Teniente Hugo Ortiz, Quicentro Sur P2 128 CT2",
+        "mobile":  "0979806600",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-31"
+    },
+    {
+        "id":  267,
+        "ruc":  "0201877933001",
+        "business_name":  "ARTEAGA CABRERA JOSE LUIS",
+        "trade_name":  "JOTH LESS",
+        "parent_address":  "PALLATANGA, PRINCIPAL",
+        "mobile":  "0939427701",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-31"
+    },
+    {
+        "id":  266,
+        "ruc":  "0930890173001",
+        "business_name":  "MACIAS CHACON JOSELYN SUSANA",
+        "trade_name":  "SUSYIMPORT2",
+        "parent_address":  "BUENA FE, SAN JACINTO DE BUENA FE, AV. 7 DE AGOSTO SOLAR 4 Y BENIGNO SOTOMAYOR",
+        "mobile":  "0980364787",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-31"
+    },
+    {
+        "id":  265,
+        "ruc":  "0993402912001",
+        "business_name":  "JKRESTAURANT S.A.S.",
+        "trade_name":  "LA ENTONADA",
+        "parent_address":  "GUAYAS, DAULE, X3FJ Y VIAL 1",
+        "mobile":  "0981775798",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-10-30"
+    },
+    {
+        "id":  264,
+        "ruc":  "0202129334001",
+        "business_name":  "PEREZ SILVA DOMENIKA NOHELLIA",
+        "trade_name":  "CITRIKA",
+        "parent_address":  "CHIMBO, SAN JOSE DE CHIMBO, ELOY ALFARO Y ENTRE GUAYAS Y 10 DE AGOSTO",
+        "mobile":  "0987477095",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-29"
+    },
+    {
+        "id":  263,
+        "ruc":  "1719586156001",
+        "business_name":  "CADENA CHIPANTASIG JOSE GABRIEL",
+        "trade_name":  "DISTRIBUIDORA CADENA",
+        "parent_address":  "QUITO, SAN ANTONIO, PADRE RUMI 220 Y 13 DE JUNIO",
+        "mobile":  "0981335710",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-27"
+    },
+    {
+        "id":  262,
+        "ruc":  "0703445056001",
+        "business_name":  "PIURE HIDALGO ITALO DARWIN",
+        "trade_name":  "KAWUAII MAGIA",
+        "parent_address":  "SANTA ROSA, AV. ANTONIO JOSE DE SUCRE E/ 15 DE OCTUBRE Y 1ERO DE AGOSTO",
+        "mobile":  "0985604842",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-26"
+    },
+    {
+        "id":  261,
+        "ruc":  "1205117227001",
+        "business_name":  "PACHECO ORMEÑO MAYRA MELISSA",
+        "trade_name":  "FARMACIA LUZ DE VIDA",
+        "parent_address":  "GUAYAQUIL, TARQUI, FLORIDA NORTE SOLAR 3 Y CDLA FLORIDA NORTE",
+        "mobile":  "0980593081",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-10-24"
+    },
+    {
+        "id":  260,
+        "ruc":  "0501327555001",
+        "business_name":  "CHICAIZA CHICAIZA MESIAS RICARDO",
+        "trade_name":  "TOM POLLO",
+        "parent_address":  "QUITO, IÑAQUITO, MARIA ANGELICA CARRILLO E10-26 Y 6 DE DICIEMBRE",
+        "mobile":  "0999691823",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-10-24"
+    },
+    {
+        "id":  259,
+        "ruc":  "0603582446001",
+        "business_name":  "VINUEZA TRUJILLO EDISON GEOVANNY",
+        "trade_name":  "A FUEGO LENTO",
+        "parent_address":  "MACAS, García Moreno entre Av. Edelberto Bonilla y Monseñor Ulpiano Perez",
+        "mobile":  "0958966001",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-24"
+    },
+    {
+        "id":  258,
+        "ruc":  "2350225856001",
+        "business_name":  "AGUILAR CHENCHE JENNIFFER YAJAIRA",
+        "trade_name":  "IMPORTADORA.PRACTICO",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, URUGUAY S/N Y AV. ABRAHAM CALAZACON",
+        "mobile":  "0959747489",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-24"
+    },
+    {
+        "id":  257,
+        "ruc":  "1001650330001",
+        "business_name":  "CALVACHE VALLEJOS YOCONDA EULALIA",
+        "trade_name":  "TEXTILES JIRETEX",
+        "parent_address":  "IMBABURA, ANTONIO ANTE, ATUNTAQUI, PEREZ MUÑOZ SN Y GENERAL ENRIQUEZ",
+        "mobile":  "0981854438",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-24"
+    },
+    {
+        "id":  256,
+        "ruc":  "1724961808001",
+        "business_name":  "ALVAREZ SANCHEZ GUSTAVO ADOLFO",
+        "trade_name":  "TONY STORE",
+        "parent_address":  "SANTO DOMINGO, CHIGUILPE, AV QUITO S/N Y IBARRA",
+        "mobile":  "0987487230",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-23"
+    },
+    {
+        "id":  255,
+        "ruc":  "0803751874001",
+        "business_name":  "SEGOVIA RAMIREZ NATHALY YELITZA",
+        "trade_name":  "PLASTIFIESTAS MIL MOMENTOS",
+        "parent_address":  "ESMERALDAS, JUAN MONTALVO 4TA Y COLON",
+        "mobile":  "0963465109",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-22"
+    },
+    {
+        "id":  254,
+        "ruc":  "1750925776001",
+        "business_name":  "GARCES MUÑOZ MARIA FERNANDA",
+        "trade_name":  "MANGASTYLE ELITE",
+        "parent_address":  "QUITO, LA MAGDALENA, AV. PEDRO VICENTE MALDONADO S11-122 Y RAFAEL ARTETA",
+        "mobile":  "0992213767",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-22"
+    },
+    {
+        "id":  253,
+        "ruc":  "1206748426001",
+        "business_name":  "LAJE TERAN MARIA MAGDALENA",
+        "trade_name":  "RESTAURANTE EL MUELLE BY MARY",
+        "parent_address":  "VINCES, MACHINAZZA S/N Y CALLE ELOY",
+        "mobile":  "0991679634",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-21"
+    },
+    {
+        "id":  252,
+        "ruc":  "1719278994001",
+        "business_name":  "GONZALEZ ROSADO PAMELA ALEXANDRA",
+        "trade_name":  "MINI MARKET ORIGEN 593",
+        "parent_address":  "QUITO, CUMBAYA, MAQUIAVELO E6-128 Y E6B",
+        "mobile":  "0998967158",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-21"
+    },
+    {
+        "id":  251,
+        "ruc":  "1310553241001",
+        "business_name":  "VELEZ ACOSTA ANDREA MICHELLE",
+        "trade_name":  "MORENA BEAUTY NAILS SPA",
+        "parent_address":  "GUAYAQUIL, TARQUI, SAUCES IX MZ L2 Y SOL 16",
+        "mobile":  "0992057483",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-21"
+    },
+    {
+        "id":  250,
+        "ruc":  "1804954970001",
+        "business_name":  "JORDAN SOLIS BRYAN SANTIAGO",
+        "trade_name":  "COMERCIAL REINA",
+        "parent_address":  "jordansanty1m@gmail.com",
+        "mobile":  "0984321301",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-20"
+    },
+    {
+        "id":  249,
+        "ruc":  "0104617261001",
+        "business_name":  "PADILLA CAMPOVERDE ALEX ARMANDO",
+        "trade_name":  "LA CANGREJIZA",
+        "parent_address":  "Cuenca, Av. 12 de Octubre y Fray Luis de León",
+        "mobile":  "0993178213",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-20"
+    },
+    {
+        "id":  248,
+        "ruc":  "1719160770001",
+        "business_name":  "SANTACRUZ GUAGALANGO NELLY JANETH",
+        "trade_name":  "FABIUS GRILL",
+        "parent_address":  "QUITO, PUEMBO, ANTONIO ARIAS S6-93 Y JULIO TOBAR",
+        "mobile":  "0999899422",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-18"
+    },
+    {
+        "id":  247,
+        "ruc":  "0921735049001",
+        "business_name":  "MINA ZAVALA ANDREA CAROLINA",
+        "trade_name":  "FARMACIAS 360",
+        "parent_address":  "GUAYAQUIL, TARQUI, PRINCIPAL 1 Y PRINCIPAL",
+        "mobile":  "0997091176",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-10-18"
+    },
+    {
+        "id":  246,
+        "ruc":  "0400820221001",
+        "business_name":  "MORA DIAZ NORMA ARACELI",
+        "trade_name":  "MEGA CARNES",
+        "parent_address":  "TULCAN, GONZALEZ SUAREZ, AV. CORAL Y URUGUAY",
+        "mobile":  "0978848852",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-17"
+    },
+    {
+        "id":  245,
+        "ruc":  "1712390267001",
+        "business_name":  "TOAPANTA LOAIZA NANCY MARGOTH",
+        "trade_name":  "FPUNTOG",
+        "parent_address":  "SANTO DOMINGO, ALLURIQUIN, VIA QUITO S/N Y EUGENIO ESPEJO",
+        "mobile":  "0969451864",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-16"
+    },
+    {
+        "id":  244,
+        "ruc":  "1307817658001",
+        "business_name":  "VERA MENDOZA NIEVE MARIBEL",
+        "trade_name":  "LOLUCA SD",
+        "parent_address":  "SANTO DOMINGO, CHIGUILPE, AV LA LORENA S/N Y CALLE KITUKARAS",
+        "mobile":  "0987362756",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-10-15"
+    },
+    {
+        "id":  243,
+        "ruc":  "1717368128001",
+        "business_name":  "PILLA LOAYZA YESICA ALEXANDRA",
+        "trade_name":  "CLEAN.897",
+        "parent_address":  "SANTO DOMINGO BOMBOLI, AV CHONE SN Y CALLE ARGENTINA",
+        "mobile":  "0993766109",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-15"
+    },
+    {
+        "id":  242,
+        "ruc":  "1722939400001",
+        "business_name":  "VASQUEZ MONTENEGRO KAREN NATALY",
+        "trade_name":  "FARMACIA LA DOLOROSA",
+        "parent_address":  "QUITO, QUITUMBE, AV. CONDOR ÑAN SN Y AV. MARISCAL SUCRE",
+        "mobile":  "0984248766",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-10-14"
+    },
+    {
+        "id":  241,
+        "ruc":  "0942093170001",
+        "business_name":  "MORAN PEÑA NICOLE MICHELLE",
+        "trade_name":  "FRESH POINT LOS HELECHOS",
+        "parent_address":  "MILAGRO, AV COLON A1 Y PRESIDENTE AURELIO MOSQUERA NARVAEZ",
+        "mobile":  "0968018501",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-13"
+    },
+    {
+        "id":  240,
+        "ruc":  "1314390830001",
+        "business_name":  "RIVAS VILLIGUA MIGUEL NICANOR",
+        "trade_name":  "PICANTERIA MIGUELITO",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, VIA QUININDE S/N Y PRINCIPAL",
+        "mobile":  "0900000000",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-13"
+    },
+    {
+        "id":  239,
+        "ruc":  "1722479308001",
+        "business_name":  "CASTILLO QUIÑONEZ KAREN PAOLA",
+        "trade_name":  "PARTY HOUSE",
+        "parent_address":  "ESMERALDAS, 5 DE AGOSTO, QUITO 15 Y AV 3RA OLMEDO",
+        "mobile":  "0999849027",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-12"
+    },
+    {
+        "id":  238,
+        "ruc":  "1303395261001",
+        "business_name":  "VERGARA ALTAMIRANO FLORISA ISABEL",
+        "trade_name":  "PASTELERIA DULCINEA",
+        "parent_address":  "MANABI, PORTOVIEJO, ANDRÉS DE VERA, ARMANDO FLOR CEDEÑO VILLA 1",
+        "mobile":  "0994517937",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-10-11"
+    },
+    {
+        "id":  237,
+        "ruc":  "0605144062001",
+        "business_name":  "LARA SANTILLAN CATHERINE VIVIANA",
+        "trade_name":  "FAST FOOD LA PAZ",
+        "parent_address":  "CHIMBORAZO, RIOBAMBA, VELOZ",
+        "mobile":  "0967582420",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-09"
+    },
+    {
+        "id":  236,
+        "ruc":  "0106069495001",
+        "business_name":  "LOPEZ SIGUENZA TATIANA PATRICIA",
+        "trade_name":  "EL SECRETO DE LA BOTELLA",
+        "parent_address":  "CUENCA, TOTORACOCHA, YANAHURCO SN Y VALDIVIA",
+        "mobile":  "0994606019",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-08"
+    },
+    {
+        "id":  235,
+        "ruc":  "0804294379001",
+        "business_name":  "MANZABA MARQUEZ MABEL SARALYA",
+        "trade_name":  "FARMACIA COMUNITARIA EL SALTO",
+        "parent_address":  "MUISNE, SAN FRANCISCO, VIA A EL SALTO 14 Y 308",
+        "mobile":  "0980717257",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-10-06"
+    },
+    {
+        "id":  234,
+        "ruc":  "0504083395001",
+        "business_name":  "AÑARUMBA YANCHATIPAN KORIN MICAELA",
+        "trade_name":  "AÑARUMBA YANCHATIPAN KORIN MICAELA",
+        "parent_address":  "LATACUNGA, LA MATRIZ, JUAN ABEL ECHEVERRIA 5-56 Y QUITO",
+        "mobile":  "0998766861",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-06"
+    },
+    {
+        "id":  233,
+        "ruc":  "1720679560001",
+        "business_name":  "CHICA JIMA CRISTHIAN LEONARDO",
+        "trade_name":  "PLASTICOS SAN PEDRO",
+        "parent_address":  "RUMIÑAHUI, SAN PEDRO DE TABOADA, AV MARIANA DE JESUS LOCAL 03 Y VENEZUELA",
+        "mobile":  "0969853870",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-06"
+    },
+    {
+        "id":  232,
+        "ruc":  "1723298632001",
+        "business_name":  "CASTRO MONTIEL CRISTHIAN ABEL",
+        "trade_name":  "DULCINEA",
+        "parent_address":  "ESMERALDAS, LUIS TELLO LAS PALMAS, AV 1RA DEL PACIFICO 2 Y HILDA PADILLA",
+        "mobile":  "0963057118",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-10-03"
+    },
+    {
+        "id":  231,
+        "ruc":  "0604348540001",
+        "business_name":  "PAUCAR PAUCAR BYRON CRISTOBAL",
+        "trade_name":  "BARUCH RESTOBAR",
+        "parent_address":  "Av Pedro Vicente Maldonado y Juan Romualdo Navarro",
+        "mobile":  "0987919674",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-10-02"
+    },
+    {
+        "id":  230,
+        "ruc":  "0604620245001",
+        "business_name":  "VIZUETE VASCONEZ KLEVER DAVID",
+        "trade_name":  "FARMAREDS LA INMACULADA",
+        "parent_address":  "david.vizuete@hotmail.com",
+        "mobile":  "0996898641",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-09-30"
+    },
+    {
+        "id":  229,
+        "ruc":  "0706103231001",
+        "business_name":  "ROMERO JIMENEZ YULISA MARIZOL",
+        "trade_name":  "MAGOO",
+        "parent_address":  "PORTOVELO, CIUDADELA 28 DE NOVIEMBRE",
+        "mobile":  "0967597071",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-30"
+    },
+    {
+        "id":  228,
+        "ruc":  "1711847820001",
+        "business_name":  "ALAVA CASTRO ALFREDO XAVIER",
+        "trade_name":  "BLUEROSE",
+        "parent_address":  "QUITO, IÑAQUITO,  Portugal E10-63",
+        "mobile":  "0963267912",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-30"
+    },
+    {
+        "id":  227,
+        "ruc":  "1350931281001",
+        "business_name":  "BASURTO ZAMBRANO MELISSA ALEJANDRA",
+        "trade_name":  "HELADERIA GELATI",
+        "parent_address":  "MANTA, CIUDADELA EL PALMAR",
+        "mobile":  "0988471977",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-29"
+    },
+    {
+        "id":  226,
+        "ruc":  "1310138381001",
+        "business_name":  "ZAMBRANO LOOR JESSICA VIVIANA",
+        "trade_name":  "PARRILLADAS LA CASA DE SANTOS 2",
+        "parent_address":  "MANTA, LOS ESTEROS, EL PALMAR MZ D11 VILLA 3 FRENTE AL TERMINAL TERRESTRE",
+        "mobile":  "0996603111",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-29"
+    },
+    {
+        "id":  225,
+        "ruc":  "0891793819001",
+        "business_name":  "HUNGRYZONE S.A.S.",
+        "trade_name":  "HUNGRYZONE",
+        "parent_address":  "QUININDE, ROSA ZARATE, AV QUININDE SANTO DO SL40 MARIA REASCO Y 5 DE AGOSTO",
+        "mobile":  "0002000000",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-09-29"
+    },
+    {
+        "id":  224,
+        "ruc":  "0953757721001",
+        "business_name":  "CABRERA ANDRADE BYRON ROBERTO",
+        "trade_name":  "FRIGO MAN",
+        "parent_address":  "GUAYAQUIL, TARQUI, URDENOR1 MZ135VILLA3 Y JUAN TANCO MARENGO",
+        "mobile":  "0969072190",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-29"
+    },
+    {
+        "id":  223,
+        "ruc":  "0923242309001",
+        "business_name":  "GONZALEZ SEGURA JOSE MARTIN",
+        "trade_name":  "SODABAR PROMITA",
+        "parent_address":  "GUAYAQUIL, PASCUALES, MZ6380 27 Y ETAPA CENTENARIO",
+        "mobile":  "0963777512",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-29"
+    },
+    {
+        "id":  222,
+        "ruc":  "0850846437001",
+        "business_name":  "ROMERO MIELES JONATHAN MIGUEL",
+        "trade_name":  "PARRILLADAS J.R.",
+        "parent_address":  "QUININDE, LA UNION, AV. LOJA Y 10 DE AGOSTO 001 Y MARGEN DERECHO",
+        "mobile":  "0961971992",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-29"
+    },
+    {
+        "id":  221,
+        "ruc":  "1725121873001",
+        "business_name":  "ALVAREZ GONZAGA NEYDA GABRIELA",
+        "trade_name":  "HELADOS VELVET",
+        "parent_address":  "LA CONCORDIA, PASAJE A S/N Y CALLE PRIMERO DE MAYO",
+        "mobile":  "0958891292",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-26"
+    },
+    {
+        "id":  220,
+        "ruc":  "0804443794001",
+        "business_name":  "DE LA CRUZ RUA NICOLY JAMILET",
+        "trade_name":  "CON LA BENDICION DE DIOS LOS TRES HERMANOS",
+        "parent_address":  "ESMERALDAS, RIO VERDE, LAGARTO / MALECON 4",
+        "mobile":  "0984761899",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-26"
+    },
+    {
+        "id":  219,
+        "ruc":  "1206441725001",
+        "business_name":  "BONILLA VARGAS ALISON YAMILETH",
+        "trade_name":  "RINCON DE LAS ALITAS",
+        "parent_address":  "SIMON BOLIVAR, FIDELINO DEL VALLE 001 Y 12 DE FEBRERO ",
+        "mobile":  "0985915179",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-26"
+    },
+    {
+        "id":  218,
+        "ruc":  "0106069495001",
+        "business_name":  "LOPEZ SIGUENZA TATIANA PATRICIA - VACIO",
+        "trade_name":  "DEVIINE2 - VACIO",
+        "parent_address":  "SAN BLAS, JAIME ROLDOS AGUILERA S/N Y AV. HUAYNA CAPAC",
+        "mobile":  "0000000021",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-25"
+    },
+    {
+        "id":  217,
+        "ruc":  "0106069495001",
+        "business_name":  "LOPEZ SIGUENZA TATIANA PATRICIA",
+        "trade_name":  "DULCES SABORES",
+        "parent_address":  "CUENCA, SAN BLAS, JAIME ROLDOS AGUILERA S/N Y AV. HUAYNA CAPAC",
+        "mobile":  "0994606019",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-25"
+    },
+    {
+        "id":  216,
+        "ruc":  "0705572782001",
+        "business_name":  "ORDOÑEZ YUNGA YORDY ELENIN",
+        "trade_name":  "EL SEÑOR DE LAS CARNES",
+        "parent_address":  "EL ORO, EL GUABO, CALLE SUCRE Y ZARUMA",
+        "mobile":  "0979940488",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-25"
+    },
+    {
+        "id":  215,
+        "ruc":  "2300089766001",
+        "business_name":  "CEVALLOS BRITO JOSSELYN PAOLA",
+        "trade_name":  "BLOOM FIT",
+        "parent_address":  "SANTO DOMINGO, RIO TOACHI, AVENIDA CHONE N-67 Y RIO CHILA",
+        "mobile":  "0968602156",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-09-24"
+    },
+    {
+        "id":  214,
+        "ruc":  "1793195257001",
+        "business_name":  "MEGAIMPERIO S.A.S.",
+        "trade_name":  "MEGAIMPERIO S.A.S.",
+        "parent_address":  "QUITO, CUMBAYA, FRANCISCO DE ORELLANA E5 193",
+        "mobile":  "0995474690",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-24"
+    },
+    {
+        "id":  213,
+        "ruc":  "0605119841001",
+        "business_name":  "CAIZAGUANO PACA JAIME PAUL",
+        "trade_name":  "FARMACIAS RIOMEDIC",
+        "parent_address":  "QUITO, CENTRO HISTÓRICO, MANABI OE4-19 Y VENEZUELA",
+        "mobile":  "0964191245",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-09-23"
+    },
+    {
+        "id":  212,
+        "ruc":  "1313204230001",
+        "business_name":  "CHOEZ PONCE VIVIANA LISBETH",
+        "trade_name":  "EL IMPERIO DE LA CARNE",
+        "parent_address":  "JIPIJAPA, SAN LORENZO DE JIPIJAPA, AV. ALEJO LASCANO S/N Y OCTAVA TRANSVERSAL,DIAGONAL A LA IGLESIA SANTA MARÍA MADRE DE LA FAE.",
+        "mobile":  "0995138973",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-23"
+    },
+    {
+        "id":  211,
+        "ruc":  "0909402323001",
+        "business_name":  "MARQUINEZ INTRIAGO RUBEN DARIO",
+        "trade_name":  "RESTAURANT MANABITA COSTA NORTE #2",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, MONSEÑOR SCHUMACHER Y VENEZUELA FRENTE AL NEWMAN",
+        "mobile":  "0000009208",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-22"
+    },
+    {
+        "id":  210,
+        "ruc":  "0705067619001",
+        "business_name":  "ARMIJOS RODAS LENNY GERMANIA",
+        "trade_name":  "COMISARIATO HIPERDELI",
+        "parent_address":  "PIÑAS, SUCRE SN Y JUAN LEON MERA",
+        "mobile":  "0979428443",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-21"
+    },
+    {
+        "id":  209,
+        "ruc":  "1105131047001",
+        "business_name":  "ARMIJOS SIGCHO WILMAN CLOTARIO",
+        "trade_name":  "MINIMARKET REINA DEL CISNE",
+        "parent_address":  "LOJA, SARAGURO, LUIS URDANETA",
+        "mobile":  "0997755568",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-20"
+    },
+    {
+        "id":  208,
+        "ruc":  "0604962753001",
+        "business_name":  "CHULLI YUPANGUI JULISSA ELIZABETH",
+        "trade_name":  "ASSALI",
+        "parent_address":  "RIOBAMBA, VELAZCO, OROZCO Y TENIENTE LATUS",
+        "mobile":  "0962709022",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-20"
+    },
+    {
+        "id":  207,
+        "ruc":  "0195091331001",
+        "business_name":  "SAN TELMO S.A.S.",
+        "trade_name":  "GUILLERMINAS COFFEE EXPERIENCE",
+        "parent_address":  "CUENCA, SAYAUSI, AUTOPISTA CUENCA MOLLETURO E582 SN Y SN",
+        "mobile":  "0984737732",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-09-19"
+    },
+    {
+        "id":  206,
+        "ruc":  "2300261480001",
+        "business_name":  "ALVARADO DIAZ BELEN ESTEFANIA",
+        "trade_name":  "LADYBEL",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, AV. BOMBOLI S/N Y TANDAPI",
+        "mobile":  "0981745340",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-19"
+    },
+    {
+        "id":  205,
+        "ruc":  "0702796202001",
+        "business_name":  "MOROCHO RIOFRIO IRMA BEATRIZ",
+        "trade_name":  "VERY GOOD JOHNSON",
+        "parent_address":  "MACHALA, SANTA ROSA S/N Y BOYACA ",
+        "mobile":  "0999475750",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-09-18"
+    },
+    {
+        "id":  204,
+        "ruc":  "0923297048001",
+        "business_name":  "SERRANO ORRALA MANUEL IGNACIO",
+        "trade_name":  "OSO FOOD",
+        "parent_address":  "The Garden plaza 2, la joya",
+        "mobile":  "0964098157",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-17"
+    },
+    {
+        "id":  203,
+        "ruc":  "1720539707001",
+        "business_name":  "RUEDA GALARRAGA CARLA JANETH",
+        "trade_name":  "OFERTAS SHOP\t",
+        "parent_address":  "Edificio Magic Local 02, Calle Mariano Paredes N74-169 y Jonatas Sáenz, Sector Ponceano Alto",
+        "mobile":  "0995176992",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-17"
+    },
+    {
+        "id":  202,
+        "ruc":  "0106819816001",
+        "business_name":  "MUZHA PINDO VERONICA MARILU",
+        "trade_name":  "LA DELICIA",
+        "parent_address":  "CUENCA, MONAY, PASEO DE LOS CAÑARIS S/N Y JOSE LUIS TAMAYO",
+        "mobile":  "0981819810",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-16"
+    },
+    {
+        "id":  201,
+        "ruc":  "2350018285001",
+        "business_name":  "ENRIQUEZ SILVA MOISES STALIN",
+        "trade_name":  "METAL GAS 1700",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, DIOGENES PAREDES S/N Y PJE HUMBERTO MORE",
+        "mobile":  "0123123123",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-16"
+    },
+    {
+        "id":  200,
+        "ruc":  "1313559443001",
+        "business_name":  "MURILLO CALDERON ADRIAN ARTURO",
+        "trade_name":  "COMERCIAL MURILLO",
+        "parent_address":  "MANTA, SANTA MARIANITA BOCA DE PACOCHE, PRINCIPAL S/N",
+        "mobile":  "0000000129",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-15"
+    },
+    {
+        "id":  199,
+        "ruc":  "0924099500001",
+        "business_name":  "ALBAN GUERRERO GABRIELA ANDREA",
+        "trade_name":  "OLIVE COMIDA SALUDABLE",
+        "parent_address":  "GUAYAQUIL, TARQUI,AV BOMBERO",
+        "mobile":  "0984910456",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-15"
+    },
+    {
+        "id":  198,
+        "ruc":  "1759663899001",
+        "business_name":  "SERRANO CUARTAS MARIBEL",
+        "trade_name":  "LAS DELICIAS COLOMBIANAS DE MARIBEL",
+        "parent_address":  "Cayambe, calle Rocafuerte entre Chile y Venezuela",
+        "mobile":  "0988467601",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-15"
+    },
+    {
+        "id":  197,
+        "ruc":  "1103215867001",
+        "business_name":  "GUARNIZO TORRES BLANCA LUCIA",
+        "trade_name":  "YOGURT LOVERS",
+        "parent_address":  "EL SAGRARIO, MACARA SN Y ENTRE AZUAY Y MIGUEL RIOFRÍO",
+        "mobile":  "0981244781",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-15"
+    },
+    {
+        "id":  196,
+        "ruc":  "0504153537001",
+        "business_name":  "MEJIA BARBOSA ALEJANDRA MONSERRATH",
+        "trade_name":  "SEÑOR POLLO",
+        "parent_address":  "LATACUNGA, JUAN MONTALVO, SAN SEBASTIAN, ISLA MARCHENA Y CUICOCHA",
+        "mobile":  "0959280440",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-11"
+    },
+    {
+        "id":  195,
+        "ruc":  "1391938306001",
+        "business_name":  "FERCODADI S.A.S.",
+        "trade_name":  "FERCODADI S.A.S.",
+        "parent_address":  "CHONE, AVENIDA ELOY ALFARO Y SN",
+        "mobile":  "0988642535",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-10"
+    },
+    {
+        "id":  194,
+        "ruc":  "0904265311001",
+        "business_name":  "LOQUI SANCHEZ ROSA LILA",
+        "trade_name":  "CAFETERIA RESTAURANTE NEKTAR JUICE BAR",
+        "parent_address":  "BABAHOYO, DR. CAMILO PONCE, 10 DE AGOSTO S/N Y FLORES",
+        "mobile":  "0996012631",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-10"
+    },
+    {
+        "id":  193,
+        "ruc":  "0933042277001",
+        "business_name":  "SIERRA VILLAMIZAR NIWCY CLEIDIMAR",
+        "trade_name":  "PANADERIA SALOME",
+        "parent_address":  "BABAHOYO, DR. CAMILO PONCE, AV JUAN X MARCOS S/N Y RICAURTE",
+        "mobile":  "0988269352",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-10"
+    },
+    {
+        "id":  192,
+        "ruc":  "1723259311001",
+        "business_name":  "SANCHEZ JARAMILLO MARIA BELEN",
+        "trade_name":  "DOLCE MARIE",
+        "parent_address":  "BELISARIO QUEVEDO, DOMINGO ESPINAR N28-77 Y SELVA ALEGRE",
+        "mobile":  "0998913340",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-09"
+    },
+    {
+        "id":  191,
+        "ruc":  "0704265370001",
+        "business_name":  "NARANJO FARFAN VERONICA PATRICIA",
+        "trade_name":  "EL PALACIO DE LA SANDALIA",
+        "parent_address":  "MACHALA, OLMEDO Y JUAN MONTALVO",
+        "mobile":  "0980132021",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-09"
+    },
+    {
+        "id":  190,
+        "ruc":  "1314779313001",
+        "business_name":  "DEL VALLE ZAMBRANO PIERINA ZHULEY",
+        "trade_name":  "EN BOCA DE TODOS SD",
+        "parent_address":  "SANTO DOMINGO, CHIGUILPE, QUITUMBES S/N Y AV. LA LORENA",
+        "mobile":  "0981055592",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-08"
+    },
+    {
+        "id":  189,
+        "ruc":  "0401298476001",
+        "business_name":  "ARGOTI ORBE KAREN POLETH",
+        "trade_name":  "THE CHILL",
+        "parent_address":  "IBARRA, SAGRARIO, PABLO ANIVAL VELA 2-03 Y PIEDAD GOMEZ JURADO",
+        "mobile":  "0998834824",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-09-08"
+    },
+    {
+        "id":  188,
+        "ruc":  "2350433955001",
+        "business_name":  "ARCOS MALDONADO DAYANA LISSETH",
+        "trade_name":  "EL RINCON MANABA",
+        "parent_address":  "SANTO DOMINGO, ZARACAY / RIO ZAMORA S/N Y AV LAS DELICIAS",
+        "mobile":  "0986832217",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-08"
+    },
+    {
+        "id":  187,
+        "ruc":  "0927002303001",
+        "business_name":  "GARZON SANMARTIN JUAN JOSE",
+        "trade_name":  "CARNES CORTES Y LICORES LA BODEGA",
+        "parent_address":  "LA TRONCAL, LA TRONCAL, HEROES DE PAQUISHA S/N Y SAN GRABRIEL",
+        "mobile":  "0967193618",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-06"
+    },
+    {
+        "id":  186,
+        "ruc":  "1804378188001",
+        "business_name":  "RAMOS SANCHEZ MARIA JAQUELINE",
+        "trade_name":  "PEREJIL",
+        "parent_address":  "SAN PEDRO DE PELILEO,  BENITEZ PACHANLICA, VELASCO IBARRA",
+        "mobile":  "0998726691",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-06"
+    },
+    {
+        "id":  185,
+        "ruc":  "1550168890001",
+        "business_name":  "LOZA SANTI JORGE LUIS",
+        "trade_name":  "NATURAL FARM",
+        "parent_address":  "TENA, JUMANDY 202 Y COLONSO",
+        "mobile":  "0998450423",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-06"
+    },
+    {
+        "id":  184,
+        "ruc":  "1793219973001",
+        "business_name":  "REMOTE WASH ECUADOR S.A.S.",
+        "trade_name":  "REMOTE WASH",
+        "parent_address":  "QUITO DISTRITO METROPOLITANO, JOSE TAMAYO 24-409 Y ENTRE BAQUERIZO MORENO Y LUIS CORDERO",
+        "mobile":  "0969475643",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-05"
+    },
+    {
+        "id":  183,
+        "ruc":  "0915998371001",
+        "business_name":  "MERCHAN AVECILLA CELIA ELIZABETH",
+        "trade_name":  "FRUTI DELICIAS",
+        "parent_address":  "NARANJAL, TARQUI SUCRE1 00 Y 7 DE BOVIEMBRE",
+        "mobile":  "0983104476",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-05"
+    },
+    {
+        "id":  182,
+        "ruc":  "1205582347001",
+        "business_name":  "ARGUELLO YANEZ ROBERTSON YAVE",
+        "trade_name":  "MINIMARKET FRIENDS",
+        "parent_address":  "QUINSALOMA, AV. PROGRESO S/N Y SIMON BOLIVAR",
+        "mobile":  "0982346004",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-05"
+    },
+    {
+        "id":  181,
+        "ruc":  "1850579374001",
+        "business_name":  "CASCO DURAN JOSELYN RAQUEL",
+        "trade_name":  "LUNA DE VAINILLA",
+        "parent_address":  "BAÑOS DE AGUA SANTA, PEDRO VICENTE MALDONADO SN Y EUGENIO ESPEJO",
+        "mobile":  "0963984301",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-09-04"
+    },
+    {
+        "id":  180,
+        "ruc":  "0791793580001",
+        "business_name":  "AGRÍCOLA EXPORTADORA JCCOCOA S A",
+        "trade_name":  "AGRÍCOLA EXPORTADORA JCCOCOA S A",
+        "parent_address":  "LOTIZACION SAN ISIDRO A 100 METROS DEL COLEGIO MARISCAL SUCRE",
+        "mobile":  "0999685152",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-04"
+    },
+    {
+        "id":  179,
+        "ruc":  "1208192227001",
+        "business_name":  "TUAREZ SACON DAYANA LISBETH",
+        "trade_name":  "AGROPECUARIA TUAREZ",
+        "parent_address":  "QUININDE, MALIMPIA, PRINCIPAL SOLAR 3 Y MARGEN DERECHO",
+        "mobile":  "0990560304",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-03"
+    },
+    {
+        "id":  178,
+        "ruc":  "0706749447001",
+        "business_name":  "PEREIRA MALDONADO JULECXI SAMANTA",
+        "trade_name":  "MOCHIS MARKET TIENDA MULTIEXPERIENCIA",
+        "parent_address":  "SANTA ROSA, CARCHI 001 Y CARRION PINZANO Y AV QUITO",
+        "mobile":  "0998415136",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-03"
+    },
+    {
+        "id":  177,
+        "ruc":  "0993402081001",
+        "business_name":  "MACWORLDEC S.A.S.",
+        "trade_name":  "MACWORLDEC S.A.S.",
+        "parent_address":  "GUAYAQUIL, ALBORADA VII Y AV JOSE MARIA EGAS MIRANDA",
+        "mobile":  "0979077855",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-02"
+    },
+    {
+        "id":  176,
+        "ruc":  "1104683782001",
+        "business_name":  "GONZALEZ DUARTE ANDREA DEL CISNE",
+        "trade_name":  "PAPELERIA D CAMILA",
+        "parent_address":  "RIOBAMBA, VELASCO, AV. MONSEÑOR LEONIDAS PROAÑO Y CESAR DAVILA",
+        "mobile":  "0990377260",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-02"
+    },
+    {
+        "id":  175,
+        "ruc":  "1400768857001",
+        "business_name":  "JARA RAMIREZ ARIANNA NICOLE",
+        "trade_name":  "LA POLLERIA 54",
+        "parent_address":  "AMBATO, ROCAFUERTE 1742 Y GUAYAQUIL",
+        "mobile":  "0996016516",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-02"
+    },
+    {
+        "id":  174,
+        "ruc":  "2352406280001",
+        "business_name":  "SEVILLA ALARCON KAREN JOHANA",
+        "trade_name":  "PASTELITOS Y TEQUEÑOS SABOR ZULIANO",
+        "parent_address":  "SANTO DOMINGO, TENIENTE RUILOVA S/N Y AV. TSACHILAS",
+        "mobile":  "0963360618",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-09-01"
+    },
+    {
+        "id":  173,
+        "ruc":  "0401173125001",
+        "business_name":  "VILLARREAL SANTACRUZ MARIA ANGELA",
+        "trade_name":  "HURACAN DE LLAMAS",
+        "parent_address":  "TULCAN, RAFAEL ARELLANO Y IMBABURA",
+        "mobile":  "0986580663",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-08-29"
+    },
+    {
+        "id":  172,
+        "ruc":  "1102466016001",
+        "business_name":  "GARCIA CALVA MARIA TERESA",
+        "trade_name":  "MR PAPA 2",
+        "parent_address":  "LOJA, EL SAGRARIO, MANUEL AGUSTIN AGUIRRE SN Y AZUAY",
+        "mobile":  "0997901884",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-29"
+    },
+    {
+        "id":  171,
+        "ruc":  "1150008637001",
+        "business_name":  "SALINAS OCHOA JOSE ALFREDO",
+        "trade_name":  "MR PAPA",
+        "parent_address":  "EL SAGRARIO, MIGUEL RIOFRIO SN Y BERNARDO VALDIVIESO Y OLMEDO",
+        "mobile":  "0997900936",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-29"
+    },
+    {
+        "id":  170,
+        "ruc":  "0201389269001",
+        "business_name":  "CARRILLO NARANJO MABEL DOLORES",
+        "trade_name":  "ABASTOS EL AHORRO",
+        "parent_address":  "GUARANDA, GABRIEL IGNACIO VEINTIMILLA, CAMILO MONTENEGRO 118 Y JHONSON CITY",
+        "mobile":  "0000001230",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-29"
+    },
+    {
+        "id":  169,
+        "ruc":  "1751926583001",
+        "business_name":  "DAVILA ALMEIDA STEVEN ZAIDTH",
+        "trade_name":  "THE CHAMPIONS FOOD",
+        "parent_address":  "QUITO, QUITUMBE, S44A S44 55 Y OE3D",
+        "mobile":  "0961458011",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-08-29"
+    },
+    {
+        "id":  168,
+        "ruc":  "1717493983001",
+        "business_name":  "DAVILA LOPEZ EDISON DAVID",
+        "trade_name":  "CENTRO DE ESPECIALIDADES MEDICAS CLUB DE LEONES",
+        "parent_address":  "QUITO, MARISCAL SUCRE, AV 6 DE DICIEMBE N24-471 Y LUIS CORDERO",
+        "mobile":  "0999846402",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-29"
+    },
+    {
+        "id":  167,
+        "ruc":  "1717991382001",
+        "business_name":  "AVILES BALLADARES MARIA DE LOS ANGELES",
+        "trade_name":  "VERDE VIDA",
+        "parent_address":  "SAMBORONDON, LA PUNTILLA (SATELITE, PRINCIPAL SOLAR 08 Y LA PUNTILLA",
+        "mobile":  "0988994178",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-08-28"
+    },
+    {
+        "id":  166,
+        "ruc":  "1719321620001",
+        "business_name":  "HERNANDEZ PAEZ EDISSON XAVIER",
+        "trade_name":  "MANGLAR CEVICHERIA",
+        "parent_address":  "OTAVALO, JORDAN, SUCRE 0 Y ENTRE MORALES Y SALINAS",
+        "mobile":  "0992835336",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-28"
+    },
+    {
+        "id":  165,
+        "ruc":  "1706559562001",
+        "business_name":  "CHIGUANO COLLAGUAZO JOSE DAVID",
+        "trade_name":  "SAZON DE KADYA",
+        "parent_address":  "QUITO, LA FERROVIARIA, GUALBERTO PEREZ E2 - 136 Y ANDRES PEREZ",
+        "mobile":  "0998165501",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-28"
+    },
+    {
+        "id":  164,
+        "ruc":  "1309191201001",
+        "business_name":  "FRANCO CHAVEZ JHONNY MANUEL",
+        "trade_name":  "CABAÑA EVENEZER",
+        "parent_address":  "MANTA, TARQUI, PLAYITA MIA, LOCAL2",
+        "mobile":  "0959183450",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-27"
+    },
+    {
+        "id":  163,
+        "ruc":  "0504374141001",
+        "business_name":  "GUANOTUÑA CHUGCHILAN NELLY SORAYDA",
+        "trade_name":  "RICH PAFRITAS",
+        "parent_address":  "LATACUNGA, ELOY ALFARO SAN FELIPE, AV CINCO DE JUNIO SN Y CUBA\t",
+        "mobile":  "0968556596",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-27"
+    },
+    {
+        "id":  162,
+        "ruc":  "0923003503001",
+        "business_name":  "SANCHEZ CHANGO MARIA ALEJANDRA",
+        "trade_name":  "VETERINARIA DR JACK",
+        "parent_address":  "QUITO, TURUBAMBA, E1E S48-214 Y S48F",
+        "mobile":  "0000010000",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-27"
+    },
+    {
+        "id":  161,
+        "ruc":  "0705860658001",
+        "business_name":  "ARMIJOS CELY PAOLA DEL CISNE",
+        "trade_name":  "PAULA CELL",
+        "parent_address":  "MACHALA, JUAN MONTALVO S/N Y SUCRE Y OLMEDO",
+        "mobile":  "0994513509",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-26"
+    },
+    {
+        "id":  160,
+        "ruc":  "1711442218001",
+        "business_name":  "NIACATO AVENDAÑO ALEX ARMANDO",
+        "trade_name":  "ALEXTEX",
+        "parent_address":  "PICHINCHA, QUITO, CENTRO HISTÓRICO, CHILE OE6-249 Y IMBABURA",
+        "mobile":  "0995971222",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-26"
+    },
+    {
+        "id":  159,
+        "ruc":  "0701208290001",
+        "business_name":  "MARTINEZ GODOY SEGUNDO IGNACIO",
+        "trade_name":  "SOL DE JESURALEM",
+        "parent_address":  "MACHALA, LA PROVIDENCIA, AV CIRCUNVALACION NORTE 225 Y NAPOLEON MERA",
+        "mobile":  "0991872004",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-25"
+    },
+    {
+        "id":  158,
+        "ruc":  "1307149771001",
+        "business_name":  "BURGOS VELIZ MERLY ENEDITA",
+        "trade_name":  "BOTICA CORAZON FELIZ",
+        "parent_address":  "MANABI, CHIBUNGA, CALLE 4 DE AGOSTO Y BOLIVAR",
+        "mobile":  "0984570099",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-08-25"
+    },
+    {
+        "id":  157,
+        "ruc":  "1004108831001",
+        "business_name":  "BECERRA HERRERIA STEVE DAMIAN",
+        "trade_name":  "STEVE ROCK MARKET\t",
+        "parent_address":  "IBARRA, SAN FRANCISCO, LUCILA BENALCAZAR 1-120 Y TEODORO GOMEZ DE LA TORRE\t",
+        "mobile":  "0986560027",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-24"
+    },
+    {
+        "id":  156,
+        "ruc":  "0703305318001",
+        "business_name":  "SANCHEZ UGARTE IVANNA NATALY",
+        "trade_name":  "IVANNA SANCHEZ",
+        "parent_address":  "PASAJE, OCHOA LEON (MATRIZ), COLON S/N Y SN",
+        "mobile":  "0000000095",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-22"
+    },
+    {
+        "id":  155,
+        "ruc":  "1726137050001",
+        "business_name":  "SANCHEZ LOOR JONATHAN STALIN",
+        "trade_name":  "REPUESTOS ALAN",
+        "parent_address":  "SAN MIGUEL DE LOS BANCOS, AV. 17 DE JULIO S/N Y BLANCA BOLAÑOS",
+        "mobile":  "0003123000",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-22"
+    },
+    {
+        "id":  154,
+        "ruc":  "1793229572001",
+        "business_name":  "KYME EC S.A.S.",
+        "trade_name":  "KAYABURGERS",
+        "parent_address":  "TUMBACO, LA CERAMICA Y AV OSWALDO GUAYASAMIN",
+        "mobile":  "0997919011",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-22"
+    },
+    {
+        "id":  153,
+        "ruc":  "0107082661001",
+        "business_name":  "HUAITA COBA KEVIN RENE",
+        "trade_name":  "PANADERIA PAN DE AMBATO",
+        "parent_address":  "CUENCA, SAN SEBASTIAN, GASPAR SANGURIMA 15-12 Y CORONEL TALBOT",
+        "mobile":  "0967556975",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-20"
+    },
+    {
+        "id":  152,
+        "ruc":  "0944355965001",
+        "business_name":  "ASUMA BUÑAY CARLA LISBETH",
+        "trade_name":  "DISTRIASUMA",
+        "parent_address":  "GUAYAQUIL, TARQUI, MZ 05 S/N Y SL 05",
+        "mobile":  "0999384531",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-19"
+    },
+    {
+        "id":  151,
+        "ruc":  "1715979348001",
+        "business_name":  "MUÑOZ ROMERO LESLY DAYANA",
+        "trade_name":  "DOGTORS",
+        "parent_address":  "CHIMBORAZO, RIOBAMBA, LIZARZABURU, GARCIA MORENO 19-35 Y VILLARROEL",
+        "mobile":  "0983320789",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-19"
+    },
+    {
+        "id":  150,
+        "ruc":  "0850635152001",
+        "business_name":  "ROMAN MACIAS ROBYN ROLANDO",
+        "trade_name":  "AGROMOTORS",
+        "parent_address":  "SANTO DOMINGO DE LOS COLORADOS, KLEVER PAZMIÑO S/N Y VIA CHONE",
+        "mobile":  "0997407129",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-19"
+    },
+    {
+        "id":  149,
+        "ruc":  "0106151434001",
+        "business_name":  "SOLANO ESPINOZA BLANCA FLOR",
+        "trade_name":  "EL BALCON DEL PASAJEÑITO",
+        "parent_address":  "ZAMORA CHINCHIPE, CENTINELA DEL CONDOR, ZUMBI, AV 24 DE MAYO SN Y AV CARIAMANGA",
+        "mobile":  "0963935084",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-18"
+    },
+    {
+        "id":  148,
+        "ruc":  "1804227310001",
+        "business_name":  "RODRIGUEZ PEÑAHERRERA MARCOS JOHN",
+        "trade_name":  "DIVAX",
+        "parent_address":  "TUNGURAHUA, AMBATO, HUACHI LORETO, BARCELONA S/N Y MANUELITA SAENZ",
+        "mobile":  "0985684488",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-16"
+    },
+    {
+        "id":  147,
+        "ruc":  "1312084708001",
+        "business_name":  "PARA USAR EN OTRO CLIENTE",
+        "trade_name":  "PARA USAR EN OTRO CLIENTE",
+        "parent_address":  "MANABI, PORTOVIEJO, 18 DE OCTUBRE, ALBERTO LARREA 3 Y CALLE 3",
+        "mobile":  "0991319874",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-16"
+    },
+    {
+        "id":  146,
+        "ruc":  "1312084708001",
+        "business_name":  "CALDERON REZABALA DAYANA LILIBETH",
+        "trade_name":  "PARADISE DISCOTEC",
+        "parent_address":  "PORTOVIEJO, 18 DE OCTUBRE, ALBERTO LARREA 3 Y CALLE 3",
+        "mobile":  "0991319874",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-15"
+    },
+    {
+        "id":  145,
+        "ruc":  "0402031363001",
+        "business_name":  "MONTALVO MUÑOZ ANDERSON FABIAN",
+        "trade_name":  "ALIFARMA",
+        "parent_address":  "CARCHI, TULCAN, GONZALEZ SUAREZ, AVENIDA MANABI Y AMBATO",
+        "mobile":  "0987850019",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-08-14"
+    },
+    {
+        "id":  144,
+        "ruc":  "0940085426001",
+        "business_name":  "JARA CERVANTES JOSE ANDRES",
+        "trade_name":  "MI GORDO MARKET",
+        "parent_address":  "GUAYAS, DAULE,LA AURORA, VIA A GRANATE AGUAMARINA SN Y LA AURORA SATELITE",
+        "mobile":  "0998816092",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-13"
+    },
+    {
+        "id":  143,
+        "ruc":  "1711032597001",
+        "business_name":  "CALDERON LONDOÑO JOSE ULISES",
+        "trade_name":  "BLINDAPROX",
+        "parent_address":  "SANTO DOMINGO, ZARACAY,AV BRUSELAS S/N Y CALLE RIO YAMBOYA",
+        "mobile":  "0000000123",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-13"
+    },
+    {
+        "id":  142,
+        "ruc":  "1719783308001",
+        "business_name":  "PAGUAY CUENCA JOSE JAVIER",
+        "trade_name":  "CINCUENTAZO COLOMBIANO PEDERNALES.",
+        "parent_address":  "MANABI, PEDERNALES,GARCIA MORENO 0 Y BARRIO CENTRAL",
+        "mobile":  "0988541643",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-12"
+    },
+    {
+        "id":  141,
+        "ruc":  "0962139325001",
+        "business_name":  "BEDOYA CASTRO DIDIER ELIAS",
+        "trade_name":  "CINCUENTAZO COLOMBIANO",
+        "parent_address":  "SANTO DOMINGO,LA CONCORDIA,PJE A 0 Y CALLE 1 DE MAYO SN Y PRINCIPAL",
+        "mobile":  "0958627433",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-12"
+    },
+    {
+        "id":  140,
+        "ruc":  "1203573231001",
+        "business_name":  "LEON VINCES ELIZABETH OLIVIA",
+        "trade_name":  "MULTICOMERCIO C.L.",
+        "parent_address":  "LOS RIOS, QUEVEDO, MALECON SOLAR 12",
+        "mobile":  "0996088929",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-12"
+    },
+    {
+        "id":  139,
+        "ruc":  "0920261963001",
+        "business_name":  "OCHOA CABEZAS JONATHAN EDUARDO",
+        "trade_name":  "NIGHT CLUB EL IMPERIO J. E.",
+        "parent_address":  "MANABI,JARAMIJO PRINCIPAL S/N Y SN",
+        "mobile":  "0990027373",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-12"
+    },
+    {
+        "id":  138,
+        "ruc":  "1721307195001",
+        "business_name":  "BENALCAZAR CEVALLOS SONIA ELIZABETH",
+        "trade_name":  "VALLEGOURMET",
+        "parent_address":  "QUITO, CONOCOTO, ORIENTE E1-22 Y SUCRE",
+        "mobile":  "0963210954",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-12"
+    },
+    {
+        "id":  137,
+        "ruc":  "1725602948001",
+        "business_name":  "VERA OCHOA NARCISA LISSETH",
+        "trade_name":  "FABRICA DE BLOQUES FERGUSON",
+        "parent_address":  "SANTO DOMINGO, ABRAHAM CALAZACON, AV DE LOS COLONOS 0 Y CALLE A",
+        "mobile":  "0992918138",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-12"
+    },
+    {
+        "id":  136,
+        "ruc":  "0604885129001",
+        "business_name":  "ZUÑIGA MUYOLEMA BYRON ONOFRE",
+        "trade_name":  "CENTRO RADIOLOGICO E IMAGEN SANTA CECILIA",
+        "parent_address":  "LOS RIOS,VENTANAS, 6 DE OCTUBRE SN Y 28 DE MAYO",
+        "mobile":  "0989400531",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-08-11"
+    },
+    {
+        "id":  135,
+        "ruc":  "1722840749000",
+        "business_name":  "JARAMILLO ZAMBRANO ELENA ELIZABETH",
+        "trade_name":  "NOVEDADES JESABELLE",
+        "parent_address":  "ESMERALDAS, QUININDE, ROSA ZARATE, PRINCIPAL SOLAR 5 Y CALLEJON A",
+        "mobile":  "0991792102",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-10"
+    },
+    {
+        "id":  134,
+        "ruc":  "0707140075001",
+        "business_name":  "BACULIMA BARRETO DANIA MARISOL",
+        "trade_name":  "BOTICA DANNY",
+        "parent_address":  "AZUAY, SANTA ISABEL, EL CARMEN DE PIJILI, EL CARMEN DE PIJILI Y PLAZA EL CARMEN DE PIJILI",
+        "mobile":  "0968907394",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-08-09"
+    },
+    {
+        "id":  133,
+        "ruc":  "1725092553001",
+        "business_name":  "SANTELICES ENRIQUEZ DANIEL FRANCISCO",
+        "trade_name":  "TWINS GRILL",
+        "parent_address":  "PICHINCHA, QUITO, IÑAQUITO, WHYMPER N31-128 Y PAUL RIVET",
+        "mobile":  "0979151118",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-09"
+    },
+    {
+        "id":  132,
+        "ruc":  "1204392243001",
+        "business_name":  "ALVARADO BARRAGAN ERIKA LUCIA",
+        "trade_name":  "DON GELATO",
+        "parent_address":  "LOS RIOS, BABAHOYO, DR. CAMILO PONCE, 10 DE AGOSTO S/N Y OLMEDO",
+        "mobile":  "0996811997",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-09"
+    },
+    {
+        "id":  131,
+        "ruc":  "0926954587001",
+        "business_name":  "PINOARGOTE VERA MARIA AUXILIADORA",
+        "trade_name":  "PINOARGOTE VERA MARIA AUXILIADORA",
+        "parent_address":  "GUAYAS, GUAYAQUIL, TARQUI, SOLAR 14",
+        "mobile":  "0992746132",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-08"
+    },
+    {
+        "id":  130,
+        "ruc":  "0201437472001",
+        "business_name":  "RAMIREZ GUANANGA FRANKLIN ENRIQUE",
+        "trade_name":  "KANDELA GRILL",
+        "parent_address":  "BOLIVAR, GUARANDA, GABRIEL IGNACIO VEINTIMILLA, AV. GENERAL ENRIQUEZ Y OLMEDO\t",
+        "mobile":  "0997491072",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-08"
+    },
+    {
+        "id":  129,
+        "ruc":  "1208816643001",
+        "business_name":  "VELEZ MORAN LUIS MARIO",
+        "trade_name":  "GEMA BOUTIQUE",
+        "parent_address":  "COTOPAXI, LATACUNGA, LA MATRIZ, SAN VICENTE MARTIR SN Y QUIJANO Y ORDOÑEZ",
+        "mobile":  "0963002764",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-08"
+    },
+    {
+        "id":  128,
+        "ruc":  "0962139325001",
+        "business_name":  "BEDOYA CASTRO DIDIER ELIAS",
+        "trade_name":  "CINCUENTAZO-COLOMBIANO",
+        "parent_address":  "PICHINCHA / PEDRO VICENTE MALDONADO / SIN NOMBRE N-1 Y CALLE B",
+        "mobile":  "0958627433",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-07"
+    },
+    {
+        "id":  125,
+        "ruc":  "1313026187001",
+        "business_name":  "VITE CAÑOLA DIXON GABRIEL",
+        "trade_name":  "PICADITAS Y ASADOS D´ MANUELA",
+        "parent_address":  "MANABI,PEDERNALES, GARCIA MORENO S/N Y CALLEJON 11",
+        "mobile":  "0997135561",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-07"
+    },
+    {
+        "id":  124,
+        "ruc":  "1753464567001",
+        "business_name":  "CAJAMARCA CHAMBA ALEXANDER RAUL",
+        "trade_name":  "SERVICIO AUTOMOTRIZ MULTIMARCAS J\u0026A PROPIETARIO",
+        "parent_address":  "PICHINCHA,QUITO, LA MAGDALENA, OE4A QUISQUIS S9-139",
+        "mobile":  "0979306605",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-07"
+    },
+    {
+        "id":  123,
+        "ruc":  "1726997149001",
+        "business_name":  "RAFAEL TIRADO HUBER ORLANDO",
+        "trade_name":  "CENTRO NATURISTA LA ARCADIA",
+        "parent_address":  "PICHINCHA, QUITO, LA ECUATORIANA, OE8F LUIS RIOFRIO S46-79 Y AV. LA ECUATORIANA",
+        "mobile":  "0958601991",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-04"
+    },
+    {
+        "id":  122,
+        "ruc":  "0604117085001",
+        "business_name":  "ROJAS ZAMBRANO ROSALIA ROCIO",
+        "trade_name":  "ECLIPSE",
+        "parent_address":  "CHIMBORAZO, RIOBAMBA, LIZARZABURU, JOSE PERALTA 2 Y AV PEDRO VICENTE MALDONADO",
+        "mobile":  "0969963361",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-04"
+    },
+    {
+        "id":  121,
+        "ruc":  "0802918631001",
+        "business_name":  "SANCHEZ PRIAS DARIO JAVIER",
+        "trade_name":  "TECNICENTRO SANCHEZ",
+        "parent_address":  "ESMERALDAS, SIMON PLATA TORRES, VIA ESM ATACAMES MZ51 Y SL05\t",
+        "mobile":  "0983651920",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-04"
+    },
+    {
+        "id":  120,
+        "ruc":  "1207007178001",
+        "business_name":  "VELIZ RONQUILLO NESTOR HOSMANY",
+        "trade_name":  "BANKOOP DI",
+        "parent_address":  "LOS RIOS, VENTANAS, ABDON GARAY 325 Y 10 DE NOVIEMBRE",
+        "mobile":  "0995385234",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-08-03"
+    },
+    {
+        "id":  119,
+        "ruc":  "1721560918001",
+        "business_name":  "GUILCAPI SOLORZANO EDWIN RODOLFO",
+        "trade_name":  "PLASTIF",
+        "parent_address":  "NAPO, ARCHIDONA, ARCHIDONA, AV. CIRCUNVALACION S/N Y CALLE 19",
+        "mobile":  "0900000010",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-02"
+    },
+    {
+        "id":  118,
+        "ruc":  "0925660888001",
+        "business_name":  "TOMALA BRITO JOSE MANUEL",
+        "trade_name":  "MACWORLD",
+        "parent_address":  "GUAYAS,GUAYAQUIL,TARQUI, ALBORADA VII SL 11 Y AV JOSE MARIA EGAS MIRANDA\t",
+        "mobile":  "0979077855",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-02"
+    },
+    {
+        "id":  117,
+        "ruc":  "1150491585001",
+        "business_name":  "CHAMBA QUIZHPE JOEL DAMIAN",
+        "trade_name":  "KORTES DEL REY",
+        "parent_address":  "LOJA, SAN SEBASTIAN, BERNARDO VALDIVIESO S/N Y LOURDES",
+        "mobile":  "0979725863",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-01"
+    },
+    {
+        "id":  116,
+        "ruc":  "0102449493001",
+        "business_name":  "MARTINEZ JARRIN IVAN GERARDO",
+        "trade_name":  "MARTINEZ JOYERIA",
+        "parent_address":  "CAÑAR, AZOGUES, AZOGUES,BARTOLOME SERRANO 6-10 Y JULIO MARIA MATOVELLE",
+        "mobile":  "0981874277",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-01"
+    },
+    {
+        "id":  115,
+        "ruc":  "0966185001001",
+        "business_name":  "PARRA BUSTAMANTE ABEL JESUS",
+        "trade_name":  "MARKET SUPER MAXGEL",
+        "parent_address":  "SANTO DOMINGO, ZARACAY, CALLE RIO YAMBOYA S/N Y CALLE CARACAS",
+        "mobile":  "0989333450",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-01"
+    },
+    {
+        "id":  112,
+        "ruc":  "0906241344001",
+        "business_name":  "PINEDA GONZALEZ NELSON ROGELIO",
+        "trade_name":  "TRES HERMANOS",
+        "parent_address":  "GUAYAS,GUAYAQUIL, FEBRES CORDERO, O S/N Y 41 AVA Y 42 AVA",
+        "mobile":  "0900000007",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-08-01"
+    },
+    {
+        "id":  111,
+        "ruc":  "0502634348001",
+        "business_name":  "JACOME SANCHEZ MARIBEL FERNANDA",
+        "trade_name":  "JACOME SANCHEZ MARIBEL FERNANDA",
+        "parent_address":  "COTOPAXI, LATACUNGA, LA MATRIZ,GARCIA MORENO Y ALFREDO BAQUERIZO\t",
+        "mobile":  "0900000008",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-31"
+    },
+    {
+        "id":  110,
+        "ruc":  "1701206482001",
+        "business_name":  "ESPINOSA ESTRELLA WASHINGTON BOLIVAR",
+        "trade_name":  "SANDWICH PROJECT",
+        "parent_address":  "PICHINCHA, QUITO, IÑAQUITO, AV SIMON BOLIVAR N4 Y PACHACAMA JACOME",
+        "mobile":  "0999887523",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-31"
+    },
+    {
+        "id":  109,
+        "ruc":  "0805436730001",
+        "business_name":  "ESTACIO HERRERA JHON BRYAN",
+        "trade_name":  "TALLER GUADAÑITA",
+        "parent_address":  "ESMERALDAS, QUININDE, ROSA ZARATE,APOLICENIO QUINONEZ SN Y CALLE 7 B BRISAS RIO QUININDE",
+        "mobile":  "0900000006",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-30"
+    },
+    {
+        "id":  108,
+        "ruc":  "0104119557001",
+        "business_name":  "ZHUNIO OCHOA JOHANNA CRISTINA",
+        "trade_name":  "LA HUEQUITA PERUANA",
+        "parent_address":  "AZUAY,GUALACEO, AV. JAIME ROLDOS Y AV. SUCRE",
+        "mobile":  "0960192300",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-25"
+    },
+    {
+        "id":  107,
+        "ruc":  "1205521485001",
+        "business_name":  "HERNANDEZ IBARBO WILLIAN APARICIO",
+        "trade_name":  "MECANICA AUTOMOTRIZ WILLIAN",
+        "parent_address":  "LOS RIOS, QUEVEDO, SAN CAMILO, SEPTIMA SOLAR 25 Y A",
+        "mobile":  "0982977502",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-25"
+    },
+    {
+        "id":  106,
+        "ruc":  "2350763732001",
+        "business_name":  "LOOR INTRIAGO JORDAN STALIN",
+        "trade_name":  "LOOR INTRIAGO JORDAN STALIN",
+        "parent_address":  "SANTO DOMINGO, VENEZUELA S/N Y RIO CHILA",
+        "mobile":  "0000000451",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-25"
+    },
+    {
+        "id":  105,
+        "ruc":  "0707140075001",
+        "business_name":  "BACULIMA BARRETO DANIA MARISOL",
+        "trade_name":  "FARMACIA JEMPHARM",
+        "parent_address":  "GUAYAS, BALAO, LOT. LA BEATRIZ 1 S/N Y SN",
+        "mobile":  "0968907394",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-07-24"
+    },
+    {
+        "id":  104,
+        "ruc":  "1003748231001",
+        "business_name":  "CHEZA TUCANES JAIME OSWALDO",
+        "trade_name":  "CHEZA TUCANES JAIME OSWALDO",
+        "parent_address":  "IMBABURA, IBARRA, SAN FRANCISCO, LOS GALEANOS 1-212 Y OLIMPIA GUDIÑO VASQUEZ",
+        "mobile":  "0000000035",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-23"
+    },
+    {
+        "id":  103,
+        "ruc":  "1721171641001",
+        "business_name":  "AGUIRRE AREVALO JOSE EDUARDO",
+        "trade_name":  "ELECTROMECANICA LIDERES",
+        "parent_address":  "SANTO DOMINGO, RIO VERDE, MIGUEL ANGEL LEON S/N Y JOSE MARIA EGAS",
+        "mobile":  "0967414455",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-22"
+    },
+    {
+        "id":  102,
+        "ruc":  "1600789711001",
+        "business_name":  "ANDRADE JARAMILLO DANIEL VINICIO",
+        "trade_name":  "YIN YING",
+        "parent_address":  "PASTAZA,PUYO, Calles General villamil y Francisco de orellana, FRENTE CNT",
+        "mobile":  "0984399218",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-22"
+    },
+    {
+        "id":  101,
+        "ruc":  "0401984091001",
+        "business_name":  "DELGADO CHAMORRO ODALYS NAYELI",
+        "trade_name":  "FARMACIA SU ECONOMIA",
+        "parent_address":  "CALLE LOS ANDES Y JULIO ANDRADE",
+        "mobile":  "0982151736",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-07-20"
+    },
+    {
+        "id":  100,
+        "ruc":  "0106720725001",
+        "business_name":  "CRUZ MORALES MARCO VINICIO",
+        "trade_name":  "CRUZ MORALES MARCO VINICIO",
+        "parent_address":  "AZUAY, CUENCA, CUMBE, PANAMERICANA SUR S/N",
+        "mobile":  "0990270405",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-17"
+    },
+    {
+        "id":  99,
+        "ruc":  "2300642903001",
+        "business_name":  "ARTEAGA VELEZ ARNALDO ALDAIR",
+        "trade_name":  "DOLCE PECADO HELADERIA",
+        "parent_address":  "SANTO DOMINGO, RIO VERDE, AV EL COOPERATIVISMO S/N Y AV RIO TOACHI",
+        "mobile":  "0985392692",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-16"
+    },
+    {
+        "id":  97,
+        "ruc":  "2350235509001",
+        "business_name":  "UREÑA ALVARADO DAYANARA NICOLL",
+        "trade_name":  "STUDIO D",
+        "parent_address":  "SANTO DOMINGO DE LOS COLORADOS, AV QUITO S/N Y LATACUNGA",
+        "mobile":  "0997772730",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-16"
+    },
+    {
+        "id":  96,
+        "ruc":  "1391938067001",
+        "business_name":  "CEVIGO S.A.S.",
+        "trade_name":  "CEVIGO",
+        "parent_address":  "BARRIO SAN CARLOS, VIA SAN MATEO FRENTE A PLAZA BADARACCO",
+        "mobile":  "0987683808",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-07-15"
+    },
+    {
+        "id":  95,
+        "ruc":  "0103762423001",
+        "business_name":  "CABRERA CABRERA JORGE ENRIQUE",
+        "trade_name":  "ALAS PAPAS",
+        "parent_address":  "AZUAY, CUENCA, SUCRE, AV PICHINCHA 1-82 Y GUAYAS\t",
+        "mobile":  "0992432266",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-15"
+    },
+    {
+        "id":  94,
+        "ruc":  "0940671704001",
+        "business_name":  "VELASCO POVEDA FRANCISCO JAVIER",
+        "trade_name":  "MELANIE STORE EC",
+        "parent_address":  "CC Gran ALBOCENTRO LOCAL 6",
+        "mobile":  "0960568126",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-15"
+    },
+    {
+        "id":  93,
+        "ruc":  "1310325210001",
+        "business_name":  "CASTAÑEDA REYNA NARCISO MIGUEL",
+        "trade_name":  "EL GUACAMOLE",
+        "parent_address":  "EL ORO, MACHALA, LA PROVIDENCIA, 3RA AVENIDA 11",
+        "mobile":  "0995409873",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-12"
+    },
+    {
+        "id":  92,
+        "ruc":  "1716578693001",
+        "business_name":  "VERA VERA NUBIA EDUVIGES",
+        "trade_name":  "PARADA STOP",
+        "parent_address":  "SANTO DOMINGO DE LOS TSACHILAS, SANTO DOMINGO,BOMBOLI, COTOCOLLAO S/N Y GUAYAQUIL",
+        "mobile":  "0999999123",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-11"
+    },
+    {
+        "id":  91,
+        "ruc":  "0909371130001",
+        "business_name":  "GOMEZ ASTUDILLO SANDRA ISABEL",
+        "trade_name":  "GOMEZ ASTUDILLO SANDRA ISABEL",
+        "parent_address":  "GUAYAS / GUAYAQUIL,TARQUI,SOLAR 8",
+        "mobile":  "0900000001",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-11"
+    },
+    {
+        "id":  90,
+        "ruc":  "1761283884001",
+        "business_name":  "DASCOLA FRANCO EMANUEL",
+        "trade_name":  "PANNETTONE",
+        "parent_address":  "TUNGURAHUA ,BAÑOS DE AGUA SANTA, AV AMAZONAS SN Y HELECHOS",
+        "mobile":  "0992995644",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-09"
+    },
+    {
+        "id":  89,
+        "ruc":  "2200518385001",
+        "business_name":  "CHIMBORAZO VILLANUEVA JULIO CESAR",
+        "trade_name":  "LAS DELICIAS DEL COCA",
+        "parent_address":  "PUERTO FRANCISCO DE ORELLANA EL COCA, CALLE 8 64 02 01 PB S/N Y CALLE J GUADALUPE LARRIVA",
+        "mobile":  "0985212953",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-07"
+    },
+    {
+        "id":  88,
+        "ruc":  "1803926540001",
+        "business_name":  "LUCIO TOALOMBO LISSETTE ALEXANDRA",
+        "trade_name":  "COCTIKI",
+        "parent_address":  "AMBATO, CEVALLOS 0404 Y GUAYAQUIL",
+        "mobile":  "0983832273",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-07"
+    },
+    {
+        "id":  87,
+        "ruc":  "0932359276001",
+        "business_name":  "ZAMBRANO ESCALA JEAN PIERRE",
+        "trade_name":  "ZAMBRANO ESCALA JEAN PIERRE",
+        "parent_address":  "DAULE, LA AURORA, SATÉLITE, URB. MATICES SN Y SN",
+        "mobile":  "0991855349",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-07-03"
+    },
+    {
+        "id":  86,
+        "ruc":  "0802921544001",
+        "business_name":  "CONDOY CARVACHE LEONEL DARWIN",
+        "trade_name":  "BIBEO STORE",
+        "parent_address":  "ESMERALDAS,  SAN LORENZO, TACITO ORTIZ SN Y AV 26 DE AGOSTO ",
+        "mobile":  "0980985439",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-02"
+    },
+    {
+        "id":  85,
+        "ruc":  "1313677799001",
+        "business_name":  "AVILA BURGOS JAIRO GABRIEL",
+        "trade_name":  "ARZO VARIEDADES",
+        "parent_address":  "CHONE, CHIBUNGA, CALLE 4 DE AGOSTO Y DOMINGO ZAMBRANO",
+        "mobile":  "0984379724",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-01"
+    },
+    {
+        "id":  84,
+        "ruc":  "1719073957001",
+        "business_name":  "COVEÑA ZURITA BAYRON EFRAIN",
+        "trade_name":  "CICLOS BAYRON",
+        "parent_address":  "LA CONCORDIA, AV. JUAN MONTALVO LOTE 12 Y PRIMERO DE MAYO",
+        "mobile":  "0997161929",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-07-01"
+    },
+    {
+        "id":  83,
+        "ruc":  "0106641467001",
+        "business_name":  "OCHOA GALARZA JORGE LUIS",
+        "trade_name":  "SR COSTEÑO",
+        "parent_address":  "CUENCA, GIL RAMIREZ DAVALOS, GRAN COLOMBIA 10-51 ENTRE PADRE AGUIRRE Y GENERAL TORRES",
+        "mobile":  "0939079240",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-30"
+    },
+    {
+        "id":  82,
+        "ruc":  "1314672773001",
+        "business_name":  "IZURIETA MOGOLLON REYNALDO ARNALDO",
+        "trade_name":  "BAR - RESTAURANTE SPONDYLUS",
+        "parent_address":  "PUERTO LOPEZ, MALECON JULIO IZURIETA S/N Y JUAN MONTALVO",
+        "mobile":  "0960489873",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-24"
+    },
+    {
+        "id":  81,
+        "ruc":  "1205112053001",
+        "business_name":  "JUMBO CERON JOSE DANIEL",
+        "trade_name":  "JUMBO FOOD SERVICE",
+        "parent_address":  "QUEVEDO / 24 DE MAYO, GUSTAVO CHONQUI SOLAR 4 Y AV. QUITO\t",
+        "mobile":  "0999121650",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-06-24"
+    },
+    {
+        "id":  80,
+        "ruc":  "1718399395001",
+        "business_name":  "ESTACIO CACHIPUENDO ERIKA GERMANIA",
+        "trade_name":  "FARMA VIDA",
+        "parent_address":  "PICHINCHA / PEDRO MONCAYO / TABACUNDO, JARAMILLO SN Y SUCRE",
+        "mobile":  "0962156323",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-06-19"
+    },
+    {
+        "id":  79,
+        "ruc":  "0504234162001",
+        "business_name":  "VIERA ALBAN JESSICA ALEXANDRA",
+        "trade_name":  "ART MOBEL SA",
+        "parent_address":  "COTOPAXI / PUJILI / PUJILI, VELASCO IBARRA SN Y KLEVER LIMAICO",
+        "mobile":  "0992613862",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-19"
+    },
+    {
+        "id":  78,
+        "ruc":  "1600471096001",
+        "business_name":  "CORELLA GARCIA GERSON SAMUEL",
+        "trade_name":  "CORELLA GARCIA GERSON SAMUEL",
+        "parent_address":  "MORONA SANTIAGO / PALORA, PALORA (METZERA)  10 DE AGOSTO S/N Y MORONA SANTIAGO",
+        "mobile":  "0960489868",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-18"
+    },
+    {
+        "id":  77,
+        "ruc":  "0802970780001",
+        "business_name":  "BOURNE CABEZAS DIANA CAROLINA",
+        "trade_name":  "MULTISERVICIOS TABIAZO",
+        "parent_address":  "ESMERALDAS / TABIAZO, VIA TABIAZO CARLOS C M122 02 Y SN",
+        "mobile":  "0960489866",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-18"
+    },
+    {
+        "id":  76,
+        "ruc":  "2490413361001",
+        "business_name":  "MOTOSRACING DIAZ S.A.S.",
+        "trade_name":  "MOTOSRACING DIAZ SAS",
+        "parent_address":  "SANTA ELENA / SALINAS, JOSÉ LUIS TAMAYO (MUEY) / 13 Y AV 2 Y 3",
+        "mobile":  "0960489865",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-18"
+    },
+    {
+        "id":  75,
+        "ruc":  "0705334977001",
+        "business_name":  "CHAMAIDAN ESPADERO ANA LUCIA",
+        "trade_name":  "CHAMAIDAN ESPADERO ANA LUCIA",
+        "parent_address":  "MACHALA / LA PROVIDENCIA, AV.25 DE JUNIO LOCAL 121",
+        "mobile":  "0985384990",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-16"
+    },
+    {
+        "id":  74,
+        "ruc":  "2451672071001",
+        "business_name":  "FILIPOVIC SRDJAN",
+        "trade_name":  "CAFETERIA RESTAURANTE GALAPAGOS",
+        "parent_address":  "SALINAS, GRAL ALBERTO ENRIQUEZ GALLO, 20 Y 23 S/N Y AV MALECON",
+        "mobile":  "0993809936",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-13"
+    },
+    {
+        "id":  73,
+        "ruc":  "1207667914001",
+        "business_name":  "MOREIRA ZAPATIER KEVIN ALEJANDRO",
+        "trade_name":  "ASADERO ZAPATIER",
+        "parent_address":  "LOS RIOS, QUEVEDO, QUEVEDO, DECIMA OCTAVA 202 Y JAIME ROLDOS",
+        "mobile":  "0984372017",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-13"
+    },
+    {
+        "id":  72,
+        "ruc":  "0924450802001",
+        "business_name":  "GALARZA QUINDE JOSE OSWALDO",
+        "trade_name":  "GALARZA QUINDE JOSE OSWALDO",
+        "parent_address":  "GUAYAQUIL, OLMEDO (SAN ALEJO)  ALBERTO REYNA 521 Y ELOY ALFARO",
+        "mobile":  "0960489861",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-13"
+    },
+    {
+        "id":  71,
+        "ruc":  "0201383098001",
+        "business_name":  "TRUJILLO VERDEZOTO LIGIA IRLANDA DSDS",
+        "trade_name":  "TRATTORIA PIZZERIA LA ROMANA",
+        "parent_address":  "IMBABURA / IBARRA / SAGRARIO, CHICA NARVAEZ 2-68 Y BORRERO",
+        "mobile":  "0996420828",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-09"
+    },
+    {
+        "id":  70,
+        "ruc":  "0201948999001",
+        "business_name":  "TRUJILLO VERDEZOTO MELIZA NATALI",
+        "trade_name":  "MANAHA CAFETERIA DULCES Y PASTELES",
+        "parent_address":  "IMBABURA / IBARRA / SAGRARIO, CHICA NARVAEZ 2-68 Y BORRERO",
+        "mobile":  "0984343751",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-09"
+    },
+    {
+        "id":  69,
+        "ruc":  "0962396321001",
+        "business_name":  "ORDOÑEZ CESAR ROSA CONSUELO",
+        "trade_name":  "FARMACIA ROYALPI",
+        "parent_address":  "SANTA ELENA, SANTA ELENA, AVENIDA 7, 2 y 21A Y 22 FRENTE A LA FERIA LIBRE Y HUEVOS MARMOL",
+        "mobile":  "0988251817",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-06-09"
+    },
+    {
+        "id":  68,
+        "ruc":  "1723462329001",
+        "business_name":  "VERGARA AGILA HENRY PATRICIO",
+        "trade_name":  "BISTRO LATINO",
+        "parent_address":  "GUAYLLABAMBA, CALLE EL AGUACATE",
+        "mobile":  "0969769455",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-09"
+    },
+    {
+        "id":  67,
+        "ruc":  "0917111932001",
+        "business_name":  "POZO GUTIERREZ VICTOR MAXIMILIANO",
+        "trade_name":  "SAMY PC",
+        "parent_address":  "CAÑAR / LA TRONCAL, CIUDADELA LA PUNTILLA",
+        "mobile":  "0986290220",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-05"
+    },
+    {
+        "id":  66,
+        "ruc":  "1719783308001",
+        "business_name":  "PAGUAY CUENCA JOSE JAVIER",
+        "trade_name":  "CINCUENTAZO COLOMBIANO",
+        "parent_address":  "PICHINCHA / SAN MIGUEL DE LOS BANCOS, AV. 17 DE JULIO S/N Y BARRIO CENTRAL",
+        "mobile":  "0988541643",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-05"
+    },
+    {
+        "id":  63,
+        "ruc":  "1721104030001",
+        "business_name":  "ENCALADA CARVAJAL ANA BELEN",
+        "trade_name":  "MULTIPAPEL HIPERPAPELERIA",
+        "parent_address":  "PICHINCHA / QUITO / CALDERON CARAPUNGO, PIO XII SN Y 24 DE JUNIO",
+        "mobile":  "0983126728",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-04"
+    },
+    {
+        "id":  62,
+        "ruc":  "1724236581001",
+        "business_name":  "MUÑOZ ROMERO LIZBETH KATHERINE",
+        "trade_name":  "INFLAPARK",
+        "parent_address":  "k_at_liz@hotmail.com",
+        "mobile":  "0958889824",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-04"
+    },
+    {
+        "id":  61,
+        "ruc":  "1003456678001",
+        "business_name":  "ROMAN MIRANDA DIEGO FERNANDO",
+        "trade_name":  "TODITO MARKET",
+        "parent_address":  "IMBABURA / IBARRA / SAGRARIO, GRIJALVA 5-14 Y SUCRE",
+        "mobile":  "0960489846",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-04"
+    },
+    {
+        "id":  60,
+        "ruc":  "0955615604001",
+        "business_name":  "MORA NAVARRETE IRAIDA LUCIA",
+        "trade_name":  "COMEDOR JV",
+        "parent_address":  "MILAGRO, SGTO GUERRERO LAMILLA SNN Y T. BAUTISTA AGUIRRE",
+        "mobile":  "0960489845",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-02"
+    },
+    {
+        "id":  59,
+        "ruc":  "2300286339001",
+        "business_name":  "MOSQUERA CUEVA NICOLE PAULINA",
+        "trade_name":  "NIC MARKET",
+        "parent_address":  "SANTO DOMINGO DE LOS TSACHILAS / SANTO DOMINGO / BOMBOLI / JULIO ZABALETA S/N Y AV. BOMBOLI",
+        "mobile":  "0960489844",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-06-01"
+    },
+    {
+        "id":  58,
+        "ruc":  "0804196145001",
+        "business_name":  "MATAMBA ORTIZ MELANY MAOLY",
+        "trade_name":  "KAY PETS",
+        "parent_address":  "ESMERALDAS, BARTOLOME RUIZ,AV. 2DA LIBERTAD SN Y CALLEJON 24 DE MAYO",
+        "mobile":  "0967117685",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-30"
+    },
+    {
+        "id":  57,
+        "ruc":  "1105064248001",
+        "business_name":  "NAULA URENA JULIO ALFREDO",
+        "trade_name":  "NAULA URENA JULIO ALFREDO",
+        "parent_address":  "AZUAY / NABON / NABON, JUAN LEON MERA S/N Y CIVISMO",
+        "mobile":  "0997493593",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-29"
+    },
+    {
+        "id":  56,
+        "ruc":  "2350299331001",
+        "business_name":  "ORDOÑEZ GARCIA ANDY ANGELO",
+        "trade_name":  "BAR D´ANDY ",
+        "parent_address":  "SANTO DOMINGO / VALLE HERMOSO, LOS RIOS S/N Y AV AMAZONAS",
+        "mobile":  "0960489839",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-28"
+    },
+    {
+        "id":  55,
+        "ruc":  "0600473672001",
+        "business_name":  "BONILLA BENAVIDES OLGA MARIA PIEDAD",
+        "trade_name":  "MCLOVIN\u0027S",
+        "parent_address":  "RIOBAMBA, VELASCO, LAVALLE 23-19 Y PRIMERA CONSTITUYENTE",
+        "mobile":  "0960489838",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-28"
+    },
+    {
+        "id":  54,
+        "ruc":  "2351054016001",
+        "business_name":  "BARREIRO ORTIZ EDER DAYAN",
+        "trade_name":  "BARREIRO ORTIZ EDER DAYAN",
+        "parent_address":  "ABRAHAM CALAZACON, JACINTO CORTEZ JHAYYA S/N Y PASAJE 2",
+        "mobile":  "0960489837",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-28"
+    },
+    {
+        "id":  53,
+        "ruc":  "1716142334001",
+        "business_name":  "PRUEBAS DEMO FARMACIA",
+        "trade_name":  "PRUEBAS DEMO FARMACIA",
+        "parent_address":  "sdo",
+        "mobile":  "1235432564",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-05-27"
+    },
+    {
+        "id":  52,
+        "ruc":  "0604567362001",
+        "business_name":  "PILCO CUÑAS HECTOR GEOVANNY",
+        "trade_name":  "EL RINCON DE SOPHIA",
+        "parent_address":  "MILAGRO, MANUEL DE ASCAZUBI S/N Y REMIGIO PALACIOS",
+        "mobile":  "0997200188",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-25"
+    },
+    {
+        "id":  51,
+        "ruc":  "1713386066001",
+        "business_name":  "CHICAIZA HERRERA SILVIA ADRIANA",
+        "trade_name":  "FARMACIA JMV",
+        "parent_address":  "QUITO / CHILLOGALLO / OE10G VICTOR JIMENEZ S33-222 LT 257 Y S33G",
+        "mobile":  "0991096292",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-05-23"
+    },
+    {
+        "id":  50,
+        "ruc":  "0106302920001",
+        "business_name":  "GUANGA MERCHAN ALEXANDRA MARISELA",
+        "trade_name":  "MEDICFARM",
+        "parent_address":  "AZUAY / CUENCA / SAYAUSI, AV. ORDOÑEZ LASSO S/N Y SN",
+        "mobile":  "0985766306",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-05-23"
+    },
+    {
+        "id":  49,
+        "ruc":  "0103516423001",
+        "business_name":  "GUACHUN GUACHUN CARMEN FRANCISCA",
+        "trade_name":  "TIENDA DE ABARROTES \"CARMITA\"",
+        "parent_address":  "CAÑAR / BIBLIAN / BIBLIAN / AV. ALBERTO OCHOA 309 Y 5 DE JUNIO",
+        "mobile":  "0960489829",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-22"
+    },
+    {
+        "id":  48,
+        "ruc":  "2300222748001",
+        "business_name":  "BURGOS MACIAS VIVIANA MARIUXI",
+        "trade_name":  "VIVIANA BURGOS",
+        "parent_address":  "SANTO DOMINGO, BOMBOLI, AV BOMBOLI,  AV. LOS COLONOS Y PATRICIO ROMERO",
+        "mobile":  "0981550278",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-20"
+    },
+    {
+        "id":  47,
+        "ruc":  "1310713431001",
+        "business_name":  "CHAVEZ ZAMBRANO JOHANA MARICELA",
+        "trade_name":  "CEVICHERIA EL MANABA",
+        "parent_address":  "PICHINCHA / MEJIA / MACHACHI / AV PABLO GUARDERAS N7-98 Y DE LOS NARDOS",
+        "mobile":  "0960489827",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-20"
+    },
+    {
+        "id":  46,
+        "ruc":  "0909901555001",
+        "business_name":  "LARA VALDIVIEZO ANA JESUS",
+        "trade_name":  "ZONA VIP PIKEOS Y MAS",
+        "parent_address":  "GUAYAS / MILAGRO / CHOBO / AV PRINCIPAL S/N Y SN",
+        "mobile":  "0960489826",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-20"
+    },
+    {
+        "id":  45,
+        "ruc":  "0302804745001",
+        "business_name":  "MOROCHO TENEZACA JONNATHAN FABRICIO",
+        "trade_name":  "NEXUS",
+        "parent_address":  "CAÑAR / ANTONIO AVILA S/N Y CACIQUE CHAPERA",
+        "mobile":  "0960489825",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-19"
+    },
+    {
+        "id":  44,
+        "ruc":  "0913631198001",
+        "business_name":  "REINOSO SANCHEZ MANUEL WILLIANS",
+        "trade_name":  "REINOSO SANCHEZ MANUEL WILLIANS",
+        "parent_address":  "GUAYAS / NARANJITO / NARANJITO / S/N",
+        "mobile":  "0960489822",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-16"
+    },
+    {
+        "id":  43,
+        "ruc":  "0691786364001",
+        "business_name":  "DELTASPORTS S.A.S.",
+        "trade_name":  "DELTASPORTS S.A.S.",
+        "parent_address":  "RIOBAMBA,RIO CHIMBO Y RIO PAUTE",
+        "mobile":  "0960489821",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-14"
+    },
+    {
+        "id":  42,
+        "ruc":  "0929691913001",
+        "business_name":  "JIMENEZ LUNA PABLO ISAAC",
+        "trade_name":  "ECUAVIDRIOS",
+        "parent_address":  "GUAYAQUIL, XIMENA,SOLAR 7",
+        "mobile":  "0999003718",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-12"
+    },
+    {
+        "id":  41,
+        "ruc":  "2300680648001",
+        "business_name":  "PIGUAVE ANDRADE ANDRES ANTONIO",
+        "trade_name":  "ACCESORIOS EL COLORADO",
+        "parent_address":  "SANTO DOMINGO, ABRAHAM CALAZACON, JUAN PIO MONTUFAR SN Y CALDERON",
+        "mobile":  "0994521598",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-12"
+    },
+    {
+        "id":  33,
+        "ruc":  "1207791235001",
+        "business_name":  "GAIBOR BAZAN CARLOS ALFREDO",
+        "trade_name":  "GAIBOR BAZAN CARLOS ALFREDO",
+        "parent_address":  "GUAYAQUIL, TARQUI, SOLAR 10B",
+        "mobile":  "0960489817",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-10"
+    },
+    {
+        "id":  32,
+        "ruc":  "1312989930001",
+        "business_name":  "DAVILA QUIJANO ERICK ANDY",
+        "trade_name":  "EL ORIGINAL CINCUENTAZO",
+        "parent_address":  "MANABI / BOLIVAR / CALCETA / RICAURTE S/N",
+        "mobile":  "0999172178",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-10"
+    },
+    {
+        "id":  31,
+        "ruc":  "1314412196001",
+        "business_name":  "GUTIERREZ DUEÑAS YURI RENAN",
+        "trade_name":  "HAMBURGUESAS YURI",
+        "parent_address":  "PORTOVIEJO, ANDRÉS DE VERA, AVENIDA LOS OLIVOS SN",
+        "mobile":  "0990915832",
+        "category_company":  "RETAIL TOUCH",
+        "date_creation":  "2025-05-10"
+    },
+    {
+        "id":  30,
+        "ruc":  "0705432003001",
+        "business_name":  "CARRION VELEZ RAUL FERNANDO",
+        "trade_name":  "PAPELERIA BARBARITA",
+        "parent_address":  "SANTO DOMINGO, VIA AL BUA Y CALLE 10",
+        "mobile":  "0960489815",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-09"
+    },
+    {
+        "id":  29,
+        "ruc":  "0503672263001",
+        "business_name":  "AYALA CHITALOGRO MARICELA DEL CARMEN",
+        "trade_name":  "JDC BOUTIQUE",
+        "parent_address":  "COTOPAXI, LA MANA, 27 DE NOVIEMBRE Y SAN PABLO",
+        "mobile":  "0960489814",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-09"
+    },
+    {
+        "id":  28,
+        "ruc":  "1308658952001",
+        "business_name":  "ZAMBRANO GARCIA LUIS REYNALDO",
+        "trade_name":  "FARMACIA VIDAPHARM",
+        "parent_address":  "PORTOVIEJO, 12 DE MARZO Y ENTRE ROCAFUERTE Y CALLEJON SN",
+        "mobile":  "0960489813",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-05-07"
+    },
+    {
+        "id":  27,
+        "ruc":  "0927086009001",
+        "business_name":  "CABRERA CHICA ALBA MARIELLA",
+        "trade_name":  "PAÑALERA PIECITOS 2",
+        "parent_address":  "SANTA ELENA,9 DE OCTUBRE",
+        "mobile":  "0960489812",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-07"
+    },
+    {
+        "id":  26,
+        "ruc":  "9999999999999",
+        "business_name":  "DEMO ",
+        "trade_name":  "DEMO RAGDE",
+        "parent_address":  "DEMO",
+        "mobile":  "8544645893",
+        "category_company":  "RESTAURANT",
+        "date_creation":  "2025-05-07"
+    },
+    {
+        "id":  25,
+        "ruc":  "2300275696001",
+        "business_name":  "BERMUDES GARABI JENNIFFER JIMENA",
+        "trade_name":  "RAPIDOS Y SABROSO RONALD",
+        "parent_address":  "ESMERALDAS, SIMON PLATA TORRES, F 1 Y AV JAIME HURTADO",
+        "mobile":  "0999112988",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-03"
+    },
+    {
+        "id":  24,
+        "ruc":  "0918289661001",
+        "business_name":  "SAA ESTEVES ZOILA ENCARNACION",
+        "trade_name":  "HELADERIA ZOILA",
+        "parent_address":  "GUAYAQUIL,TARQUI, VILLA 04",
+        "mobile":  "0960489810",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-03"
+    },
+    {
+        "id":  23,
+        "ruc":  "0150171221001",
+        "business_name":  "PAGUAY OLEAS MICHAEL PATRICIO",
+        "trade_name":  "PAGUAY OLEAS MICHAEL PATRICIO",
+        "parent_address":  "CUENCA, VICTORIA DEL PORTETE",
+        "mobile":  "0960489806",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-05-01"
+    },
+    {
+        "id":  22,
+        "ruc":  "0107345977001",
+        "business_name":  "QUIZHPE MAITA LOURDEZ ALEXANDRA",
+        "trade_name":  "QUIZHPE MAITA LOURDEZ ALEXANDRA",
+        "parent_address":  "LJA SARAGURO",
+        "mobile":  "0960489803",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-30"
+    },
+    {
+        "id":  21,
+        "ruc":  "0550298665001",
+        "business_name":  "DIAS BRAVO HAYLIE MARILYN",
+        "trade_name":  "DIAS BRAVO HAYLIE MARILYN",
+        "parent_address":  "EL TRIUNFO,JAIME HURTADO",
+        "mobile":  "0960489802",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-29"
+    },
+    {
+        "id":  20,
+        "ruc":  "1311700353001",
+        "business_name":  "ANZULES CAICEDO JEFFERSON ORLY",
+        "trade_name":  "FARMACIA NATURISTA",
+        "parent_address":  " ATACAMES,  JUAN MONTALVO M 85 SL 9 Y VIA PRINCIPAL ",
+        "mobile":  "0988099494",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-29"
+    },
+    {
+        "id":  19,
+        "ruc":  "0926756677001",
+        "business_name":  "LIRIANO RECALDE FREDDY GONZALO",
+        "trade_name":  "ALMACEN ZAPATILANDIA",
+        "parent_address":  "LA LIBERTAD,24 AV 8 Y ESQUINA",
+        "mobile":  "0960489799",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-28"
+    },
+    {
+        "id":  18,
+        "ruc":  "1003550314001",
+        "business_name":  "GARZON ALBUJA SANDRA PATRICIA",
+        "trade_name":  "GARZON ALBUJA SANDRA PATRICIA",
+        "parent_address":  " PUERTO QUITO, PRINCIPAL SN Y MARGEN DERECHO",
+        "mobile":  "0960489798",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-26"
+    },
+    {
+        "id":  15,
+        "ruc":  "1314846443001",
+        "business_name":  "MEZA ROMERO KARINA MARIBEL",
+        "trade_name":  "MAXPC",
+        "parent_address":  "SANTO DOMINGO DE LOS TSACHILAS / RIO VERDE / CALLE MANUELA SAENZ S/N Y JB AGUIRRE",
+        "mobile":  "0960489795",
+        "category_company":  "FARMACIA",
+        "date_creation":  "2025-04-26"
+    },
+    {
+        "id":  11,
+        "ruc":  "1722385372001",
+        "business_name":  "CAISAGUANO TENE MARTHA YOLANDA",
+        "trade_name":  "YANAHI BABY",
+        "parent_address":  "La Gatazo Pilalo OE6-81 y Mulalillo",
+        "mobile":  "0960489797",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-26"
+    },
+    {
+        "id":  9,
+        "ruc":  "1313173823001",
+        "business_name":  "CARVAJAL VILLAMIL DIEGO ANDRES",
+        "trade_name":  "PAPELERÍA DK",
+        "parent_address":  "AV. MARCOS ARAY DUEÑAS",
+        "mobile":  "0983364052",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-25"
+    },
+    {
+        "id":  8,
+        "ruc":  "0106943350001",
+        "business_name":  "GUARACA MOROCHO CINDY THALIA",
+        "trade_name":  "LUI COSMETICOS",
+        "parent_address":  "YANUNCAY,  AV DE LAS AMERICAS SN Y MANUEL ARTURO CISNEROS",
+        "mobile":  "0960489794",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-25"
+    },
+    {
+        "id":  7,
+        "ruc":  "1727982694001",
+        "business_name":  "VERA MUÑOZ LUIS EMILIO",
+        "trade_name":  "PAN D CANELA",
+        "parent_address":  "ANTONIO SOTOMAYOR (CAB. EN PLAYAS DE VINCES), AV 13 DE ENERO SN",
+        "mobile":  "0960489793",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-23"
+    },
+    {
+        "id":  6,
+        "ruc":  "1104675077001",
+        "business_name":  "TORRES ORDOÑEZ CYNTHIA PATRICIA",
+        "trade_name":  "NOVEDADES Y VARIEDADES CELLSHOP CELICA",
+        "parent_address":  "JOSE CUERO Y CAICEDO, SN Y ELOY ALFARO JUNTO A UTPL",
+        "mobile":  "0960489792",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-23"
+    },
+    {
+        "id":  5,
+        "ruc":  "1317755252001",
+        "business_name":  "ALCIVAR VILCHEZ JOSSELYN ALEXANDRA",
+        "trade_name":  "ALCIVAR VILCHEZ JOSSELYN ALEXANDRA",
+        "parent_address":  "FRANCISCO PACHECO, AV GUAYAQUIL SN Y 6 DE ENERO Y JUAN MONTALVO",
+        "mobile":  "0960489791",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-22"
+    },
+    {
+        "id":  3,
+        "ruc":  "1704371572001",
+        "business_name":  "BAEZ CAIZA JUAN ANTONIO",
+        "trade_name":  "TERCENAS UNIDAS DEL REY",
+        "parent_address":  "LA ARGELIA / E7A CALUMA S19-212 Y S20",
+        "mobile":  "0960489795",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-21"
+    },
+    {
+        "id":  2,
+        "ruc":  "1718795527001",
+        "business_name":  "HIDALGO ZAMBRANO MARIA EUGENIA",
+        "trade_name":  "MASTER AUTOMOTRIZ",
+        "parent_address":  "SANTO DOMINGO,   AV. LOS COLONOS S\\/N Y MELIDA CARVAJAL",
+        "mobile":  "0979412801",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-21"
+    },
+    {
+        "id":  1,
+        "ruc":  "0921637781001",
+        "business_name":  "VELEZ AGUIRRE SIMON EDUARDO",
+        "trade_name":  "PUNTOHELP",
+        "parent_address":  "GUAYAS / NARANJITO / AV 5 DE OCTUBRE S/N Y AV 10 DE AGOSTO",
+        "mobile":  "0993209642",
+        "category_company":  "TIENDA",
+        "date_creation":  "2025-04-16"
+    }
+]
