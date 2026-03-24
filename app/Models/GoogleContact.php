@@ -18,6 +18,7 @@ class GoogleContact extends Model
         'photo_url',
         'etag',
         'synced_at',
+        'is_active',
     ];
 
     /**

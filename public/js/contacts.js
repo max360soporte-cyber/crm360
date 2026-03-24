@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             trainingsHtml = contact.trainings.map(t => `
-                <div class="px-4 py-3 bg-white dark:bg-slate-800/80 border-l-4 ${t.type === 'support' ? 'border-orange-500' : 'border-blue-500'} border border-y-slate-100 border-r-slate-100 dark:border-y-slate-700/50 dark:border-r-slate-700/50 rounded-r-xl shadow-sm mb-3 flex justify-between items-center transition-all hover:shadow-md">
+                <div class="px-4 py-3 bg-white dark:bg-slate-800/80 border-l-4 ${t.type === 'support' ? 'border-orange-500' : 'border-blue-500'} border border-y-slate-100 border-r-slate-100 dark:border-y-slate-700/50 dark:border-r-slate-700/50 rounded-r-xl shadow-sm mb-3 flex justify-between items-center transition-all hover:shadow-md cursor-pointer" onclick="window.showActivityDetail(${t.id}, ${contact.id})">
                     <div>
                         <div class="flex items-center gap-2 mb-1">
                             <span class="text-[10px] font-bold uppercase tracking-wider ${t.type === 'support' ? 'text-orange-600 dark:text-orange-400' : 'text-blue-600 dark:text-blue-400'}">
@@ -109,13 +109,18 @@ document.addEventListener('DOMContentLoaded', () => {
                         <p class="font-bold text-sm text-slate-800 dark:text-slate-200">${t.title}</p>
                         <p class="text-xs text-slate-500 dark:text-slate-400 mt-0.5"><i class="fa-regular fa-calendar mr-1"></i> ${new Date(t.scheduled_date).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' })}</p>
                     </div>
-                    <div class="flex flex-col items-end gap-2">
-                        <span class="px-2.5 py-1 text-[10px] uppercase font-bold rounded-md ${
-                            t.status === 'completed' ? 'bg-emerald-100 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-400' :
-                            t.status === 'cancelled' ? 'bg-red-100 dark:bg-red-900/40 text-red-700 dark:text-red-400' :
-                            'bg-amber-100 dark:bg-amber-900/40 text-amber-700 dark:text-amber-400'
-                        }">${t.status === 'scheduled' ? 'Agendado' : t.status === 'completed' ? 'Resuelto' : 'Cancelado'}</span>
-                        ${t.status === 'scheduled' ? `<button onclick="window.completeAgendaActivity(event, ${t.id}, ${contact.id})" class="mt-1 text-[10px] uppercase font-bold text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 transition-colors flex items-center bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/60 px-2 py-1 rounded"><i class="fa-solid fa-check mr-1"></i> Completar</button>` : ''}
+                    <div class="flex flex-col items-end gap-1">
+                        ${t.status === 'rescheduled' ? `
+                            <span class="px-2.5 py-1 text-[10px] uppercase font-bold rounded-md w-full text-center bg-purple-100 dark:bg-purple-900/40 text-purple-700 dark:text-purple-400">Reagendado</span>
+                        ` : `
+                            <span class="px-2.5 py-1 text-[10px] uppercase font-bold rounded-md w-full text-center ${
+                                t.status === 'completed' ? 'bg-emerald-100 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-400' :
+                                t.status === 'cancelled' ? 'bg-red-100 dark:bg-red-900/40 text-red-700 dark:text-red-400' :
+                                'bg-amber-100 dark:bg-amber-900/40 text-amber-700 dark:text-amber-400'
+                            }">${t.status === 'scheduled' ? 'Pendiente' : t.status === 'completed' ? 'Finalizado' : 'Cancelado'}</span>
+                        `}
+                        ${t.status === 'scheduled' ? `<button onclick="window.completeAgendaActivity(event, ${t.id}, ${contact.id})" class="mt-1 text-[10px] uppercase font-bold text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 transition-colors flex items-center bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/60 px-2 py-1 rounded w-full justify-center"><i class="fa-solid fa-check mr-1"></i> Finalizar</button>
+                        ${t.type === 'training' ? `<button onclick="window.openRescheduleModal(event, ${t.id}, ${contact.id})" class="text-[10px] uppercase font-bold text-slate-600 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-300 transition-colors flex items-center bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 px-2 py-1 rounded w-full justify-center"><i class="fa-solid fa-calendar-plus mr-1"></i> Reagendar</button>` : ''}` : ''}
                     </div>
                 </div>
             `).join('');
@@ -191,7 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
 
                 <!-- Main Content Area -->
-                <div class="flex-1 p-8 grid grid-cols-1 lg:grid-cols-2 gap-8 bg-slate-50 dark:bg-slate-900 transition-colors">
+                <div class="flex-1 p-8 grid grid-cols-1 lg:grid-cols-3 gap-8 bg-slate-50 dark:bg-slate-900 transition-colors">
                     <!-- Training Section -->
                     <div class="space-y-4 flex flex-col h-full">
                         <div class="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
@@ -204,6 +209,17 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                         <div class="flex-1 overflow-y-auto pr-2 custom-scrollbar space-y-3 max-h-[400px]">
                             ${trainingsHtml}
+                        </div>
+                    </div>
+
+                    <!-- Ticket Detail Section -->
+                    <div class="flex flex-col h-full" id="ticketDetailSection">
+                        <div class="text-center py-8 bg-white dark:bg-slate-800/20 border border-slate-200 border-dashed dark:border-slate-800 rounded-2xl h-full flex flex-col items-center justify-center">
+                            <div class="w-12 h-12 bg-slate-100 dark:bg-slate-800 rounded-full flex items-center justify-center mx-auto mb-3">
+                                <i class="fa-regular fa-hand-pointer text-slate-400"></i>
+                            </div>
+                            <p class="text-sm text-slate-500 dark:text-slate-400 font-medium">Selecciona un ticket</p>
+                            <p class="text-xs text-slate-400 mt-1">Haz clic en un ticket de la lista para ver sus detalles aquí.</p>
                         </div>
                     </div>
 
@@ -305,6 +321,98 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    window.showActivityDetail = (activityId, contactId) => {
+        const _contacts = window.contactsData || [];
+        const _contact = _contacts.find(c => c.id == contactId);
+        if (!_contact || !_contact.trainings) return;
+        
+        const activity = _contact.trainings.find(t => t.id == activityId);
+        if (!activity) return;
+
+        const section = document.getElementById('ticketDetailSection');
+        if (!section) return;
+
+        const icon = activity.type === 'support' ? '<i class="fa-solid fa-headset text-orange-500"></i>' : '<i class="fa-solid fa-graduation-cap text-blue-500"></i>';
+        const bgHeader = activity.type === 'support' ? 'bg-orange-50 dark:bg-orange-900/20' : 'bg-blue-50 dark:bg-blue-900/20';
+        
+        section.innerHTML = `
+            <h3 class="text-lg font-bold text-slate-800 dark:text-slate-200 mb-3 flex items-center">
+                ${icon} <span class="ml-2">Detalles del Ticket</span>
+            </h3>
+            <div class="relative flex-1 bg-white dark:bg-slate-800/40 p-5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm focus-within:border-blue-500/50 focus-within:ring-1 focus-within:ring-blue-500/50 transition-all flex flex-col h-full">
+                <div class="${bgHeader} p-3 rounded-xl mb-4 text-center border-b border-transparent">
+                    <p class="font-bold text-slate-800 dark:text-slate-200">${activity.title}</p>
+                    <p class="text-xs text-slate-500 dark:text-slate-400 mt-1"><i class="fa-regular fa-calendar mr-1"></i> ${new Date(activity.scheduled_date).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' })}</p>
+                </div>
+                
+                <label class="block text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider mb-2">Notas / Descripción</label>
+                <textarea id="activityNotesInput" class="flex-1 w-full bg-transparent border border-slate-200 dark:border-slate-700 rounded-xl p-3 focus:ring-2 focus:ring-blue-500/50 text-sm text-slate-600 dark:text-slate-300 placeholder-slate-400 dark:placeholder-slate-500 resize-none outline-none" placeholder="Ingresa detalles sobre el ticket o capacitación...">${activity.notes || ''}</textarea>
+                <span id="activitySaveStatusIndicator" class="absolute bottom-4 right-4 text-xs font-medium text-slate-400 opacity-0 transition-opacity">Guardado</span>
+            </div>
+        `;
+
+        const notesInput = document.getElementById('activityNotesInput');
+        const saveStatus = document.getElementById('activitySaveStatusIndicator');
+
+        if (notesInput) {
+            notesInput.addEventListener('input', function() {
+                saveStatus.textContent = 'Guardando...';
+                saveStatus.classList.remove('opacity-0', 'text-emerald-500', 'text-red-500');
+                saveStatus.classList.add('text-blue-500');
+
+                clearTimeout(window.activityNotesDebounceTimer);
+                window.activityNotesDebounceTimer = setTimeout(() => {
+                    const newNotes = this.value;
+                    const csrfToken = document.querySelector('meta[name="csrf-token"]').getAttribute('content');
+                    const baseUrl = window.location.pathname.replace(/\/contacts\/?$/, '');
+                    
+                    fetch(`${baseUrl}/contacts/activities/${activity.id}/notes`, {
+                        method: 'PATCH',
+                        credentials: 'same-origin',
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'Accept': 'application/json',
+                            'X-Requested-With': 'XMLHttpRequest',
+                            'X-CSRF-TOKEN': csrfToken
+                        },
+                        body: JSON.stringify({ notes: newNotes })
+                    })
+                    .then(async response => {
+                        const contentType = response.headers.get("content-type");
+                        if (contentType && contentType.indexOf("application/json") !== -1) {
+                            const data = await response.json();
+                            if(!response.ok) throw new Error(data.message || data.error || 'Error del servidor');
+                            return data;
+                        } else {
+                            throw new Error('Servidor retornó un error de red');
+                        }
+                    })
+                    .then(data => {
+                        if(data.success) {
+                            activity.notes = newNotes; 
+                            saveStatus.textContent = 'Guardado';
+                            saveStatus.classList.remove('text-blue-500', 'text-red-500');
+                            saveStatus.classList.add('text-emerald-500');
+                            setTimeout(() => { 
+                                if (saveStatus.textContent === 'Guardado') {
+                                    saveStatus.classList.add('opacity-0'); 
+                                }
+                            }, 2500);
+                        } else {
+                            throw new Error('No se guardó correctamente');
+                        }
+                    })
+                    .catch(err => {
+                        console.error('Save error:', err);
+                        saveStatus.textContent = 'Error: ' + err.message;
+                        saveStatus.classList.remove('text-blue-500', 'text-emerald-500');
+                        saveStatus.classList.add('text-red-500');
+                    });
+                }, 1000); // 1 second delay
+            });
+        }
+    };
+
     // Toggle States
     function hideEmptyState() {
         emptyState.classList.add('opacity-0');
@@ -328,6 +436,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // Modal Logic
 window.openAgendaModal = (contactId) => {
     document.getElementById('agendaContactId').value = contactId;
+    document.getElementById('rescheduleActivityId').value = '';
     
     // Set default date to today, 1 hour from now
     const now = new Date();
@@ -341,14 +450,10 @@ window.openAgendaModal = (contactId) => {
     document.getElementById('agendaModal').classList.remove('hidden');
 };
 
-window.closeAgendaModal = () => {
-    document.getElementById('agendaModal').classList.add('hidden');
-    document.getElementById('agendaForm').reset();
-};
-
-// Modal Logic
-window.openAgendaModal = (contactId) => {
+window.openRescheduleModal = (e, activityId, contactId) => {
+    e.stopPropagation();
     document.getElementById('agendaContactId').value = contactId;
+    document.getElementById('rescheduleActivityId').value = activityId;
     
     // Set default date to today, 1 hour from now
     const now = new Date();
@@ -365,7 +470,14 @@ window.openAgendaModal = (contactId) => {
 window.closeAgendaModal = () => {
     document.getElementById('agendaModal').classList.add('hidden');
     document.getElementById('agendaForm').reset();
+    
+    // Re-initialize select2 if used
+    if ($.fn.select2) {
+        $('.select2-instructor').val(null).trigger('change');
+    }
 };
+
+
 
 window.submitAgendaForm = async (e) => {
     e.preventDefault();
@@ -403,6 +515,15 @@ window.submitAgendaForm = async (e) => {
             const contact = contacts.find(c => c.id == contactId);
             if (contact) {
                 if(!contact.trainings) contact.trainings = [];
+                // Mark old ticket as rescheduled if applicable
+                if (result.rescheduled_id) {
+                    const oldTst = contact.trainings.find(t => t.id == result.rescheduled_id);
+                    if (oldTst) {
+                        oldTst.status = 'rescheduled';
+                        oldTst.notes = oldTst.notes ? oldTst.notes + "\n\nREAGENDADO" : "REAGENDADO";
+                    }
+                }
+                
                 // API should return the fresh training object
                 contact.trainings.unshift(result.training);
             }
@@ -460,6 +581,9 @@ window.completeAgendaActivity = async (e, activityId, contactId) => {
             const listIndex = contacts.findIndex(c => c.id == contactId);
             if(listIndex !== -1) {
                 window.selectContact(listIndex);
+                
+                // Auto-open detail right pane for notes input
+                window.showActivityDetail(activityId, contactId);
                 
                 // Dynamically update the left sidebar list item badge
                 const listItem = document.querySelector(`.contact-item[data-id="${contactId}"]`);

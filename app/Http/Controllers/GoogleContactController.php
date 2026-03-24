@@ -52,7 +52,9 @@ class GoogleContactController extends Controller
     public function index()
     {
         // For now, return a basic view. The real view will be built in Frontend.
-        $contacts = GoogleContact::with('trainings')->orderBy('name')->get();
+        $contacts = GoogleContact::with(['trainings' => function($query) {
+            $query->latest();
+        }])->orderBy('name')->get();
         return view('contacts.index', compact('contacts'));
     }
 
@@ -74,8 +76,10 @@ class GoogleContactController extends Controller
             $userId = Auth::check() ? Auth::id() : 1; // Fallback to user 1 if not fully logged in for testing
 
             if ($connections) {
+                $syncedGoogleIds = [];
                 foreach ($connections as $person) {
                     $googleId = $person->getResourceName();
+                    $syncedGoogleIds[] = $googleId;
                     
                     $name = '';
                     if ($person->getNames() && count($person->getNames()) > 0) {
@@ -107,8 +111,15 @@ class GoogleContactController extends Controller
                             'photo_url' => $photo,
                             'etag' => $person->getEtag(),
                             'synced_at' => now(),
+                            'is_active' => true,
                         ]
                     );
+                }
+
+                // Archive the contacts that no longer exist in Google (to keep as backups)
+                if (count($syncedGoogleIds) > 0) {
+                    GoogleContact::whereNotIn('google_id', $syncedGoogleIds)
+                                 ->update(['is_active' => false]);
                 }
             }
 
@@ -180,9 +191,19 @@ class GoogleContactController extends Controller
             'title' => 'required|string|max:255',
             'scheduled_date' => 'required|date',
             'description' => 'nullable|string',
+            'reschedule_activity_id' => 'nullable|exists:trainings,id'
         ]);
 
         $contact = GoogleContact::findOrFail($id);
+
+        if ($request->filled('reschedule_activity_id')) {
+            $oldTraining = \App\Models\Training::find($request->reschedule_activity_id);
+            if ($oldTraining) {
+                $oldTraining->status = 'rescheduled';
+                $oldTraining->notes = empty($oldTraining->notes) ? 'REAGENDADO' : $oldTraining->notes . "\n\nREAGENDADO";
+                $oldTraining->save();
+            }
+        }
 
         $training = $contact->trainings()->create([
             'type' => $request->type,
@@ -194,7 +215,8 @@ class GoogleContactController extends Controller
 
         return response()->json([
             'success' => true,
-            'training' => $training
+            'training' => $training,
+            'rescheduled_id' => $request->reschedule_activity_id
         ]);
     }
 
@@ -205,6 +227,25 @@ class GoogleContactController extends Controller
     {
         $training = \App\Models\Training::findOrFail($activityId);
         $training->status = 'completed';
+        $training->save();
+
+        return response()->json([
+            'success' => true,
+            'training' => $training
+        ]);
+    }
+
+    /**
+     * Update the notes/description of a specific activity
+     */
+    public function updateActivityNotes(Request $request, $activityId)
+    {
+        $request->validate([
+            'notes' => 'nullable|string'
+        ]);
+
+        $training = \App\Models\Training::findOrFail($activityId);
+        $training->notes = $request->input('notes');
         $training->save();
 
         return response()->json([

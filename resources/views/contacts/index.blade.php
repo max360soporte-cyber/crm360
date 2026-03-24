@@ -29,6 +29,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
+    <!-- Select2 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f8fafc; transition: background-color 0.3s ease, color 0.3s ease; }
         .dark body { background-color: #0f172a; color: #f1f5f9; }
@@ -60,6 +63,19 @@
         /* Detail Pane Transition */
         .detail-pane { transition: opacity 0.3s ease; }
         .hidden-pane { opacity: 0; pointer-events: none; position: absolute; }
+
+        /* Select2 Dark Mode & Tailwind Fixes */
+        .dark .select2-container--default .select2-selection--single { background-color: #334155; border-color: #475569; height: 38px; display: flex; align-items: center; border-radius: 0.5rem; }
+        .dark .select2-container--default .select2-selection--single .select2-selection__rendered { color: #f1f5f9; line-height: normal; }
+        .dark .select2-container--default .select2-selection--single .select2-selection__arrow { height: 36px; top: 1px; }
+        .dark .select2-dropdown { background-color: #1e293b; border-color: #475569; color: #f1f5f9; z-index: 10000; }
+        .dark .select2-container--default .select2-results__option--selected { background-color: #3b82f6; color: white; }
+        .dark .select2-container--default .select2-results__option--highlighted.select2-results__option--selectable { background-color: #2563eb; color: white; }
+        .dark .select2-search--dropdown .select2-search__field { background-color: #0f172a; border-color: #334155; color: #f1f5f9; outline: none; }
+        
+        .select2-container--default .select2-selection--single { height: 38px; display: flex; align-items: center; border-radius: 0.5rem; border-color: #cbd5e1; outline: none; }
+        .select2-container--default .select2-selection--single .select2-selection__arrow { height: 36px; top: 1px; }
+        .select2-container { width: 100% !important; }
     </style>
     <script>
         // On page load or when changing themes, best to add inline in `head` to avoid FOUC
@@ -74,7 +90,7 @@
 
     <!-- Top Navigation -->
     <nav class="bg-white dark:bg-slate-800 border-b border-slate-200 dark:border-slate-700 shadow-sm z-10 transition-colors">
-        <div class="max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="w-full px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <div class="flex-shrink-0 flex items-center gap-2">
@@ -120,7 +136,7 @@
     </nav>
 
     <!-- Main Layout: Master-Detail -->
-    <div class="flex-1 flex overflow-hidden max-w-screen-2xl mx-auto w-full bg-white dark:bg-slate-900 shadow-xl lg:my-6 lg:rounded-2xl lg:border border-slate-200 dark:border-slate-800 transition-colors">
+    <div class="flex-1 flex overflow-hidden w-full bg-white dark:bg-slate-900 transition-colors">
         
         <!-- Left Pane: Master List -->
         <div class="w-full md:w-1/3 lg:w-96 flex flex-col border-r border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 z-10 relative transition-colors">
@@ -141,7 +157,7 @@
             <!-- Contacts List -->
             <ul id="contactsList" class="flex-1 overflow-y-auto" role="listbox" tabindex="0">
                 @forelse($contacts as $index => $contact)
-                    <li class="contact-item p-4 border-b border-slate-100 dark:border-slate-800 flex items-center gap-3 outline-none focus:bg-blue-50 dark:focus:bg-slate-800/50" 
+                    <li class="contact-item p-4 border-b border-slate-100 dark:border-slate-800 flex items-center gap-3 outline-none focus:bg-blue-50 dark:focus:bg-slate-800/50 {{ !$contact->is_active ? 'opacity-60 grayscale-[50%]' : '' }}" 
                         data-id="{{ $contact->id }}" 
                         data-index="{{ $index }}"
                         onclick="window.selectContact({{ $index }})">
@@ -204,6 +220,11 @@
                                             <i class="fa-solid fa-headset mr-0.5"></i> Soporte
                                         </span>
                                     @endif
+                                    @if(!$contact->is_active)
+                                        <span class="px-1.5 py-0.5 rounded text-[9px] font-bold uppercase tracking-wider bg-slate-200 text-slate-600 dark:bg-slate-700 dark:text-slate-300 border border-transparent shadow-sm" title="Contacto eliminado en Google">
+                                            <i class="fa-solid fa-box-archive mr-0.5"></i> Inactivo
+                                        </span>
+                                    @endif
                                 </div>
                             </div>
                         </div>
@@ -251,6 +272,7 @@
             <div class="inline-block align-bottom bg-white dark:bg-slate-800 rounded-2xl text-left overflow-hidden shadow-2xl transform transition-all sm:my-8 sm:align-middle sm:max-w-lg w-full border border-slate-200 dark:border-slate-700">
                 <form id="agendaForm" onsubmit="window.submitAgendaForm(event)">
                     <input type="hidden" id="agendaContactId" name="contact_id">
+                    <input type="hidden" id="rescheduleActivityId" name="reschedule_activity_id">
                     <div class="bg-white dark:bg-slate-800 px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
                         <div class="sm:flex sm:items-start">
                             <div class="mx-auto flex-shrink-0 flex items-center justify-center h-12 w-12 rounded-full bg-blue-100 dark:bg-blue-900/50 sm:mx-0 sm:h-10 sm:w-10">
@@ -281,8 +303,12 @@
                                         </div>
                                     </div>
                                     <div>
-                                        <label for="agendaTitle" class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Título corto (Asunto)</label>
-                                        <input type="text" id="agendaTitle" name="title" required class="w-full rounded-lg border border-slate-300 dark:border-slate-600 px-3 py-2 text-sm bg-white dark:bg-slate-700 text-slate-900 dark:text-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder="Ej. Inducción Modulo Pagos">
+                                        <label for="agendaTitle" class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Responsable</label>
+                                        <select id="agendaTitle" name="title" required class="w-full outline-none select2-instructor">
+                                            <option value="" disabled selected>Selecciona un responsable...</option>
+                                            <option value="FER">FER</option>
+                                            <option value="RONNY">RONNY</option>
+                                        </select>
                                     </div>
                                     <div>
                                         <label for="agendaDate" class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-1">Fecha y Hora</label>
@@ -350,6 +376,17 @@
                     localStorage.setItem('color-theme', 'dark');
                 }
             }
+        });
+    </script>
+    <!-- jQuery & Select2 -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.select2-instructor').select2({
+                placeholder: "Selecciona un responsable...",
+                dropdownParent: $('#agendaModal')
+            });
         });
     </script>
     <script src="{{ asset('js/contacts.js') }}?v={{ time() }}"></script>

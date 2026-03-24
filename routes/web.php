@@ -26,6 +26,7 @@ Route::prefix('contacts')->group(function () {
     Route::post('/{id}/notes', [GoogleContactController::class, 'updateNotes'])->name('contacts.notes.update');
     Route::post('/{id}/agenda', [GoogleContactController::class, 'storeAgenda'])->name('contacts.agenda.store');
     Route::patch('/activities/{activityId}/complete', [GoogleContactController::class, 'completeActivity'])->name('contacts.agenda.complete');
+    Route::patch('/activities/{activityId}/notes', [GoogleContactController::class, 'updateActivityNotes'])->name('contacts.agenda.notes');
 });
 
 Route::get('/debug-notes', function() {
