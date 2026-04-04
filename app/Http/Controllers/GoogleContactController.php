@@ -223,10 +223,13 @@ class GoogleContactController extends Controller
     /**
      * Mark an activity (Training/Support) as completed
      */
-    public function completeActivity($activityId)
+    public function completeActivity(Request $request, $activityId)
     {
         $training = \App\Models\Training::findOrFail($activityId);
         $training->status = 'completed';
+        if ($request->has('notes')) {
+            $training->notes = $request->input('notes');
+        }
         $training->save();
 
         return response()->json([

@@ -29,6 +29,10 @@ Route::prefix('contacts')->group(function () {
     Route::patch('/activities/{activityId}/notes', [GoogleContactController::class, 'updateActivityNotes'])->name('contacts.agenda.notes');
 });
 
+// Agenda/Calendar Routes
+Route::get('/calendar', [\App\Http\Controllers\CalendarController::class, 'index'])->name('calendar.index');
+Route::get('/api/events', [\App\Http\Controllers\CalendarController::class, 'events'])->name('api.events');
+
 Route::get('/debug-notes', function() {
     try {
         $contact = \App\Models\GoogleContact::first();

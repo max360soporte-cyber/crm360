@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const emptyState = document.getElementById('emptyState');
     const contentState = document.getElementById('contentState');
     const detailContent = document.getElementById('detailContent');
+    const clearSearch = document.getElementById('clearSearch');
 
     // Make list focusable for keyboard events to work without explicit click
     contactsList.setAttribute('tabindex', '0');
@@ -51,6 +52,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // 3. Search Filtering (Basic client-side)
     searchInput.addEventListener('input', (e) => {
         const term = e.target.value.toLowerCase();
+        
+        if (term.length > 0) {
+            clearSearch.classList.remove('hidden');
+        } else {
+            clearSearch.classList.add('hidden');
+        }
+
         Array.from(items).forEach((item, index) => {
             const name = contacts[index].name?.toLowerCase() || '';
             const phone = contacts[index].phone_number?.toLowerCase() || '';
@@ -67,6 +75,17 @@ document.addEventListener('DOMContentLoaded', () => {
         Array.from(items).forEach(el => el.classList.remove('selected'));
         showEmptyState();
     });
+
+    // Handle Clear Search
+    if (clearSearch) {
+        clearSearch.addEventListener('click', () => {
+            searchInput.value = '';
+            clearSearch.classList.add('hidden');
+            searchInput.focus();
+            // Trigger input event to reset filter
+            searchInput.dispatchEvent(new Event('input'));
+        });
+    }
 
     // 4. Render Details Pane
     function renderContactDetails(contact) {

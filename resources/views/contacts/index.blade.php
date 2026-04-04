@@ -1,49 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>CRM360 - Google Contacts Sync</title>
-    <!-- Using Tailwind via CDN for rapid prototyping of a modern, premium look -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            darkMode: 'class',
-            theme: {
-                extend: {
-                    colors: {
-                        dark: {
-                            bg: '#0f172a',
-                            surface: '#1e293b',
-                            border: '#334155',
-                            text: '#f1f5f9'
-                        }
-                    }
-                }
-            }
-        }
-    </script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!-- Select2 CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
-    
-    <style>
-        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; transition: background-color 0.3s ease, color 0.3s ease; }
-        .dark body { background-color: #0f172a; color: #f1f5f9; }
-        
-        /* Custom Scrollbar */
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
-        .dark ::-webkit-scrollbar-thumb { background: #334155; }
-        .dark ::-webkit-scrollbar-thumb:hover { background: #475569; }
+@extends('layouts.app')
 
+@section('title', 'CRM360 - Google Contacts Sync')
+
+@section('styles')
+    <style>
         /* Master List Items */
         .contact-item { transition: all 0.2s ease; border-left: 3px solid transparent; }
         .contact-item:hover { background-color: #f1f5f9; cursor: pointer; }
@@ -77,64 +37,9 @@
         .select2-container--default .select2-selection--single .select2-selection__arrow { height: 36px; top: 1px; }
         .select2-container { width: 100% !important; }
     </style>
-    <script>
-        // On page load or when changing themes, best to add inline in `head` to avoid FOUC
-        if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-            document.documentElement.classList.add('dark');
-        } else {
-            document.documentElement.classList.remove('dark')
-        }
-    </script>
-</head>
-<body class="h-screen overflow-hidden flex flex-col text-slate-800 dark:text-slate-200 dark:bg-slate-900 transition-colors duration-300">
+@endsection
 
-    <!-- Top Navigation -->
-    <nav class="bg-white dark:bg-slate-800 border-b border-slate-200 dark:border-slate-700 shadow-sm z-10 transition-colors">
-        <div class="w-full px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between h-16">
-                <div class="flex items-center">
-                    <div class="flex-shrink-0 flex items-center gap-2">
-                        <div class="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center text-white font-bold text-lg">
-                            C
-                        </div>
-                        <span class="font-bold text-xl tracking-tight text-slate-900 dark:text-white">CRM<span class="text-blue-600">360</span></span>
-                    </div>
-                </div>
-                <div class="flex items-center gap-4">
-                    <!-- Theme Toggle Button -->
-                    <button id="theme-toggle" type="button" class="text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700 focus:outline-none focus:ring-4 focus:ring-slate-200 dark:focus:ring-slate-700 rounded-lg text-sm p-2.5 transition-all">
-                        <i id="theme-toggle-dark-icon" class="hidden fa-solid fa-moon w-5 h-5 flex items-center justify-center text-lg"></i>
-                        <i id="theme-toggle-light-icon" class="hidden fa-solid fa-sun w-5 h-5 flex items-center justify-center text-lg text-yellow-500"></i>
-                    </button>
-
-                    @if(session('success'))
-                        <span class="text-sm text-emerald-600 bg-emerald-50 px-3 py-1 rounded-full border border-emerald-200 font-medium">
-                            <i class="fa-solid fa-circle-check mr-1"></i> {{ session('success') }}
-                        </span>
-                    @endif
-                    @if(session('error'))
-                        <span class="text-sm text-red-600 bg-red-50 px-3 py-1 rounded-full border border-red-200 font-medium">
-                            <i class="fa-solid fa-circle-exclamation mr-1"></i> {{ session('error') }}
-                        </span>
-                    @endif
-
-                    @if(!session('google_access_token'))
-                        <a href="{{ route('google.login') }}" class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors">
-                            <i class="fa-brands fa-google mr-2"></i> Connect Google Contacts
-                        </a>
-                    @else
-                        <a href="{{ route('contacts.match') }}" class="inline-flex items-center px-4 py-2 border border-emerald-300 dark:border-emerald-600 text-sm font-medium rounded-md text-emerald-700 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-900/30 hover:bg-emerald-100 dark:hover:bg-emerald-800/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-emerald-500 transition-colors shadow-sm">
-                            <i class="fa-solid fa-link mr-2 text-emerald-500 dark:text-emerald-400"></i> Emparejar Empresas
-                        </a>
-                        <a href="{{ route('contacts.sync') }}" class="inline-flex items-center px-4 py-2 border border-slate-300 dark:border-slate-600 text-sm font-medium rounded-md text-slate-700 dark:text-slate-200 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors">
-                            <i class="fa-solid fa-rotate mr-2 text-slate-500 dark:text-slate-400"></i> Sync Now
-                        </a>
-                    @endif
-                </div>
-            </div>
-        </div>
-    </nav>
-
+@section('content')
     <!-- Main Layout: Master-Detail -->
     <div class="flex-1 flex overflow-hidden w-full bg-white dark:bg-slate-900 transition-colors">
         
@@ -146,11 +51,14 @@
             </div>
             
             <div class="p-3 border-b border-slate-100 dark:border-slate-800 bg-slate-50 dark:bg-slate-900 transition-colors">
-                <div class="relative">
+                <div class="relative flex items-center">
                     <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <i class="fa-solid fa-magnifying-glass text-slate-400 dark:text-slate-500"></i>
                     </div>
-                    <input type="text" id="searchInput" class="block w-full pl-10 pr-3 py-2 border border-slate-200 dark:border-slate-800 rounded-lg leading-5 bg-white dark:bg-slate-800 placeholder-slate-400 dark:placeholder-slate-500 text-slate-900 dark:text-slate-100 focus:outline-none focus:bg-white dark:focus:bg-slate-800 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-all shadow-sm" placeholder="Search contacts...">
+                    <input type="text" id="searchInput" class="block w-full pl-10 pr-10 py-2 border border-slate-200 dark:border-slate-800 rounded-lg leading-5 bg-white dark:bg-slate-800 placeholder-slate-400 dark:placeholder-slate-500 text-slate-900 dark:text-slate-100 focus:outline-none focus:bg-white dark:focus:bg-slate-800 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-all shadow-sm" placeholder="Search contacts...">
+                    <button type="button" id="clearSearch" class="absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 hidden transition-colors" title="Clear search">
+                        <i class="fa-solid fa-circle-xmark"></i>
+                    </button>
                 </div>
             </div>
 
@@ -192,7 +100,6 @@
                                                 $badgeClass = 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-400';
                                                 $badgeText = 'Capacitado';
                                                 $badgeIcon = 'fa-check-circle';
-                                                // Completed overrides scheduled, but we keep checking for support
                                             }
                                             if ($t->status === 'scheduled' && $badgeText !== 'Capacitado') {
                                                 $badgeClass = 'bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-400';
@@ -334,61 +241,20 @@
             </div>
         </div>
     </div>
+@endsection
 
-    <!-- Pass Laravel data to JS -->
+@section('scripts')
     <script>
         window.contactsData = @json($contacts);
-
-        // Theme Toggle Logic
-        var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
-        var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
-
-        // Change the icons inside the button based on previous settings
-        if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-            themeToggleLightIcon.classList.remove('hidden');
-        } else {
-            themeToggleDarkIcon.classList.remove('hidden');
-        }
-
-        var themeToggleBtn = document.getElementById('theme-toggle');
-
-        themeToggleBtn.addEventListener('click', function() {
-            // toggle icons inside button
-            themeToggleDarkIcon.classList.toggle('hidden');
-            themeToggleLightIcon.classList.toggle('hidden');
-
-            // if set via local storage previously
-            if (localStorage.getItem('color-theme')) {
-                if (localStorage.getItem('color-theme') === 'light') {
-                    document.documentElement.classList.add('dark');
-                    localStorage.setItem('color-theme', 'dark');
-                } else {
-                    document.documentElement.classList.remove('dark');
-                    localStorage.setItem('color-theme', 'light');
-                }
-            // if NOT set via local storage previously
-            } else {
-                if (document.documentElement.classList.contains('dark')) {
-                    document.documentElement.classList.remove('dark');
-                    localStorage.setItem('color-theme', 'light');
-                } else {
-                    document.documentElement.classList.add('dark');
-                    localStorage.setItem('color-theme', 'dark');
-                }
+        
+        $(document).ready(function() {
+            if (!$('.select2-instructor').data('select2')) {
+                $('.select2-instructor').select2({
+                    placeholder: "Selecciona un responsable...",
+                    dropdownParent: $('#agendaModal')
+                });
             }
         });
     </script>
-    <!-- jQuery & Select2 -->
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            $('.select2-instructor').select2({
-                placeholder: "Selecciona un responsable...",
-                dropdownParent: $('#agendaModal')
-            });
-        });
-    </script>
     <script src="{{ asset('js/contacts.js') }}?v={{ time() }}"></script>
-</body>
-</html>
+@endsection
